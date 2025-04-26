@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>93</sentences><tokens>651</tokens><words>651</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>93</sentences><tokens>651</tokens><words>651</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="167" /><!-- <b_p>, <s_p>, яхаX, X, таркаX, яда-X, мада-X, харадX, манэˮ-X, марˮX, нэкал-X, серʼ, нёX, пулX, пыяX -->
+  <forms unique="243" /><!-- <b_p>, <s_p>, яхаʼ, мадав, ядадмʼ, нэкал-ӈав, серʼ, тамна, манэˮ-ӈадмʼ, марядʼ, пирця, пулʼ, яда, яхамʼ, ӈохолё -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="12">
+    <tag name="ADJ">21</tag><!-- пирця, саблюй, маханяӈы, сятаняӈы, ехэра-X, махалэйX, маханяӈэюмʼ, несэй, сятаняюX -->
+    <tag name="ADP">58</tag><!-- серʼ, нер-X, ниʼ, няʼ, няна, мюня, нид, ӈыламна, X, мюмня -->
+    <tag name="ADV">84</tag><!-- тамна, яда, тадтикахад, ӈобʼ, ӈохолё, тяхаʼ, тяхаˮ, ӈаниʼ, сятаняюʼ, тасиʼ -->
+    <tag name="AUX">1</tag><!-- тара -->
+    <tag name="DET">21</tag><!-- X, няби, тикыX, ӈаниʼ -->
+    <tag name="INTJ">1</tag><!-- <a_d> -->
+    <tag name="NOUN">173</tag><!-- яхаX, таркаX, харадX, марˮX, нёX, пулX, пыяX, ӈаноX, сиX, махалыX -->
+    <tag name="NUM">5</tag><!-- сидя, ӈопой -->
+    <tag name="PRON">3</tag><!-- мэ-X, тэва-X, ӈамгэ -->
+    <tag name="PUNCT">120</tag><!-- <b_p>, <s_p>, <w_n>, <n_n>, хэ-<b_p> -->
+    <tag name="VERB">123</tag><!-- яда-X, мада-X, манэˮ-X, нэкал-X, сыр-X, ну-X, сюрте-X, тэва-X, тана-X, таня- -->
+    <tag name="X">41</tag><!-- <s_p>, <b_p>, X, тодоʼ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="0">
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="23">
+    <dep name="advmod">5</dep>
+    <dep name="amod">16</dep>
+    <dep name="aux">1</dep>
+    <dep name="case">43</dep>
+    <dep name="ccomp">12</dep>
+    <dep name="dep">2</dep>
+    <dep name="dep:comp">5</dep>
+    <dep name="det">8</dep>
+    <dep name="det:poss">12</dep>
+    <dep name="discourse">40</dep>
+    <dep name="mark">2</dep>
+    <dep name="nmod">4</dep>
+    <dep name="nmod:poss">45</dep>
+    <dep name="nsubj">12</dep>
+    <dep name="nummod">2</dep>
+    <dep name="obj">44</dep>
+    <dep name="obl:arg">151</dep>
+    <dep name="obl:mod">2</dep>
+    <dep name="orphan">1</dep>
+    <dep name="parataxis">28</dep>
+    <dep name="punct">119</dep>
+    <dep name="reparandum">4</dep>
+    <dep name="root">93</dep>
+  </deps>
+</treebank>
