@@ -1,0 +1,1262 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_1
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = <s_p> маряд' нё' сивня мятюдм' сятаняю' мэв <s_p> сюртев <b_p>
+# text_ru = Я зашел в ворота забора, повернул влево.
+# text_en = I walked through the gate, turned left and walked on.
+1	<s_p>	<s_p>	X	_	_	2	discourse	_	AlignBegin=0|AlignEnd=979.856581104|Gloss=PAUSE
+2	маряд'	мар"X	NOUN	_	_	3	nmod:poss	_	AlignBegin=979.856581104|AlignEnd=1364.09832867|Gloss=fence-poss.gen.2sg
+3	нё'	нёX	NOUN	_	_	4	nmod:poss	_	AlignBegin=1364.09832867|AlignEnd=1685.14242038|Gloss=door-gen
+4	сивня	сиX	NOUN	_	_	5	obl:arg	_	AlignBegin=1685.14242038|AlignEnd=236.5213869|Gloss=hole-prol
+5	мятюдм'	мятю-X	VERB	_	_	0	root	_	AlignBegin=2036.5213869|AlignEnd=2898.53741269|Gloss=tent.step.in-1sg
+6	сятаняю'	сятаняю'	ADV	_	_	7	obl:arg	_	AlignBegin=2898.53741269|AlignEnd=3908.94746873|Gloss=to.the.left.pol
+7	мэв	мэ-X	VERB	_	_	5	parataxis	_	AlignBegin=3908.94746873|AlignEnd=4618.46112064|Gloss=take-1sg.sg
+8	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=4618.46112064|AlignEnd=5738.34719428|Gloss=SIL
+9	сюртев	сюрте-X	VERB	_	_	5	parataxis	_	AlignBegin=5738.34719428|AlignEnd=6359.53818393|Gloss=go.around-1sg.sg
+10	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=6359.53818393|AlignEnd=6711.90672276|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_2
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = таня' ядадм' <s_p>
+# text_ru = Иду туда.
+# text_en = I'm going in that direction.
+1	таня'	таня'	ADV	_	_	2	obl:arg	_	AlignBegin=6711.90672276|AlignEnd=6956.16604868|Gloss=there
+2	ядадм'	яда-X	VERB	_	_	0	root	_	AlignBegin=6956.16604868|AlignEnd=7501.47102912|Gloss=walk-1sg
+3	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=7501.47102912|AlignEnd=8269.11009909|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_3
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = яхам' <s_p> пул' нимня мадав <s_p>
+# text_ru = Я перешел реку через мост.
+# text_en = I crossed the river on the bridge.
+1	яхам'	яхаX	NOUN	_	_	5	obj	_	AlignBegin=8269.11009909|AlignEnd=8770.11585444|Gloss=river-acc
+2	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=8770.11585444|AlignEnd=8985.92207502|Gloss=PAUSE
+3	пул'	пулX	NOUN	_	_	5	obl:arg	_	AlignBegin=8985.92207502|AlignEnd=9269.59393294|Gloss=bridge-gen
+4	нимня	нимня	ADP	_	_	3	case	_	AlignBegin=9269.59393294|AlignEnd=9593.53182228|Gloss=at.prol
+5	мадав	мада-X	VERB	_	_	0	root	_	AlignBegin=9593.53182228|AlignEnd=10689.5760887|Gloss=pass.across-1sg.sg
+6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=10689.5760887|AlignEnd=11136.6510597|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_4
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = тадтикахад тамна тяха' ядадм' <b_p>
+# text_ru = Затем иду дальше.
+# text_en = Then I walked on.
+1	тадтикахад	тадтикахад	ADV	_	_	4	obl:arg	_	AlignBegin=11136.6510597|AlignEnd=11980.376089|Gloss=afterwards
+2	тамна	тамна	ADV	_	_	3	advmod	_	AlignBegin=11980.376089|AlignEnd=12328.9900969|Gloss=even
+3	тяха'	тяха"	ADV	_	_	4	obl:arg	_	AlignBegin=12328.9900969|AlignEnd=12475.4942703|Gloss=further
+4	ядадм'	яда-X	VERB	_	_	0	root	_	AlignBegin=12475.4942703|AlignEnd=12888.2497268|Gloss=walk-1sg
+5	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=12888.2497268|AlignEnd=12989.2795393|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_5
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = пям' манэ"-ӈадм' <b_p>
+# text_ru = Я увидел дерево.
+# text_en = I saw a tree.
+1	пям'	пяX	NOUN	_	_	2	obj	_	AlignBegin=12989.2795393|AlignEnd=13221.1482376|Gloss=tree-acc
+2	манэ"-ӈадм'	манэ"-X	VERB	_	_	0	root	_	AlignBegin=13221.1482376|AlignEnd=13753.2518798|Gloss=see-co-1sg
+3	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=13753.2518798|AlignEnd=14308.6925125|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_6
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = пям' сятаняӈы хэвувна -да маха'няю <b_p> яля' сер' сюртев <s_p>
+# text_ru = Я обошел дерево вокруг слева на право, по ходу солнца.
+# text_en = I walked around the tree from left to right, following the course of the sun.
+1	пям'	пяX	NOUN	_	_	9	obj	_	AlignBegin=14308.6925125|AlignEnd=14881.38378|Gloss=tree-acc
+2	сятаняӈы	сятаняӈы	ADJ	_	_	3	obl:arg	_	AlignBegin=14881.38378|AlignEnd=15563.5780387|Gloss=to.the.left.adj
+3	хэвувна	хэвX	NOUN	_	_	9	obl:arg	_	AlignBegin=15563.5780387|AlignEnd=16342.5998697|Gloss=side-prol
+4	-да	X	DET	_	_	3	det:poss	_	AlignBegin=15563.5780387|AlignEnd=16342.5998697|Gloss=-poss.3sg
+5	маха'няю	маха'няю	ADV	_	_	9	obl:arg	_	AlignBegin=16342.5998697|AlignEnd=17306.4743386|Gloss=to.the.right.pol
+6	<b_p>	<b_p>	X	_	_	5	discourse	_	AlignBegin=17306.4743386|AlignEnd=17605.7595618|Gloss=PAUSE
+7	яля'	яляX	NOUN	_	_	9	obl:arg	_	AlignBegin=17605.7595618|AlignEnd=17913.8472916|Gloss=sun-gen
+8	сер'	сер'	ADP	_	_	7	case	_	AlignBegin=17913.8472916|AlignEnd=18265.9475542|Gloss=at.the.time.of
+9	сюртев	сюрте-X	VERB	_	_	0	root	_	AlignBegin=18265.9475542|AlignEnd=19012.2239452|Gloss=go.around-1sg.sg
+10	<s_p>	<s_p>	PUNCT	_	_	9	punct	_	AlignBegin=19012.2239452|AlignEnd=19885.2282639|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_7
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = тикы' пуд <b_p> яхам' <s_p> таркахаю -та нямна <s_p> ӈохолырць <s_p> мадав <s_p>
+# text_ru = После я переплыл реку там, где находится его развилка.
+# text_en = Then I crossed the river by swimming along where it forks.
+1	тикы'	тикыX	DET	_	_	12	obl:arg	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|Gloss=that-gen
+2	пуд	пуд	ADP	_	_	1	dep:comp	_	AlignBegin=20134.6823599|AlignEnd=20652.628525|Gloss=after.abl
+3	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=20652.628525|AlignEnd=21543.9814893|Gloss=PAUSE
+4	яхам'	яхаX	NOUN	_	_	12	obj	_	AlignBegin=21543.9814893|AlignEnd=22108.9389461|Gloss=river-acc
+5	<s_p>	<s_p>	X	_	_	4	discourse	_	AlignBegin=22108.9389461|AlignEnd=25217.3576132|Gloss=PAUSE
+6	таркахаю	таркаX	NOUN	_	_	12	obl:arg	_	AlignBegin=25217.3576132|AlignEnd=26000.5024092|Gloss=fork-du
+7	-та	X	ADP	_	_	6	case	_	AlignBegin=25217.3576132|AlignEnd=26000.5024092|Gloss=-poss.gen.3sg
+8	нямна	нямна	ADP	_	_	6	case	_	AlignBegin=26000.5024092|AlignEnd=26635.3728789|Gloss=at.prol
+9	<s_p>	<s_p>	X	_	_	6	discourse	_	AlignBegin=26635.3728789|AlignEnd=27149.3460496|Gloss=PAUSE
+10	ӈохолырць	ӈохолыр-X	ADV	_	_	12	obj	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|Gloss=swim-cvb
+11	<s_p>	<s_p>	PUNCT	_	_	10	punct	_	AlignBegin=28605.2209462|AlignEnd=29210.9750403|Gloss=SIL
+12	мадав	мада-X	VERB	_	_	0	root	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|Gloss=pass.across-1sg.sg
+13	<s_p>	<s_p>	PUNCT	_	_	12	punct	_	AlignBegin=29756.3256595|AlignEnd=30472.4180002|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_8
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = тарка пыявна ӈадимядм' <b_p>
+# text_ru = Я оказался на мысу, который находится на развилке реки.
+# text_en = I ended up on a headland at the fork of the river.
+1	тарка	тарка	NOUN	_	_	2	nmod:poss	_	AlignBegin=30472.4180002|AlignEnd=30792.4253039|Gloss=fork
+2	пыявна	пыяX	NOUN	_	_	3	obl:arg	_	AlignBegin=30792.4253039|AlignEnd=31322.1166071|Gloss=end-prol
+3	ӈадимядм'	ӈадим-X	VERB	_	_	0	root	_	AlignBegin=31322.1166071|AlignEnd=31827.3382054|Gloss=appear-1sg
+4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=31827.3382054|AlignEnd=32428.677422|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_9
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = тарка' пыям мада"махада -ни <b_p> ӈани' ӈохолырць яха' няби таркам' мадав <b_p>
+# text_ru = После того как я перешел мыс на развилке я снова переплыл другой рукав реки.
+# text_en = After crossing the headland at the fork, I swam back across the other branch of the river.
+1	тарка'	таркаX	NOUN	_	_	2	nmod:poss	_	AlignBegin=32428.677422|AlignEnd=32779.8461562|Gloss=fork-gen
+2	пыям	пыяX	NOUN	_	_	3	obj	_	AlignBegin=32779.8461562|AlignEnd=33085.6141428|Gloss=end-acc
+3	мада"махада	мада-XX	VERB	_	_	11	ccomp	_	AlignBegin=33085.6141428|AlignEnd=34024.1519907|Gloss=pass.across-pfv.an-abl
+4	-ни	X	DET	_	_	3	det:poss	_	AlignBegin=33085.6141428|AlignEnd=34024.1519907|Gloss=-poss.1sg
+5	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=34024.1519907|AlignEnd=34219.50376|Gloss=SIL
+6	ӈани'	ӈани'	ADV	_	_	11	obl:arg	_	AlignBegin=34219.50376|AlignEnd=34567.7395226|Gloss=again
+7	ӈохолырць	ӈохолыр-X	ADV	_	_	11	obj	_	AlignBegin=34567.7395226|AlignEnd=35141.0544975|Gloss=swim-cvb
+8	яха'	яхаX	NOUN	_	_	10	nmod:poss	_	AlignBegin=35141.0544975|AlignEnd=35451.0692618|Gloss=river-gen
+9	няби	няби	DET	_	_	10	det	_	AlignBegin=35451.0692618|AlignEnd=35693.1355845|Gloss=other
+10	таркам'	таркаX	NOUN	_	_	11	obj	_	AlignBegin=35693.1355845|AlignEnd=36351.3861114|Gloss=fork-acc
+11	мадав	мада-X	VERB	_	_	0	root	_	AlignBegin=36351.3861114|AlignEnd=36895.055481|Gloss=pass.across-1sg.sg
+12	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=36895.055481|AlignEnd=37398.4418421|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_10
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = яха' иканя халя" танявы" <b_p>
+# text_ru = В реке были рыбы.
+# text_en = Apparently there were fish in the river.
+1	яха'	яхаX	NOUN	_	_	2	nmod:poss	_	AlignBegin=37398.4418421|AlignEnd=37600.8987442|Gloss=river-gen
+2	иканя	и"X	NOUN	_	_	4	obl:arg	_	AlignBegin=37600.8987442|AlignEnd=37971.2933848|Gloss=water-loc
+3	халя"	халяX	NOUN	_	_	4	nsubj	_	AlignBegin=37971.2933848|AlignEnd=38377.1749371|Gloss=fish-pl
+4	танявы"	таня-XX	VERB	_	_	0	root	_	AlignBegin=38377.1749371|AlignEnd=38922.7862041|Gloss=exist-infr.3sg-3pl
+5	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=38922.7862041|AlignEnd=40110.4887792|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_11
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = тикахад <s_p> маха'няку' мэхэя тамна тяха' яда нэкал-ӈав <s_p>
+# text_ru = После этого слегка повернув вправо, я пошел пешком дальше.
+# text_en = Then I turned slightly to the right and kept going.
+1	тикахад	тикахад	ADV	_	_	8	obl:arg	_	AlignBegin=40110.4887792|AlignEnd=40745.9218029|Gloss=then
+2	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=40745.9218029|AlignEnd=40972.1843671|Gloss=PAUSE
+3	маха'няку'	маха'няку'	ADV	_	_	4	obl:arg	_	AlignBegin=40972.1843671|AlignEnd=41566.4275574|Gloss=to.the.right.adv
+4	мэхэя	мэ-X	ADV	_	_	8	obj	_	AlignBegin=41566.4275574|AlignEnd=42256.3025503|Gloss=take-intens.cvb
+5	тамна	тамна	ADV	_	_	6	obl:arg	_	AlignBegin=42256.3025503|AlignEnd=42766.565119|Gloss=even
+6	тяха'	тяха"	ADV	_	_	8	obl:arg	_	AlignBegin=42766.565119|AlignEnd=42933.9312415|Gloss=further
+7	яда	яда	ADV	_	_	8	obl:arg	_	AlignBegin=42933.9312415|AlignEnd=43489.0969162|Gloss=on.foot
+8	нэкал-ӈав	нэкал-X	VERB	_	_	0	root	_	AlignBegin=43489.0969162|AlignEnd=44265.3529624|Gloss=pull-co-1sg.sg
+9	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=44265.3529624|AlignEnd=44576.8886332|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_12
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = ӈоб' ядадм' ядадм' <b_p>
+# text_ru = Все иду, иду.
+# text_en = I'm still going, I'm still going.
+1	ӈоб'	ӈоб'	ADV	_	_	2	obl:arg	_	AlignBegin=44576.8886332|AlignEnd=44893.2241976|Gloss=once
+2	ядадм'	яда-X	VERB	_	_	0	root	_	AlignBegin=44893.2241976|AlignEnd=45600.2101876|Gloss=walk-1sg
+3	ядадм'	яда-X	VERB	_	_	2	parataxis	_	AlignBegin=45600.2101876|AlignEnd=46220.1722889|Gloss=walk-1sg
+4	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=46220.1722889|AlignEnd=46473.4729404|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_13
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = нерни няна <s_p> пирця харадм' манэ"-ӈадм' <b_p>
+# text_ru = Впереди себя я увидел высокую башню(дом).
+# text_en = In front of me I saw a high house.
+1	нерни	нер-X	ADP	_	_	6	obl:arg	_	AlignBegin=46473.4729404|AlignEnd=47023.0522783|Gloss=in.front.of-poss.gen.1sg
+2	няна	няна	ADP	_	_	1	dep:comp	_	AlignBegin=47023.0522783|AlignEnd=47605.5841684|Gloss=at.loc
+3	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=47605.5841684|AlignEnd=47773.5701088|Gloss=PAUSE
+4	пирця	пирця	ADJ	_	_	5	amod	_	AlignBegin=47773.5701088|AlignEnd=48117.6703416|Gloss=tall
+5	харадм'	харадX	NOUN	_	_	6	obj	_	AlignBegin=48117.6703416|AlignEnd=48591.8242056|Gloss=house-acc
+6	манэ"-ӈадм'	манэ"-X	VERB	_	_	0	root	_	AlignBegin=48591.8242056|AlignEnd=49410.4035536|Gloss=see-co-1sg
+7	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=49410.4035536|AlignEnd=49793.0348731|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_14
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = пирця харад' сидя сидеранда си <s_p>
+# text_ru = У башни два окна.
+# text_en = The tower has two windows.
+1	пирця	пирця	ADJ	_	_	2	amod	_	AlignBegin=49793.0348731|AlignEnd=50240.5494267|Gloss=tall
+2	харад'	харадX	NOUN	_	_	5	nmod:poss	_	AlignBegin=50240.5494267|AlignEnd=50847.2638354|Gloss=house-gen
+3	сидя	сидя	NUM	_	_	5	nummod	_	AlignBegin=50847.2638354|AlignEnd=51130.5643651|Gloss=two
+4	сидеранда	сидер"X	NOUN	_	_	5	nmod:poss	_	AlignBegin=51130.5643651|AlignEnd=51619.4458102|Gloss=window-poss.gen.3sg
+5	си	си	NOUN	_	_	0	root	_	AlignBegin=51619.4458102|AlignEnd=52308.3703044|Gloss=hole
+6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=52308.3703044|AlignEnd=52667.8964056|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_15
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = танцянда таня <s_p> нёнда си таня <b_p>
+# text_ru = У нее есть лестница, у нее есть дверь.
+# text_en = It has a staircase, it has a door.
+1	танцянда	танцие"X	NOUN	_	_	2	nsubj	_	AlignBegin=52667.8964056|AlignEnd=53207.8639086|Gloss=stairs-poss.3sg
+2	таня	таня-	VERB	_	_	0	root	_	AlignBegin=53207.8639086|AlignEnd=53636.5818255|Gloss=exist.3sg
+3	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=53636.5818255|AlignEnd=53994.7512244|Gloss=SIL
+4	нёнда	нёX	NOUN	_	_	5	nmod:poss	_	AlignBegin=53994.7512244|AlignEnd=54339.3536007|Gloss=door-poss.gen.3sg
+5	си	си	NOUN	_	_	6	nsubj	_	AlignBegin=54339.3536007|AlignEnd=54513.0114911|Gloss=hole
+6	таня	таня-	VERB	_	_	2	parataxis	_	AlignBegin=54513.0114911|AlignEnd=55233.9521674|Gloss=exist.3sg
+7	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=55233.9521674|AlignEnd=55656.9591005|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_16
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = махалэйда <b_p> тю"у' ня' мятрев' саблюй <b_p>
+# text_ru = Ее крыша заострена вверх словно чум.
+# text_en = Its roof is pointed up like a chum (tent).
+1	махалэйда	махалыX	NOUN	_	_	6	nsubj	_	AlignBegin=55656.9591005|AlignEnd=56532.7236527|Gloss=roof-poss.3sg
+2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=56532.7236527|AlignEnd=56759.2741872|Gloss=X
+3	тю"у'	тю"у'	ADV	_	_	6	obl:arg	_	AlignBegin=56759.2741872|AlignEnd=57090.4130081|Gloss=upwards
+4	ня'	ня'	ADP	_	_	3	case	_	AlignBegin=57090.4130081|AlignEnd=57374.2032003|Gloss=at.abl
+5	мятрев'	мя	ADV	_	_	6	obl:arg	_	AlignBegin=57374.2032003|AlignEnd=58124.2201368|Gloss=tent.equ
+6	саблюй	саблюй	ADJ	_	_	0	root	_	AlignBegin=58124.2201368|AlignEnd=58927.4585285|Gloss=peak
+7	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=58927.4585285|AlignEnd=60628.7794315|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_17
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = ӈаво' пирка"на" нёнда син' тэвыв' <s_p>
+# text_ru = В какой-то момент я дошел до ее двери.
+# text_en = At one point I reached the door.
+1	ӈаво'	ӈамгэ	PRON	_	_	5	obl:arg	_	AlignBegin=60628.7794315|AlignEnd=61168.7965189|Gloss=what.gen.pl
+2	пирка"на"	пирканаX	ADP	_	_	1	case	_	AlignBegin=61168.7965189|AlignEnd=61888.1397788|Gloss=until.pl.loc-pl
+3	нёнда	нёX	NOUN	_	_	4	nmod:poss	_	AlignBegin=61888.1397788|AlignEnd=62251.2559215|Gloss=door-poss.gen.3sg
+4	син'	сиX	NOUN	_	_	5	obl:arg	_	AlignBegin=62251.2559215|AlignEnd=62544.3330073|Gloss=hole-dat
+5	тэвыв'	тэва-X	VERB	_	_	0	root	_	AlignBegin=62544.3330073|AlignEnd=62970.4986255|Gloss=arrive-1sg.refl
+6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=62970.4986255|AlignEnd=63317.6735539|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_18
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = танця' сер <s_p> тю"у' танэ-яв' <b_p>
+# text_ru = Я поднялся вверх по лестнице.
+# text_en = I went up the stairs.
+1	танця'	танцие"	NOUN	_	_	5	obl:arg	_	AlignBegin=63317.6735539|AlignEnd=63824.9406205|Gloss=stairs
+2	сер	сер'	ADP	_	_	1	case	_	AlignBegin=63824.9406205|AlignEnd=64175.5184841|Gloss=at.the.time.of
+3	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=64175.5184841|AlignEnd=64498.6368382|Gloss=PAUSE
+4	тю"у'	тю"у'	ADV	_	_	5	obl:arg	_	AlignBegin=64498.6368382|AlignEnd=64769.2885512|Gloss=upwards
+5	танэ-яв'	тана-X	VERB	_	_	0	root	_	AlignBegin=64769.2885512|AlignEnd=65303.2016143|Gloss=go.up-co.refl-1sg.refl
+6	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=65303.2016143|AlignEnd=68629.1001372|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_19
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = пирця харад' мюмня яда хаядм' <b_p>
+# text_ru = Я прошел по башне внутри.
+# text_en = I went inside the tower.
+1	пирця	пирця	ADJ	_	_	2	amod	_	AlignBegin=68629.1001372|AlignEnd=69166.4841485|Gloss=tall
+2	харад'	харадX	NOUN	_	_	5	obl:arg	_	AlignBegin=69166.4841485|AlignEnd=69663.2366938|Gloss=house-gen
+3	мюмня	мюмня	ADP	_	_	2	case	_	AlignBegin=69663.2366938|AlignEnd=70196.0393249|Gloss=in.prol
+4	яда	яда	ADV	_	_	5	obl:arg	_	AlignBegin=70196.0393249|AlignEnd=70590.8220156|Gloss=on.foot
+5	хаядм'	хая-X	VERB	_	_	0	root	_	AlignBegin=70590.8220156|AlignEnd=71074.3105835|Gloss=go-1sg
+6	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=71074.3105835|AlignEnd=71274.2032934|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_20
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = няби хэвувна -нда ӈани' несэй нё' сивна тарпыв' <b_p>
+# text_ru = С другой ее стороны я вышел в другую дверь.
+# text_en = On the other side I went out through another door.
+1	няби	няби	DET	_	_	2	det	_	AlignBegin=71274.2032934|AlignEnd=71663.4963372|Gloss=other
+2	хэвувна	хэвX	NOUN	_	_	8	obl:arg	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=side-prol
+3	-нда	X	DET	_	_	2	det:poss	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=-poss.3sg
+4	ӈани'	ӈани'	ADV	_	_	8	obl:arg	_	AlignBegin=72357.4367523|AlignEnd=72575.5323113|Gloss=again
+5	несэй	несэй	ADJ	_	_	6	amod	_	AlignBegin=72575.5323113|AlignEnd=72825.8465324|Gloss=new (other)
+6	нё'	нёX	NOUN	_	_	7	nmod:poss	_	AlignBegin=72825.8465324|AlignEnd=72986.9398431|Gloss=door-gen
+7	сивна	сиX	NOUN	_	_	8	obl:arg	_	AlignBegin=72986.9398431|AlignEnd=73316.5615402|Gloss=hole-prol
+8	тарпыв'	тарпа-X	VERB	_	_	0	root	_	AlignBegin=73316.5615402|AlignEnd=73974.5657552|Gloss=go.out-1sg.refl
+9	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=73974.5657552|AlignEnd=74190.6746981|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_21
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = танця' сер' ха"мыв' <s_p> тамна тяха' ядал-ъяв' <b_p> сятаняю' сюртев <b_p>
+# text_ru = Я спустился по лестнице, стал идти дальше, повернул налево.
+# text_en = I went down the stairs, started walking and turned left.
+1	танця'	танцие"	NOUN	_	_	3	obl:arg	_	AlignBegin=74190.6746981|AlignEnd=74593.3610876|Gloss=stairs
+2	сер'	сер'	ADP	_	_	1	case	_	AlignBegin=74593.3610876|AlignEnd=74909.5454341|Gloss=at.the.time.of
+3	ха"мыв'	ха"ма-X	VERB	_	_	0	root	_	AlignBegin=74909.5454341|AlignEnd=75539.0428681|Gloss=go.down-1sg.refl
+4	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=75539.0428681|AlignEnd=76514.9480759|Gloss=SIL
+5	тамна	тамна	ADV	_	_	6	obl:arg	_	AlignBegin=76514.9480759|AlignEnd=76730.496334|Gloss=even
+6	тяха'	тяха"	ADV	_	_	7	obl:arg	_	AlignBegin=76730.496334|AlignEnd=76860.0911208|Gloss=further
+7	ядал-ъяв'	ядал-X	VERB	_	_	3	parataxis	_	AlignBegin=76860.0911208|AlignEnd=77465.0598865|Gloss=go.forth-co.refl-1sg.refl
+8	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=77465.0598865|AlignEnd=77603.7923302|Gloss=SIL
+9	сятаняю'	сятаняю'	ADV	_	_	10	obl:arg	_	AlignBegin=77603.7923302|AlignEnd=78351.9468402|Gloss=to.the.left.pol
+10	сюртев	сюрте-X	VERB	_	_	3	parataxis	_	AlignBegin=78351.9468402|AlignEnd=79174.4365557|Gloss=go.around-1sg.sg
+11	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=79174.4365557|AlignEnd=79523.7980109|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_22
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = сятаняю' ядадм' ядадм' ӈоб' ядадм' <b_p>
+# text_ru = Влево иду-иду, все иду.
+# text_en = I turned left and walked on.
+1	сятаняю'	сятаняю'	ADV	_	_	2	obl:arg	_	AlignBegin=79523.7980109|AlignEnd=80531.2139683|Gloss=to.the.left.pol
+2	ядадм'	яда-X	VERB	_	_	0	root	_	AlignBegin=80531.2139683|AlignEnd=81342.3379275|Gloss=walk-1sg
+3	ядадм'	яда-X	VERB	_	_	2	parataxis	_	AlignBegin=81342.3379275|AlignEnd=81929.591674|Gloss=walk-1sg
+4	ӈоб'	ӈоб'	ADV	_	_	5	obl:arg	_	AlignBegin=81929.591674|AlignEnd=82270.2637369|Gloss=once
+5	ядадм'	яда-X	VERB	_	_	2	parataxis	_	AlignBegin=82270.2637369|AlignEnd=82856.4998215|Gloss=walk-1sg
+6	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=82856.4998215|AlignEnd=83119.6188647|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_23
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = ехэрана ӈани ӈопой маряд -м' манэ"-ӈадм' <s_p>
+# text_ru = Увидел еще один незнакомый забор.
+# text_en = I saw another unfamiliar fence.
+1	ехэрана	ехэра-X	ADJ	_	_	4	obj	_	AlignBegin=83119.6188647|AlignEnd=83892.8338419|Gloss=not.know-ptcp.cont
+2	ӈани	ӈани'	DET	_	_	4	det	_	AlignBegin=83892.8338419|AlignEnd=84156.7517054|Gloss=other
+3	ӈопой	ӈопой	NUM	_	_	4	dep	_	AlignBegin=84156.7517054|AlignEnd=84462.4783394|Gloss=one
+4	маряд	мар"X	NOUN	_	_	6	obj	_	AlignBegin=84462.4783394|AlignEnd=85298.6537487|Gloss=fence-?predest?
+5	-м'	X	ADP	_	_	4	case	_	AlignBegin=84462.4783394|AlignEnd=85298.6537487|Gloss=-acc
+6	манэ"-ӈадм'	манэ"-X	VERB	_	_	0	root	_	AlignBegin=85298.6537487|AlignEnd=85803.731728|Gloss=see-co-1sg
+7	<s_p>	<s_p>	PUNCT	_	_	6	punct	_	AlignBegin=85803.731728|AlignEnd=86338.7574292|Gloss=SIL
+
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_24
+# sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
+# text = маряд' тяхана <s_p> тэхэ' танявэхэ" <s_p>
+# text_ru = За забором оказались два оленя.
+# text_en = Two deer appeared to be behind the fence.
+1	маряд'	мар"X	NOUN	_	_	5	obl:arg	_	AlignBegin=86338.7574292|AlignEnd=86736.2373378|Gloss=fence-poss.gen.2sg
+2	тяхана	тяхана	ADP	_	_	1	case	_	AlignBegin=86736.2373378|AlignEnd=87183.7502707|Gloss=behind.loc
+3	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=87183.7502707|AlignEnd=87492.4775472|Gloss=PAUSE
+4	тэхэ'	тыX	NOUN	_	_	5	nsubj	_	AlignBegin=87492.4775472|AlignEnd=87855.0196701|Gloss=reindeer-du
+5	танявэхэ"	таня-XX	VERB	_	_	0	root	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=exist-infr.3sg-3du
+6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=88429.9888181|AlignEnd=89268.707483|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_1
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = <b_p> маряд' мюня нудм' <b_p>
+# text_ru = Стою за забором.
+# text_en = I am standing behind the fence.
+1	<b_p>	<b_p>	X	_	_	2	discourse	_	AlignBegin=0|AlignEnd=894.114627823|Gloss=PAUSE
+2	маряд'	мар"X	NOUN	_	_	4	obl:arg	_	AlignBegin=894.114627823|AlignEnd=1329.4238186|Gloss=fence-gen.poss.2sg
+3	мюня	мюня	ADP	_	_	2	case	_	AlignBegin=1329.4238186|AlignEnd=1658.01204648|Gloss=in.loc
+4	нудм'	ну-X	VERB	_	_	0	root	_	AlignBegin=1658.01204648|AlignEnd=2298.33782388|Gloss=stand-1sg
+5	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=2298.33782388|AlignEnd=2731.8672434|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_2
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = маряд' мюня нум' <b_p>
+# text_ru = Стою за забором.
+# text_en = I am standing behind the fence.
+1	маряд'	мар"X	NOUN	_	_	3	obl:arg	_	AlignBegin=2731.8672434|AlignEnd=3440.72925263|Gloss=fence-gen.poss.2sg
+2	мюня	мюня	ADP	_	_	1	case	_	AlignBegin=3440.72925263|AlignEnd=3713.90114771|Gloss=in.loc
+3	нум'	ну-X	VERB	_	_	0	root	_	AlignBegin=3713.90114771|AlignEnd=4228.83053543|Gloss=stand-1sg
+4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=4228.83053543|AlignEnd=5942.22073504|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_3
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = маряд'<a> <a_d> <p_r>маря<u_l> <e_r>маряд' <a>мюня нудм'
+# text_ru = Стою за забором.
+# text_en = I <aham> fence, fence behind stand.
+1	маряд'<a>	мар"X	NOUN	_	_	6	obl:arg	_	AlignBegin=5942.22073504|AlignEnd=7001.65870127|Gloss=fence-gen.poss.2sg
+2	<a_d>	<a_d>	INTJ	_	_	3	discourse	_	AlignBegin=7001.65870127|AlignEnd=7612.32719612|Gloss=DISFL
+3	<p_r>маря<u_l>	мар"	NOUN	_	_	1	reparandum	_	AlignBegin=7612.32719612|AlignEnd=8005.39543677|Gloss=fence
+4	<e_r>маряд'	мар"X	NOUN	_	_	1	reparandum	_	AlignBegin=8005.39543677|AlignEnd=8294.08141756|Gloss=fence-gen.poss.2sg
+5	<a>мюня	мюня	ADP	_	_	1	case	_	AlignBegin=8294.08141756|AlignEnd=9211.31117722|Gloss=in.loc
+6	нудм'	ну-X	VERB	_	_	0	root	_	AlignBegin=9211.31117722|AlignEnd=9726.4004168|Gloss=stand-1sg
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_4
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = тикахана сидя ты таня-ӈаха" <b_p>
+# text_ru = Там есть два оленя.
+# text_en = There are two reindeer.
+1	тикахана	тикахана	ADV	_	_	4	obl:arg	_	AlignBegin=9726.4004168|AlignEnd=10065.6804789|Gloss=there
+2	сидя	сидя	NUM	_	_	3	nummod	_	AlignBegin=10065.6804789|AlignEnd=10345.3191277|Gloss=two
+3	ты	ты	NOUN	_	_	4	nsubj	_	AlignBegin=10345.3191277|AlignEnd=10534.5482886|Gloss=reindeer
+4	таня-ӈаха"	таня-X	VERB	_	_	0	root	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=exist-co-3du
+5	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=11123.2612336|AlignEnd=12149.0106819|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_5
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = сидя тэхэ' няд <b_p> маряд' нимня <s_p> маряд' тяха' санэйв' <b_p>
+# text_ru = От двух оленей я перепрыгнул за забор.
+# text_en = I jump over the fence, away from the two reindeer.
+1	сидя	сидя	NUM	_	_	2	dep	_	AlignBegin=12149.0106819|AlignEnd=12586.7149385|Gloss=two
+2	тэхэ'	тыX	NOUN	_	_	10	obl:arg	_	AlignBegin=12586.7149385|AlignEnd=12824.7997081|Gloss=reindeer-du
+3	няд	няд	ADP	_	_	2	case	_	AlignBegin=12824.7997081|AlignEnd=13239.2264462|Gloss=at.abl
+4	<b_p>	<b_p>	X	_	_	2	discourse	_	AlignBegin=13239.2264462|AlignEnd=13464.7800314|Gloss=PAUSE
+5	маряд'	мар"X	NOUN	_	_	6	nmod:poss	_	AlignBegin=13464.7800314|AlignEnd=13846.8221338|Gloss=fence-gen.poss.2sg
+6	нимня	ни-X	NOUN	_	_	10	obl:arg	_	AlignBegin=13846.8221338|AlignEnd=14562.1629269|Gloss=top-prol
+7	<s_p>	<s_p>	X	_	_	6	discourse	_	AlignBegin=14562.1629269|AlignEnd=15559.9120313|Gloss=PAUSE
+8	маряд'	мар"X	NOUN	_	_	10	obl:arg	_	AlignBegin=15559.9120313|AlignEnd=15896.6739308|Gloss=fence-gen.poss.2sg
+9	тяха'	тяха'	ADP	_	_	8	case	_	AlignBegin=15896.6739308|AlignEnd=16227.66983|Gloss=over
+10	санэйв'	санэй-X	VERB	_	_	0	root	_	AlignBegin=16227.66983|AlignEnd=17169.0871481|Gloss=jump-1sg.refl
+11	<b_p>	<b_p>	PUNCT	_	_	10	punct	_	AlignBegin=17169.0871481|AlignEnd=17763.2745385|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_6
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = сана"махада -ни' яда <s_p> тамна тяха' нэкал-ӈав <b_p>
+# text_ru = После того как я перепрыгнул, пошел дальше.
+# text_en = After jumping, I continue walking.
+1	сана"махада	сана-XX	VERB	_	_	7	ccomp	_	AlignBegin=17763.2745385|AlignEnd=18598.7361594|Gloss=jump-pfv.an-abl
+2	-ни'	X	DET	_	_	1	det:poss	_	AlignBegin=17763.2745385|AlignEnd=18598.7361594|Gloss=-poss.1sg
+3	яда	яда	ADV	_	_	7	obl:arg	_	AlignBegin=18598.7361594|AlignEnd=19334.6935293|Gloss=on.foot
+4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=19334.6935293|AlignEnd=19746.1749901|Gloss=PAUSE
+5	тамна	тамна	ADV	_	_	6	obl:arg	_	AlignBegin=19746.1749901|AlignEnd=19918.0531239|Gloss=even
+6	тяха'	тяха'	ADV	_	_	7	obl:arg	_	AlignBegin=19918.0531239|AlignEnd=20012.1239295|Gloss=further
+7	нэкал-ӈав	нэкал-X	VERB	_	_	0	root	_	AlignBegin=20012.1239295|AlignEnd=20570.929513|Gloss=pull-co-1sg.sg
+8	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=20570.929513|AlignEnd=21124.9407683|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_7
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = нерни' няна <s_p> пирця харадм' манэ"-ӈадм' <b_p>
+# text_ru = Впереди я увидел высокую башню.
+# text_en = I see a tall tower in front of me.
+1	нерни'	нер-X	ADP	_	_	6	obl:arg	_	AlignBegin=21124.9407683|AlignEnd=21678.6454018|Gloss=in.front.of-poss.gen.1sg
+2	няна	няна	ADP	_	_	1	dep:comp	_	AlignBegin=21678.6454018|AlignEnd=22449.647707|Gloss=at.loc
+3	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=22449.647707|AlignEnd=22599.2212777|Gloss=PAUSE
+4	пирця	пирця	ADJ	_	_	5	amod	_	AlignBegin=22599.2212777|AlignEnd=23198.5464252|Gloss=tall
+5	харадм'	харадX	NOUN	_	_	6	obj	_	AlignBegin=23198.5464252|AlignEnd=23679.3582309|Gloss=house-acc
+6	манэ"-ӈадм'	манэ"-X	VERB	_	_	0	root	_	AlignBegin=23679.3582309|AlignEnd=24143.9422642|Gloss=see-co-1sg
+7	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=24143.9422642|AlignEnd=24542.4770011|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_8
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = махалэйда мятрев' саблюй <b_p>
+# text_ru = Его крыша острая как чум.
+# text_en = Its roof is pointed like a chum (tent).
+1	махалэйда	махалыX	NOUN	_	_	3	nsubj	_	AlignBegin=24542.4770011|AlignEnd=25130.0951222|Gloss=roof-poss.3sg
+2	мятрев'	мя	ADV	_	_	3	obl:arg	_	AlignBegin=25130.0951222|AlignEnd=25678.8455248|Gloss=tent.equ
+3	саблюй	саблюй	ADJ	_	_	0	root	_	AlignBegin=25678.8455248|AlignEnd=26181.8667272|Gloss=peak
+4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=26181.8667272|AlignEnd=26911.8292512|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_9
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = сидя сидеранда си <s_p> <w_n> нёнда си таня <b_p>
+# text_ru = У неё два окна и есть дверь.
+# text_en = It has two windows and a door.
+1	сидя	сидя	NUM	_	_	3	obl:arg	_	AlignBegin=26911.8292512|AlignEnd=27237.6456069|Gloss=two
+2	сидеранда	сидер"X	NOUN	_	_	3	nmod:poss	_	AlignBegin=27237.6456069|AlignEnd=27735.6149465|Gloss=window-gen.poss.3sg
+3	си	си	NOUN	_	_	8	nsubj	_	AlignBegin=27735.6149465|AlignEnd=28467.4789758|Gloss=hole
+4	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=28467.4789758|AlignEnd=29372.877775|Gloss=SIL
+5	<w_n>	<w_n>	PUNCT	_	_	4	punct	_	AlignBegin=28467.4789758|AlignEnd=29372.877775|Gloss=NOISE
+6	нёнда	нёX	NOUN	_	_	7	nmod:poss	_	AlignBegin=29372.877775|AlignEnd=29784.0797296|Gloss=door-gen.poss.3sg
+7	си	си	NOUN	_	_	3	parataxis	_	AlignBegin=29784.0797296|AlignEnd=29934.9795295|Gloss=hole
+8	таня	таня-	VERB	_	_	0	root	_	AlignBegin=29934.9795295|AlignEnd=30315.6963153|Gloss=exist.3sg
+9	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=30315.6963153|AlignEnd=30671.1607217|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_10
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = нёнд<u_l> си танцянзавэй <n_n> <b_p>
+# text_ru = Его дверь имеет летницу.
+# text_en = Its door has stairs ("its door is bestaired").
+1	нёнд<u_l>	нё-нда	NOUN	_	_	2	nmod:poss	_	AlignBegin=30671.1607217|AlignEnd=30877.2495651|Gloss=door-gen.poss.3sg
+2	си	си	NOUN	_	_	3	nsubj	_	AlignBegin=30877.2495651|AlignEnd=31019.2040259|Gloss=hole
+3	танцянзавэй	танцие"	NOUN	_	_	0	root	_	AlignBegin=31019.2040259|AlignEnd=31726.688731|Gloss=stairs.com
+4	<n_n>	<n_n>	PUNCT	_	_	3	punct	_	AlignBegin=31726.688731|AlignEnd=32033.8557966|Gloss=NOISE
+5	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=32033.8557966|AlignEnd=32527.7821481|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_11
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = танця' сер' танэ-йв' <b_p>
+# text_ru = По лестнице я поднялся вверх.
+# text_en = I walk up the stairs.
+1	танця'	танцие"	NOUN	_	_	3	obl:arg	_	AlignBegin=32527.7821481|AlignEnd=32862.3592078|Gloss=stairs
+2	сер'	сер'	ADP	_	_	1	case	_	AlignBegin=32862.3592078|AlignEnd=33230.9993945|Gloss=at.the.time.of
+3	танэ-йв'	танаX	VERB	_	_	0	root	_	AlignBegin=33230.9993945|AlignEnd=33807.3716915|Gloss=go.up-1sg.refl
+4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=33807.3716915|AlignEnd=34171.2444176|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_12
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = нё' сивня мяттюдм' <s_p>
+# text_ru = Зашел в дверь.
+# text_en = I go through the door.
+1	нё'	нёX	NOUN	_	_	2	nmod:poss	_	AlignBegin=34171.2444176|AlignEnd=34338.5702354|Gloss=door-gen
+2	сивня	сиX	NOUN	_	_	3	obl:arg	_	AlignBegin=34338.5702354|AlignEnd=34667.1340567|Gloss=hole-prol
+3	мяттюдм'	мяттю-X	VERB	_	_	0	root	_	AlignBegin=34667.1340567|AlignEnd=35409.7926229|Gloss=enter-1sg
+4	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=35409.7926229|AlignEnd=36544.8798626|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_13
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = маха саблюй пирця харад' мюмня <s_p> ирт' хаядм' <s_p>
+# text_ru = Башню с острой крышей я прошел насквозь.
+# text_en = I walk through the tower with the pointed roof.
+1	маха	махалы	NOUN	_	_	4	nmod	_	AlignBegin=36544.8798626|AlignEnd=36918.2698069|Gloss=roof
+2	саблюй	саблюй	ADJ	_	_	1	amod	_	AlignBegin=36918.2698069|AlignEnd=37597.3848717|Gloss=peak
+3	пирця	пирця	ADJ	_	_	4	amod	_	AlignBegin=37597.3848717|AlignEnd=37973.5101384|Gloss=tall
+4	харад'	харадX	NOUN	_	_	8	obl:arg	_	AlignBegin=37973.5101384|AlignEnd=38386.2031393|Gloss=house-gen
+5	мюмня	мюмня	ADP	_	_	4	case	_	AlignBegin=38386.2031393|AlignEnd=39331.7402681|Gloss=through.prol
+6	<s_p>	<s_p>	X	_	_	4	discourse	_	AlignBegin=39331.7402681|AlignEnd=40256.3815486|Gloss=PAUSE
+7	ирт'	ирт'	ADV	_	_	8	obl:arg	_	AlignBegin=40256.3815486|AlignEnd=40789.2256764|Gloss=straight
+8	хаядм'	хая-X	VERB	_	_	0	root	_	AlignBegin=40789.2256764|AlignEnd=41194.0065724|Gloss=go-1sg
+9	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=41194.0065724|AlignEnd=41661.6167346|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_14
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = няр" мадав <b_p>
+# text_ru = Поперек пересек ее.
+# text_en = I cross it.
+1	няр"	няр"	ADV	_	_	2	obl:arg	_	AlignBegin=41661.6167346|AlignEnd=41950.7867283|Gloss=across
+2	мадав	мада-X	VERB	_	_	0	root	_	AlignBegin=41950.7867283|AlignEnd=42467.0189403|Gloss=pass.across-1sg.sg
+3	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=42467.0189403|AlignEnd=42837.9278509|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_15
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = няби нё' сивня <s_p> тарпыв' <s_p>
+# text_ru = Я вышел через другую дверь.
+# text_en = I go out the other door.
+1	няби	няби	DET	_	_	3	det	_	AlignBegin=42837.9278509|AlignEnd=43108.1926069|Gloss=other
+2	нё'	нёX	NOUN	_	_	3	nmod:poss	_	AlignBegin=43108.1926069|AlignEnd=43366.8506481|Gloss=door-gen
+3	сивня	сиX	NOUN	_	_	5	obl:arg	_	AlignBegin=43366.8506481|AlignEnd=43919.5993389|Gloss=hole-prol
+4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=43919.5993389|AlignEnd=45638.0808454|Gloss=PAUSE
+5	тарпыв'	тарпа-X	VERB	_	_	0	root	_	AlignBegin=45638.0808454|AlignEnd=46026.7041236|Gloss=walk.out-1sg.refl
+6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=46026.7041236|AlignEnd=46315.9520775|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_16
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = харадм' хэхэдёйтав <b_p>
+# text_ru = Я прошел дом насквозь.
+# text_en = I cross the house.
+1	харадм'	харадX	NOUN	_	_	2	obj	_	AlignBegin=46315.9520775|AlignEnd=46760.2228806|Gloss=house-acc
+2	хэхэдёйтав	хэхэдёйта-X	VERB	_	_	0	root	_	AlignBegin=46760.2228806|AlignEnd=47284.7245968|Gloss=run.across-1sg.sg
+3	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=47284.7245968|AlignEnd=48294.6893507|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_17
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = нё' сим' нэв танця' сер' ха"амыв' <b_p>
+# text_ru = Открыл дверь и спустился по лестнице.
+# text_en = I open the door and go down the stairs.
+1	нё'	нёX	NOUN	_	_	2	nmod:poss	_	AlignBegin=48294.6893507|AlignEnd=48554.957965|Gloss=door-gen
+2	сим'	сиX	NOUN	_	_	3	obj	_	AlignBegin=48554.957965|AlignEnd=48763.6882398|Gloss=hole-acc
+3	нэв	нэ-X	VERB	_	_	0	root	_	AlignBegin=48763.6882398|AlignEnd=49039.4183559|Gloss=open-1sg.sg
+4	танця'	танцие"	NOUN	_	_	6	obl:arg	_	AlignBegin=49039.4183559|AlignEnd=49428.5328189|Gloss=stairs
+5	сер'	сер'	ADP	_	_	4	case	_	AlignBegin=49428.5328189|AlignEnd=49572.8401694|Gloss=at.the.time.of
+6	ха"амыв'	ха"амы-X	VERB	_	_	3	parataxis	_	AlignBegin=49572.8401694|AlignEnd=50416.4358904|Gloss=go.down-1sg.refl
+7	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=50416.4358904|AlignEnd=51195.2576167|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_18
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = яда нэкал-ӈав маханякубта мэв <b_p>
+# text_ru = Я пошел пешком, повернул слегка вправо.
+# text_en = I walk and turn right.
+1	яда	яда	ADV	_	_	2	obl:arg	_	AlignBegin=51195.2576167|AlignEnd=51449.1334947|Gloss=on.foot
+2	нэкал-ӈав	нэкал-X	VERB	_	_	0	root	_	AlignBegin=51449.1334947|AlignEnd=51865.0578054|Gloss=pull-1sg.sg
+3	маханякубта	маханякубта	NOUN	_	_	4	obl:arg	_	AlignBegin=51865.0578054|AlignEnd=52464.6370066|Gloss=right.side
+4	мэв	мэ-X	VERB	_	_	2	parataxis	_	AlignBegin=52464.6370066|AlignEnd=53043.5989992|Gloss=take-1sg.sg
+5	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=53043.5989992|AlignEnd=53489.5329832|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_19
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = маханякубта' мимани' сер' яха' таркавна ӈадимядм' <b_p>
+# text_ru = Пока шел слегка вправо, пришел на развилку реки.
+# text_en = As I walk to the right, I come to a fork in the river.
+1	маханякубта'	маханякубтаX	NOUN	_	_	2	obl:arg	_	AlignBegin=53489.5329832|AlignEnd=54096.3969304|Gloss=right.side-gen
+2	мимани'	ми-XX	VERB	_	_	6	ccomp	_	AlignBegin=54096.3969304|AlignEnd=54540.9151083|Gloss=go-ipfv.an-gen.poss.1sg
+3	сер'	сер'	ADP	_	_	2	mark	_	AlignBegin=54540.9151083|AlignEnd=55213.4904383|Gloss=at.the.time.of
+4	яха'	яхаX	NOUN	_	_	5	nmod:poss	_	AlignBegin=55213.4904383|AlignEnd=55476.3359696|Gloss=river-gen
+5	таркавна	таркаX	NOUN	_	_	6	obl:arg	_	AlignBegin=55476.3359696|AlignEnd=55944.0464002|Gloss=fork-prol
+6	ӈадимядм'	ӈадим-X	VERB	_	_	0	root	_	AlignBegin=55944.0464002|AlignEnd=56527.9190657|Gloss=appear-1sg
+7	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=56527.9190657|AlignEnd=57502.863929|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_20
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = няби яха' таркам' ӈохолё мадав <s_p>
+# text_ru = Один рукав реки я переплыл вплавь.
+# text_en = I swim across the river.
+1	няби	няби	DET	_	_	3	det	_	AlignBegin=57502.863929|AlignEnd=57830.1323846|Gloss=other
+2	яха'	яхаX	NOUN	_	_	3	nmod:poss	_	AlignBegin=57830.1323846|AlignEnd=57995.0550709|Gloss=river-gen
+3	таркам'	таркаX	NOUN	_	_	5	obj	_	AlignBegin=57995.0550709|AlignEnd=58286.2466889|Gloss=fork-acc
+4	ӈохолё	ӈохолё	ADV	_	_	5	obl:arg	_	AlignBegin=58286.2466889|AlignEnd=58667.6304009|Gloss=swim.cvb
+5	мадав	мада-X	VERB	_	_	0	root	_	AlignBegin=58667.6304009|AlignEnd=59179.633489|Gloss=pass.across-1sg.sg
+6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=59179.633489|AlignEnd=59541.2127879|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_21
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = тарканда пыя' ни' танэйв' <b_p>
+# text_ru = Поднялся на его мыс на развилке.
+# text_en = I climb up at the end of the fork.
+1	тарканда	таркаX	NOUN	_	_	2	nmod:poss	_	AlignBegin=59541.2127879|AlignEnd=59969.9522583|Gloss=fork-gen.poss.3sg
+2	пыя'	пыяX	NOUN	_	_	4	obl:arg	_	AlignBegin=59969.9522583|AlignEnd=60292.2067032|Gloss=end-gen
+3	ни'	ни'	ADP	_	_	2	case	_	AlignBegin=60292.2067032|AlignEnd=60416.1507205|Gloss=at.dat
+4	танэйв'	танэй-X	VERB	_	_	0	root	_	AlignBegin=60416.1507205|AlignEnd=60914.8105578|Gloss=go.up-1sg.refl
+5	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=60914.8105578|AlignEnd=61655.9660489|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_22
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = тарканда пыям' мада"махада -ни' <b_p> ӈани' ӈохолё нэкал-ӈав <s_p> яхам' мадав <b_p>
+# text_ru = После того как я перешел его мыс на развилке дальше снова отправился вплавь, и пересек реку.
+# text_en = Having crossed the headland, I continue to swim, crossing the river.
+1	тарканда	таркаX	NOUN	_	_	2	nmod:poss	_	AlignBegin=61655.9660489|AlignEnd=62081.1251736|Gloss=fork-gen.poss.3sg
+2	пыям'	пыяX	NOUN	_	_	3	obj	_	AlignBegin=62081.1251736|AlignEnd=62331.600821|Gloss=end-acc
+3	мада"махада	мада-XX	NOUN	_	_	8	obl:arg	_	AlignBegin=62331.600821|AlignEnd=63141.9632096|Gloss=pass.across-ipfv.an-abl
+4	-ни'	X	DET	_	_	3	det	_	AlignBegin=62331.600821|AlignEnd=63141.9632096|Gloss=-poss.1sg
+5	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=63141.9632096|AlignEnd=64018.6279754|Gloss=SIL
+6	ӈани'	ӈани'	ADV	_	_	8	obl:arg	_	AlignBegin=64018.6279754|AlignEnd=64261.736692|Gloss=again
+7	ӈохолё	ӈохолё	ADV	_	_	8	obl:arg	_	AlignBegin=64261.736692|AlignEnd=64939.494326|Gloss=swim-cvb
+8	нэкал-ӈав	нэкал-X	VERB	_	_	0	root	_	AlignBegin=64939.494326|AlignEnd=65639.3527525|Gloss=pull-co-1sg.sg
+9	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=65639.3527525|AlignEnd=66486.5497951|Gloss=SIL
+10	яхам'	яхаX	NOUN	_	_	11	obj	_	AlignBegin=66486.5497951|AlignEnd=67237.9767372|Gloss=river-acc
+11	мадав	мада-X	VERB	_	_	8	parataxis	_	AlignBegin=67237.9767372|AlignEnd=68044.9695283|Gloss=pass.across-1sg.sg
+12	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=68044.9695283|AlignEnd=68925.8525017|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_23
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = тадтикахад ӈани' ялъява" <b_p> нерни' няна пям' манэ"-ӈадм' <b_p>
+# text_ru = Затем я снова пошел пешком и увидел впереди себя дерево.
+# text_en = As I walk I see a tree in front of me.
+1	тадтикахад	тадтикахад	ADV	_	_	8	obl:arg	_	AlignBegin=68925.8525017|AlignEnd=69421.8852824|Gloss=afterwards
+2	ӈани'	ӈани'	ADV	_	_	3	obl:arg	_	AlignBegin=69421.8852824|AlignEnd=69639.9988125|Gloss=again
+3	ялъява"	ялъя-XX	VERB	_	_	8	ccomp	_	AlignBegin=69639.9988125|AlignEnd=70356.6575543|Gloss=walk-ipfv.an-gen
+4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=70356.6575543|AlignEnd=70703.3022717|Gloss=SIL
+5	нерни'	нер-X	ADP	_	_	8	obl:arg	_	AlignBegin=70703.3022717|AlignEnd=71046.0521048|Gloss=in.front.of-poss.gen.1sg
+6	няна	няна	ADP	_	_	5	dep:comp	_	AlignBegin=71046.0521048|AlignEnd=71303.1144795|Gloss=at.loc
+7	пям'	пяX	NOUN	_	_	8	obj	_	AlignBegin=71303.1144795|AlignEnd=71521.2280096|Gloss=tree-acc
+8	манэ"-ӈадм'	манэ"-X	VERB	_	_	0	root	_	AlignBegin=71521.2280096|AlignEnd=72048.6539439|Gloss=see-co-1sg
+9	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=72048.6539439|AlignEnd=72393.8946645|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_24
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = пям' маханяӈы хэвувна -нда <b_p> яля' пырдари' сюртев <s_p>
+# text_ru = Дерево я обошел по кругу справа, против хода солнца.
+# text_en = I walk around the tree to the right, against the sun.
+1	пям'	пяX	NOUN	_	_	8	obj	_	AlignBegin=72393.8946645|AlignEnd=72669.915124|Gloss=tree-acc
+2	маханяӈы	маханяӈы	ADJ	_	_	3	amod	_	AlignBegin=72669.915124|AlignEnd=73312.8038815|Gloss=from.right.adj
+3	хэвувна	хэвX	NOUN	_	_	8	obl:arg	_	AlignBegin=73312.8038815|AlignEnd=74206.5250357|Gloss=side-prol
+4	-нда	X	DET	_	_	3	det:poss	_	AlignBegin=73312.8038815|AlignEnd=74206.5250357|Gloss=-poss.3sg
+5	<b_p>	<b_p>	X	_	_	4	discourse	_	AlignBegin=74206.5250357|AlignEnd=74457.5606367|Gloss=PAUSE
+6	яля'	яляX	NOUN	_	_	8	obl:arg	_	AlignBegin=74457.5606367|AlignEnd=74752.0451643|Gloss=sun-gen
+7	пырдари'	пырдари'	ADP	_	_	6	case	_	AlignBegin=74752.0451643|AlignEnd=75390.7862524|Gloss=against
+8	сюртев	сюрте-X	VERB	_	_	0	root	_	AlignBegin=75390.7862524|AlignEnd=76117.4075617|Gloss=go.around-1sg.sg
+9	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=76117.4075617|AlignEnd=76480.35903|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_25
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = тамна тяха" ялъяв' <b_p> ядвани' сер' <s_p> пулм' манэ"-ӈадм' <b_p>
+# text_ru = Направился пешком дальше, пока я шел, увидел мост.
+# text_en = I keep going, and as I go I see a bridge.
+1	тамна	тамна	ADV	_	_	2	advmod	_	AlignBegin=76480.35903|AlignEnd=76791.9322177|Gloss=even
+2	тяха"	тяха"	ADV	_	_	3	obl:arg	_	AlignBegin=76791.9322177|AlignEnd=76959.9431475|Gloss=further
+3	ялъяв'	ялъя-X	VERB	_	_	0	root	_	AlignBegin=76959.9431475|AlignEnd=77445.8125931|Gloss=walk-1sg.refl
+4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=77445.8125931|AlignEnd=77977.0903981|Gloss=SIL
+5	ядвани'	яд-XX	VERB	_	_	9	ccomp	_	AlignBegin=77977.0903981|AlignEnd=78535.6132188|Gloss=walk-ipfv.an-gen.poss.1sg
+6	сер'	сер'	ADP	_	_	5	mark	_	AlignBegin=78535.6132188|AlignEnd=78853.4717346|Gloss=at.the.time.of
+7	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=78853.4717346|AlignEnd=79339.3411802|Gloss=SIL
+8	пулм'	пулX	NOUN	_	_	9	obj	_	AlignBegin=79339.3411802|AlignEnd=79539.1379616|Gloss=bridge-acc
+9	манэ"-ӈадм'	манэ"-X	VERB	_	_	3	parataxis	_	AlignBegin=79539.1379616|AlignEnd=80296.6287001|Gloss=see-co-1sg
+10	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=80296.6287001|AlignEnd=81871.61951|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_26
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = пул' сер' яхам' няби' ня' мадав <b_p>
+# text_ru = Перешел реку по мосту на другую сторону.
+# text_en = I cross the river on the bridge to the other side.
+1	пул'	пулX	NOUN	_	_	6	obl:arg	_	AlignBegin=81871.61951|AlignEnd=82144.3460374|Gloss=bridge-gen
+2	сер'	сер'	ADP	_	_	1	case	_	AlignBegin=82144.3460374|AlignEnd=82420.5247993|Gloss=at.the.time.of
+3	яхам'	яхаX	NOUN	_	_	6	obj	_	AlignBegin=82420.5247993|AlignEnd=83000.5001993|Gloss=river-acc
+4	няби'	няби	DET	_	_	5	det	_	AlignBegin=83000.5001993|AlignEnd=83628.8068827|Gloss=other
+5	ня'	ня'	ADP	_	_	6	obl:arg	_	AlignBegin=83628.8068827|AlignEnd=83787.6096708|Gloss=to.dat
+6	мадав	мада-X	VERB	_	_	0	root	_	AlignBegin=83787.6096708|AlignEnd=84193.4961134|Gloss=pass.across-1sg.sg
+7	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=84193.4961134|AlignEnd=85608.2363685|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_27
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = тадтикахад сятанякубта' мэхэя <b_p> тамна тяха' ялъяв' <s_p>
+# text_ru = После этого слегка повернув влево я пошел дальше.
+# text_en = Then I keep walking and turn left.
+1	тадтикахад	тадтикахад	ADV	_	_	7	obl:arg	_	AlignBegin=85608.2363685|AlignEnd=86178.7670915|Gloss=afterwards
+2	сятанякубта'	сятанякубтаX	NOUN	_	_	3	obl:arg	_	AlignBegin=86178.7670915|AlignEnd=86881.7424467|Gloss=left.side-gen
+3	мэхэя	мэ-X	ADV	_	_	7	obj	_	AlignBegin=86881.7424467|AlignEnd=87520.8550405|Gloss=take-intens.cvb
+4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=87520.8550405|AlignEnd=88257.1290112|Gloss=SIL
+5	тамна	тамна	ADV	_	_	6	advmod	_	AlignBegin=88257.1290112|AlignEnd=88445.6079108|Gloss=even
+6	тяха'	тяха'	ADV	_	_	7	obl:arg	_	AlignBegin=88445.6079108|AlignEnd=88578.0525429|Gloss=further
+7	ялъяв'	ялъя-X	VERB	_	_	0	root	_	AlignBegin=88578.0525429|AlignEnd=89062.3063082|Gloss=walk-1sg.refl
+8	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=89062.3063082|AlignEnd=89947.8724775|Gloss=SIL
+
+# doc_title = MapTask_002
+# sent_id = yrk_MapTask_002_28
+# sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
+# text = тадтикахад <b_p> маряд' нё сивня <s_p> тарпыв'
+# text_ru = А затем вышел в ворота забора.
+# text_en = Then I go through the gate of the fence.
+1	тадтикахад	тадтикахад	ADV	_	_	7	obl:arg	_	AlignBegin=89947.8724775|AlignEnd=90549.3356994|Gloss=afterwards
+2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=90549.3356994|AlignEnd=91210.1586796|Gloss=PAUSE
+3	маряд'	мар"X	NOUN	_	_	4	nmod:poss	_	AlignBegin=91210.1586796|AlignEnd=91587.7718111|Gloss=fence-gen.poss.2sg
+4	нё	нё	NOUN	_	_	5	nmod:poss	_	AlignBegin=91587.7718111|AlignEnd=91791.6829022|Gloss=door
+5	сивня	сиX	NOUN	_	_	7	obl:arg	_	AlignBegin=91791.6829022|AlignEnd=92169.2960337|Gloss=hole-prol
+6	<s_p>	<s_p>	X	_	_	5	discourse	_	AlignBegin=92169.2960337|AlignEnd=92496.499767|Gloss=PAUSE
+7	тарпыв'	тарпа-X	VERB	_	_	0	root	_	AlignBegin=92496.499767|AlignEnd=93059.7509937|Gloss=go.out-1sg.refl
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_1
+# text = <w_n> сэв"ни ӈадимб' <s_p> яха' тарка' пыяхана мэвэдм' <b_p>
+# text_ru = Когда я очнулся, то оказался на мысу, на развилке реки.
+# text_en = When I woke up I was on a headland, at a fork in the river.
+1	<w_n>	<w_n>	PUNCT	_	_	2	punct	_	AlignBegin=0|AlignEnd=405.588319811|Gloss=NOISE
+2	сэв"ни	сэвX	NOUN	_	_	3	obl:arg	_	AlignBegin=405.588319811|AlignEnd=801.049322087|Gloss=eye-pl.poss.gen.1sg
+3	ӈадимб'	ӈадим-X	ADV	_	_	8	obj	_	AlignBegin=801.049322087|AlignEnd=1385.29024138|Gloss=appear-cond
+4	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=1385.29024138|AlignEnd=4367.07928408|Gloss=SIL
+5	яха'	яхаX	NOUN	_	_	6	nmod:poss	_	AlignBegin=4367.07928408|AlignEnd=4639.47449619|Gloss=river-gen
+6	тарка'	таркаX	NOUN	_	_	7	nmod:poss	_	AlignBegin=4639.47449619|AlignEnd=5044.81344664|Gloss=fork-gen
+7	пыяхана	пыяX	NOUN	_	_	8	obl:arg	_	AlignBegin=5044.81344664|AlignEnd=5782.09546216|Gloss=end-loc
+8	мэвэдм'	мэ-XX	VERB	_	_	0	root	_	AlignBegin=5782.09546216|AlignEnd=6311.5279927|Gloss=take-infr-1sg
+9	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=6311.5279927|AlignEnd=7252.97885776|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_2
+# text = яха' тарка' пыяхад <s_p> тодо' яха" сыр-ӈадм' <s_p> сятаня' сыр-ӈадм' <s_p> маханя' сыр-ӈадм' <b_p>
+# text_ru = С мыса на развилке я посмотрел по сторонам: посмотрел влево, посмотрел вправо.
+# text_en = From the headland at the fork I looked around: I looked left, I looked right.
+1	яха'	яхаX	NOUN	_	_	2	nmod:poss	_	AlignBegin=7252.97885776|AlignEnd=7524.70119689|Gloss=river-gen
+2	тарка'	таркаX	NOUN	_	_	3	nmod:poss	_	AlignBegin=7524.70119689|AlignEnd=7897.64855121|Gloss=fork-gen
+3	пыяхад	пыяX	NOUN	_	_	7	obl:arg	_	AlignBegin=7897.64855121|AlignEnd=8284.12392244|Gloss=end-abl
+4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=8284.12392244|AlignEnd=9057.45650322|Gloss=PAUSE
+5	тодо'	тодо'	X	_	_	6	obl:arg	_	AlignBegin=9057.45650322|AlignEnd=9281.76532837|Gloss=?around?
+6	яха"	яхаX	NOUN	_	_	7	obl:arg	_	AlignBegin=9281.76532837|AlignEnd=9456.29697149|Gloss=river-gen
+7	сыр-ӈадм'	сыр-X	VERB	_	_	0	root	_	AlignBegin=9456.29697149|AlignEnd=9945.35687374|Gloss=look-co-1sg
+8	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=9945.35687374|AlignEnd=10384.5334011|Gloss=SIL
+9	сятаня'	сятаня'	ADV	_	_	10	obl:arg	_	AlignBegin=10384.5334011|AlignEnd=10834.9569297|Gloss=to.the.left
+10	сыр-ӈадм'	сыр-X	VERB	_	_	7	parataxis	_	AlignBegin=10834.9569297|AlignEnd=11387.0015614|Gloss=look-co-1sg
+11	<s_p>	<s_p>	PUNCT	_	_	10	punct	_	AlignBegin=11387.0015614|AlignEnd=12694.9838276|Gloss=SIL
+12	маханя'	маханя'	ADV	_	_	13	obl:arg	_	AlignBegin=12694.9838276|AlignEnd=13283.8314341|Gloss=to.the.right
+13	сыр-ӈадм'	сыр-X	VERB	_	_	7	parataxis	_	AlignBegin=13283.8314341|AlignEnd=13786.436371|Gloss=look-co-1sg
+14	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=13786.436371|AlignEnd=14791.6462448|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_3
+# text = маханяӈэюм' таркам -да ӈохолё мада таслав <b_p>
+# text_ru = Правый его рукав я решил перейти вплавь.
+# text_en = I decided to swim across on the right arm of the river.
+1	маханяӈэюм'	маханяӈэюм'	ADJ	_	_	2	amod	_	AlignBegin=14791.6462448|AlignEnd=15419.8854446|Gloss=to.the.right.adj.pol
+2	таркам	таркаX	NOUN	_	_	5	obj	_	AlignBegin=15419.8854446|AlignEnd=16010.0300532|Gloss=fork-acc
+3	-да	X	DET	_	_	2	det	_	AlignBegin=15419.8854446|AlignEnd=16010.0300532|Gloss=-poss.3sg
+4	ӈохолё	ӈохолё-	ADV	_	_	5	obj	_	AlignBegin=16010.0300532|AlignEnd=16410.3794108|Gloss=swim.cvb
+5	мада	мада-	ADV	_	_	6	obl:arg	_	AlignBegin=16410.3794108|AlignEnd=16681.056405|Gloss=pass.across.cvb
+6	таслав	тасла-X	VERB	_	_	0	root	_	AlignBegin=16681.056405|AlignEnd=17243.2416157|Gloss=decide-1sg.sg
+7	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=17243.2416157|AlignEnd=19833.0333264|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_4
+# text = ӈохолё мадав <s_p> яда нэкал-ӈав <s_p>
+# text_ru = Переплыл ее, пошел дальше пешком.
+# text_en = I swam across and continued on foot.
+1	ӈохолё	ӈохолё	ADV	_	_	2	obj	_	AlignBegin=19833.0333264|AlignEnd=20264.919017|Gloss=swim.cvb
+2	мадав	мада-X	VERB	_	_	0	root	_	AlignBegin=20264.919017|AlignEnd=20721.6642636|Gloss=pass.across-1sg.sg
+3	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=20721.6642636|AlignEnd=21312.8923263|Gloss=SIL
+4	яда	яда	ADV	_	_	5	obl:arg	_	AlignBegin=21312.8923263|AlignEnd=21679.2304378|Gloss=on.foot
+5	нэкал-ӈав	нэкал-X	VERB	_	_	2	parataxis	_	AlignBegin=21679.2304378|AlignEnd=22311.2534861|Gloss=pull-co-1sg.sg
+6	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=22311.2534861|AlignEnd=23079.4959388|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_5
+# text = яда<a>дм' яда<a>дм' ядадм' <b_p>
+# text_ru = Иду, иду, иду.
+# text_en = I'm walking, I'm walking, I'm walking.
+1	яда<a>дм'	яда-X	VERB	_	_	0	root	_	AlignBegin=23079.4959388|AlignEnd=23693.8758448|Gloss=walk-1sg
+2	яда<a>дм'	яда-X	VERB	_	_	1	parataxis	_	AlignBegin=23693.8758448|AlignEnd=24368.020265|Gloss=walk-1sg
+3	ядадм'	яда-X	VERB	_	_	1	parataxis	_	AlignBegin=24368.020265|AlignEnd=24860.4910701|Gloss=walk-1sg
+4	<b_p>	<b_p>	PUNCT	_	_	1	punct	_	AlignBegin=24860.4910701|AlignEnd=26830.9094254|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_6
+# text = ӈоб' ядадм' ӈоб' ядадм'
+# text_ru = Все иду, все иду.
+# text_en = I'm still going, I'm still going.
+1	ӈоб'	ӈоб'	ADV	_	_	2	obl:arg	_	AlignBegin=26830.9094254|AlignEnd=27151.3735813|Gloss=once, and
+2	ядадм'	яда-X	VERB	_	_	0	root	_	AlignBegin=27151.3735813|AlignEnd=27487.6844086|Gloss=walk-1sg
+3	ӈоб'	ӈоб'	ADV	_	_	4	obl:arg	_	AlignBegin=27487.6844086|AlignEnd=27783.3576776|Gloss=once, and
+4	ядадм'	яда-X	VERB	_	_	2	parataxis	_	AlignBegin=27783.3576776|AlignEnd=28079.0309466|Gloss=walk-1sg
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_7
+# text = нерни няна <s_p> пирця махалэйта -на харадм' манэ"-ӈадм' <b_p>
+# text_ru = Впереди себя я увидел высокую башню с крышей.
+# text_en = I saw a tall tower with a roof in front of me.
+1	нерни	нер-X	ADP	_	_	8	obl:arg	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=in.front.of-poss.gen.1sg
+2	няна	няна	ADP	_	_	1	dep:comp	_	AlignBegin=28575.0894168|AlignEnd=29147.7866932|Gloss=at.loc
+3	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=29147.7866932|AlignEnd=29690.5203274|Gloss=PAUSE
+4	пирця	пирця	ADJ	_	_	5	amod	_	AlignBegin=29690.5203274|AlignEnd=30023.3881469|Gloss=tall
+5	махалэйта	махалэйX	ADJ	_	_	7	amod	_	AlignBegin=30023.3881469|AlignEnd=30663.7782393|Gloss=roof.adj-predest
+6	-на	X	DET	_	_	5	det:poss	_	AlignBegin=30023.3881469|AlignEnd=30663.7782393|Gloss=-poss.3sg
+7	харадм'	харадX	NOUN	_	_	8	obj	_	AlignBegin=30663.7782393|AlignEnd=31071.638337|Gloss=house-acc
+8	манэ"-ӈадм'	манэ"-X	VERB	_	_	0	root	_	AlignBegin=31071.638337|AlignEnd=31499.3940492|Gloss=see-co-1sg
+9	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=31499.3940492|AlignEnd=31924.6628096|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_8
+# text = маханяӈы хэвувнанда хаяма' <w_n> ядувна -нда xxx харданда пя ядувна тю"у' танэ-йв" <s_p>
+# text_ru = Пошел справа от нее, по ее стене я поднялся вверх.
+# text_en = I went to it from the right and climbed up its wall.
+1	маханяӈы	маханяӈы	ADJ	_	_	2	amod	_	AlignBegin=31924.6628096|AlignEnd=32322.7173911|Gloss=from.the.right.adj
+2	хэвувнанда	хэвXX	NOUN	_	_	3	obl:arg	_	AlignBegin=32322.7173911|AlignEnd=32751.8190512|Gloss=side-prol-poss.3sg
+3	хаяма'	хая-X	NOUN	_	_	12	obj	_	AlignBegin=32751.8190512|AlignEnd=33378.4933696|Gloss=go-impfv.an
+4	<w_n>	<w_n>	PUNCT	_	_	3	punct	_	AlignBegin=33378.4933696|AlignEnd=34508.9248825|Gloss=NOISE
+5	ядувна	ядX	NOUN	_	_	12	obl:arg	_	AlignBegin=34508.9248825|AlignEnd=35388.1493925|Gloss=wall-prol
+6	-нда	X	DET	_	_	5	det:poss	_	AlignBegin=34508.9248825|AlignEnd=35388.1493925|Gloss=-poss.3sg
+7	xxx	X	X	_	_	12	orphan	_	AlignBegin=35388.1493925|AlignEnd=36071.7922931|Gloss=X
+8	харданда	харадX	NOUN	_	_	10	nmod:poss	_	AlignBegin=36071.7922931|AlignEnd=36530.3412345|Gloss=house-poss.gen.3sg
+9	пя	пя	NOUN	_	_	10	nmod	_	AlignBegin=36530.3412345|AlignEnd=36627.5451576|Gloss=tree
+10	ядувна	ядX	NOUN	_	_	12	obl:arg	_	AlignBegin=36627.5451576|AlignEnd=36986.7770471|Gloss=wall-prol
+11	тю"у'	тю"у'	ADV	_	_	12	obl:arg	_	AlignBegin=36986.7770471|AlignEnd=37126.2435454|Gloss=upwards
+12	танэ-йв"	тана-X	VERB	_	_	0	root	_	AlignBegin=37126.2435454|AlignEnd=37499.2107719|Gloss=go.up-co.refl-1sg.refl
+13	<s_p>	<s_p>	PUNCT	_	_	12	punct	_	AlignBegin=37499.2107719|AlignEnd=37870.0648696|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_9
+# text = махалэянда ни' танэ-йв" <b_p>
+# text_ru = Поднялся на его крышу.
+# text_en = I climbed up to its roof.
+1	махалэянда	махалыX	NOUN	_	_	3	obl:arg	_	AlignBegin=37870.0648696|AlignEnd=38391.7573482|Gloss=roof-poss.gen.3sg
+2	ни'	ни'	ADP	_	_	1	case	_	AlignBegin=38391.7573482|AlignEnd=38519.6084623|Gloss=at.dat
+3	танэ-йв"	тана-X	VERB	_	_	0	root	_	AlignBegin=38519.6084623|AlignEnd=38954.0999246|Gloss=go.up-co.refl-1sg.refl
+4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=38954.0999246|AlignEnd=39723.278794|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_10
+# text = махалэянда нид <b_p> я"амна сыр-ӈадм' <b_p>
+# text_ru = С ее крыши я посмотрел по сторонам.
+# text_en = I looked around from its roof.
+1	махалэянда	махалыX	NOUN	_	_	5	obl:arg	_	AlignBegin=39723.278794|AlignEnd=40354.6904688|Gloss=roof-poss.gen.3sg
+2	нид	нид	ADP	_	_	1	case	_	AlignBegin=40354.6904688|AlignEnd=40517.9775053|Gloss=at.abl
+3	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=40517.9775053|AlignEnd=41033.396586|Gloss=PAUSE
+4	я"амна	я"амна	ADV	_	_	5	obl:arg	_	AlignBegin=41033.396586|AlignEnd=41445.1252477|Gloss=around.prol
+5	сыр-ӈадм'	сыр-X	VERB	_	_	0	root	_	AlignBegin=41445.1252477|AlignEnd=42004.5994819|Gloss=look-co-1sg
+6	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=42004.5994819|AlignEnd=44528.3289662|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_11
+# text = тадтикахад <s_p> таси' ха"мыв" <b_p>
+# text_ru = Затем я спустился.
+# text_en = Then I went down.
+1	тадтикахад	тадтикахад	ADV	_	_	4	obl:arg	_	AlignBegin=44528.3289662|AlignEnd=45176.2415286|Gloss=afterwards
+2	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=44528.3289662|AlignEnd=45176.2415286|Gloss=PAUSE
+3	таси'	таси'	ADV	_	_	4	obl:arg	_	AlignBegin=45176.2415286|AlignEnd=45431.1859317|Gloss=downward.dat
+4	ха"мыв"	ха"ма-X	VERB	_	_	0	root	_	AlignBegin=45732.2631316|AlignEnd=46177.8088267|Gloss=go.down-1sg.refl
+5	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=46177.8088267|AlignEnd=46850.3764426|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_12
+# text = таси' ха"ам"махада -ни <s_p> нэкал-ӈав тамна тяха нэкал-ӈав <b_p>
+# text_ru = И после того как спустился, направился дальше.
+# text_en = After I came down, I went forward.
+1	таси'	таси'	ADV	_	_	2	obl:arg	_	AlignBegin=46850.3764426|AlignEnd=47088.9910463|Gloss=downward.dat
+2	ха"ам"махада	ха"ма-XX	VERB	_	_	5	ccomp	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|Gloss=go.down--pfv.an-abl
+3	-ни	X	DET	_	_	2	det:poss	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|Gloss=-poss.1sg
+4	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=47769.9676382|AlignEnd=48445.1568937|Gloss=SIL
+5	нэкал-ӈав	нэкал-X	VERB	_	_	0	root	_	AlignBegin=48445.1568937|AlignEnd=48954.4425035|Gloss=pull-co-1sg.sg
+6	тамна	тамна	ADV	_	_	7	advmod	_	AlignBegin=48954.4425035|AlignEnd=49135.7790464|Gloss=even
+7	тяха	тяха'	ADV	_	_	8	obl:arg	_	AlignBegin=49135.7790464|AlignEnd=49359.5560567|Gloss=further
+8	нэкал-ӈав	нэкал-X	VERB	_	_	5	parataxis	_	AlignBegin=49359.5560567|AlignEnd=49849.550545|Gloss=pull-co-1sg.sg
+9	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=49849.550545|AlignEnd=50875.8382132|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_13
+# text = ӈохолырць <s_p> яхам' <s_p> пул' ӈыламна мадав <s_p>
+# text_ru = Вправь, я переплыл реку под мостом.
+# text_en = I crossed the river by swimming under the bridge.
+1	ӈохолырць	ӈохолыр-X	ADV	_	_	7	obj	_	AlignBegin=50875.8382132|AlignEnd=51829.4716627|Gloss=swim-cvb
+2	<s_p>	<s_p>	PUNCT	_	_	1	punct	_	AlignBegin=51829.4716627|AlignEnd=52061.0748695|Gloss=SIL
+3	яхам'	яхаX	NOUN	_	_	7	obj	_	AlignBegin=52061.0748695|AlignEnd=52437.1984775|Gloss=river-acc
+4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=52437.1984775|AlignEnd=52805.9107828|Gloss=PAUSE
+5	пул'	пулX	NOUN	_	_	7	obl:arg	_	AlignBegin=52805.9107828|AlignEnd=53072.717677|Gloss=bridge-gen
+6	ӈыламна	ӈыламна	ADP	_	_	5	case	_	AlignBegin=53072.717677|AlignEnd=53469.2223672|Gloss=under.prol
+7	мадав	мада-X	VERB	_	_	0	root	_	AlignBegin=53469.2223672|AlignEnd=53939.2683207|Gloss=pass.across-1sg.sg
+8	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=53939.2683207|AlignEnd=54423.4275794|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_14
+# text = таханяю' тэвыв' <b_p>
+# text_ru = Мы дошли там.
+# text_en = I got there.
+1	таханяю'	таханяю'	ADV	_	_	2	obl:arg	_	AlignBegin=54423.4275794|AlignEnd=54911.2009064|Gloss=there.pol
+2	тэвыв'	тэва-X	VERB	_	_	0	root	_	AlignBegin=54911.2009064|AlignEnd=55335.0178015|Gloss=arrive-1sg.refl
+3	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=55335.0178015|AlignEnd=56781.9280695|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_15
+# text = тарем' пэр-ӈава <b_p> яха' варувна <s_p> яха' лаӈг' сятаняюмна ӈоб' яда нэкал-ӈав <s_p>
+# text_ru = Так направляюсь, что иду по берегу реки левее берега реки пешком.
+# text_en = I'm moving in a direction where I'm going so that I'm walking along the riverbank to the left of the riverbank.
+1	тарем'	тарем'	ADV	_	_	2	obl:arg	_	AlignBegin=56781.9280695|AlignEnd=57060.5585621|Gloss=this.way
+2	пэр-ӈава	пэр-X	VERB	_	_	0	root	_	AlignBegin=57060.5585621|AlignEnd=57717.1864717|Gloss=do-co-1sg.refl
+3	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=57717.1864717|AlignEnd=58981.3998959|Gloss=SIL
+4	яха'	яхаX	NOUN	_	_	5	nmod:poss	_	AlignBegin=58981.3998959|AlignEnd=59250.8721919|Gloss=river-gen
+5	варувна	варX	NOUN	_	_	12	obl:arg	_	AlignBegin=59250.8721919|AlignEnd=59843.6957575|Gloss=shore-prol
+6	<s_p>	<s_p>	X	_	_	5	discourse	_	AlignBegin=59843.6957575|AlignEnd=60077.538703|Gloss=PAUSE
+7	яха'	яхаX	NOUN	_	_	8	nmod:poss	_	AlignBegin=60077.538703|AlignEnd=60272.679267|Gloss=river-gen
+8	лаӈг'	лаӈгX	NOUN	_	_	12	obl:mod	_	AlignBegin=60272.679267|AlignEnd=60517.5542162|Gloss=steep.riverbank-gen
+9	сятаняюмна	сятаняюX	ADJ	_	_	12	obl:arg	_	AlignBegin=60517.5542162|AlignEnd=61331.3154805|Gloss=to.the.left.adj-prol
+10	ӈоб'	ӈоб'	ADV	_	_	11	obl:arg	_	AlignBegin=61331.3154805|AlignEnd=61561.2590304|Gloss=once, and
+11	яда	яда	ADV	_	_	12	obl:arg	_	AlignBegin=61561.2590304|AlignEnd=61888.2566761|Gloss=on.foot
+12	нэкал-ӈав	нэкал-X	VERB	_	_	2	parataxis	_	AlignBegin=61888.2566761|AlignEnd=62546.2706197|Gloss=pull-co-1sg.sg
+13	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=62546.2706197|AlignEnd=63077.3578044|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_16
+# text = таняна <b_p> ӈано <s_p> яӈговы <s_p> ӈано яха' тяханяна ӈэвы <b_p>
+# text_ru = Там не оказалось лодки, лодка оказалась на другом берегу реки.
+# text_en = There was no boat; the boat was on the other side of the river.
+1	таняна	таняна	ADV	_	_	5	obl:arg	_	AlignBegin=63077.3578044|AlignEnd=63584.8899994|Gloss=there
+2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=63584.8899994|AlignEnd=63964.8051229|Gloss=PAUSE
+3	ӈано	ӈано	NOUN	_	_	5	nsubj	_	AlignBegin=63964.8051229|AlignEnd=64495.0463743|Gloss=boat
+4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=64495.0463743|AlignEnd=65126.4161119|Gloss=PAUSE
+5	яӈговы	XX	VERB	_	_	0	root	_	AlignBegin=65126.4161119|AlignEnd=65653.924161|Gloss=not.exist-infr.3sg
+6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=65653.924161|AlignEnd=65834.3155146|Gloss=SIL
+7	ӈано	ӈано	NOUN	_	_	10	nsubj	_	AlignBegin=65834.3155146|AlignEnd=66020.0993182|Gloss=boat
+8	яха'	яхаX	NOUN	_	_	10	obl:arg	_	AlignBegin=66020.0993182|AlignEnd=66304.9725801|Gloss=river-gen
+9	тяханяна	тяханяна	ADP	_	_	8	case	_	AlignBegin=66304.9725801|AlignEnd=66635.9821287|Gloss=through.loc
+10	ӈэвы	XX	VERB	_	_	5	parataxis	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=be-infr.3sg
+11	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=67045.1241455|AlignEnd=67942.4445949|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_17
+# text = яхам' <b_p> ӈохолырць <s_p> ӈано' няю' мадав <b_p>
+# text_ru = Реку я переплыл в сторону лодки.
+# text_en = I swam across the river to the side of the boat.
+1	яхам'	яхаX	NOUN	_	_	3	obj	_	AlignBegin=67942.4445949|AlignEnd=68469.3078828|Gloss=river-acc
+2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=68469.3078828|AlignEnd=68910.9639857|Gloss=PAUSE
+3	ӈохолырць	ӈохолыр-X	VERB	_	_	7	ccomp	_	AlignBegin=68910.9639857|AlignEnd=69904.0933848|Gloss=swim-cvb|ĐerPos=ADV
+4	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=69904.0933848|AlignEnd=70293.2282214|Gloss=SIL
+5	ӈано'	ӈаноX	NOUN	_	_	7	obl:arg	_	AlignBegin=70293.2282214|AlignEnd=70571.7773698|Gloss=boat-gen
+6	няю'	няю'	ADP	_	_	5	case	_	AlignBegin=70571.7773698|AlignEnd=70998.2149549|Gloss=towards.dat
+7	мадав	мада-X	VERB	_	_	0	root	_	AlignBegin=70998.2149549|AlignEnd=71489.2806948|Gloss=pass.across-1sg.sg
+8	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=71489.2806948|AlignEnd=73907.0151304|Gloss=SIL
+
+# doc_title = MapTask_003
+# sent_id = yrk_MapTask_003_18
+# text = ӈаном' манэ"-ӈава ӈаноход тамна тяха ядалъ-яв' <s_p>
+# text_ru = Я посмотрел лодку и от лодки пошел пешком дальше.
+# text_en = I looked at the boat and then I walked away from the boat.
+1	ӈаном'	ӈаноX	NOUN	_	_	2	obj	_	AlignBegin=73907.0151304|AlignEnd=74283.6347667|Gloss=boat-acc
+2	манэ"-ӈава	манэ"-X	VERB	_	_	0	root	_	AlignBegin=74283.6347667|AlignEnd=74799.0755798|Gloss=see-co-1sg.sg
+3	ӈаноход	ӈаноX	NOUN	_	_	6	obl:arg	_	AlignBegin=74799.0755798|AlignEnd=75104.3846466|Gloss=boat-abl
+4	тамна	тамна	ADV	_	_	5	advmod	_	AlignBegin=75104.3846466|AlignEnd=75276.198251|Gloss=even
+5	тяха	тяха'	ADV	_	_	6	obl:arg	_	AlignBegin=75276.198251|AlignEnd=75478.9135828|Gloss=further
+6	ядалъ-яв'	ядалъ-X	VERB	_	_	2	parataxis	_	AlignBegin=75478.9135828|AlignEnd=75950.7105396|Gloss=go.forth-co.refl1sg.refl
+7	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=75950.7105396|AlignEnd=76474.9206349|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_1
+# text = я хой' ниня нува" <s_p>
+# text_ru = Мы стоим на ровном высоком месте.
+# text_en = We stand on a flat, high land.
+1	я	я	NOUN	_	_	2	nmod:poss	_	AlignBegin=0|AlignEnd=222.07643638|Gloss=land
+2	хой'	хойX	NOUN	_	_	4	obl:arg	_	AlignBegin=222.07643638|AlignEnd=516.249793902|Gloss=hill-gen
+3	ниня	ниня	ADP	_	_	2	case	_	AlignBegin=516.249793902|AlignEnd=757.403534662|Gloss=at.loc
+4	нува"	ну-X	VERB	_	_	0	root	_	AlignBegin=757.403534662|AlignEnd=1215.76667313|Gloss=stand-1pl
+5	<s_p>	<s_p>	PUNCT	_	_	4	punct	_	AlignBegin=1215.76667313|AlignEnd=1659.46022875|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_2
+# text = я' хой нид нерня' сыр-ӈава" <b_p>
+# text_ru = С ровного высокого места мы смотрим вперед.
+# text_en = We look ahead from this high, flat area.
+1	я'	яX	NOUN	_	_	2	nmod:poss	_	AlignBegin=1659.46022875|AlignEnd=1968.7311638|Gloss=land-gen
+2	хой	хой	NOUN	_	_	5	obl:arg	_	AlignBegin=1968.7311638|AlignEnd=2333.14245176|Gloss=hill
+3	нид	нид	ADP	_	_	2	case	_	AlignBegin=2333.14245176|AlignEnd=2598.77558841|Gloss=at.abl
+4	нерня'	нерня'	ADV	_	_	5	obl:arg	_	AlignBegin=2598.77558841|AlignEnd=3140.72058076|Gloss=in.front.of.dat
+5	сыр-ӈава"	сыр-X	VERB	_	_	0	root	_	AlignBegin=3140.72058076|AlignEnd=3658.63845522|Gloss=look-co-1pl
+6	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=3658.63845522|AlignEnd=4233.95444464|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_3
+# text = яха' хэвхана ӈаном' манэ"-ӈава" <s_p>
+# text_ru = Возле реки мы увидели лодку.
+# text_en = We saw a boat near the river.
+1	яха'	яхаX	NOUN	_	_	2	nmod:poss	_	AlignBegin=4233.95444464|AlignEnd=4535.63849926|Gloss=river-gen
+2	хэвхана	хэвX	NOUN	_	_	4	obl:arg	_	AlignBegin=4535.63849926|AlignEnd=5042.32586005|Gloss=side-loc
+3	ӈаном'	ӈаноX	NOUN	_	_	4	obj	_	AlignBegin=5042.32586005|AlignEnd=5397.49358052|Gloss=boat-acc
+4	манэ"-ӈава"	манэ"-X	VERB	_	_	0	root	_	AlignBegin=5397.49358052|AlignEnd=6185.9180537|Gloss=see-co-1pl.sg
+5	<s_p>	<s_p>	PUNCT	_	_	4	punct	_	AlignBegin=6185.9180537|AlignEnd=6537.71504965|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_4
+# text = ӈано' ня' яда нэкал-ӈава" <b_p>
+# text_ru = К лодке мы пошли пешком.
+# text_en = We walked towards the boat.
+1	ӈано'	ӈаноX	NOUN	_	_	4	obl:arg	_	AlignBegin=6537.71504965|AlignEnd=6748.47210959|Gloss=boat-gen
+2	ня'	ня'	ADP	_	_	1	case	_	AlignBegin=6748.47210959|AlignEnd=7087.18411238|Gloss=at.dat
+3	яда	яда	ADV	_	_	4	obl:arg	_	AlignBegin=7087.18411238|AlignEnd=7450.25554002|Gloss=on.foot
+4	нэкал-ӈава"	нэкал-X	VERB	_	_	0	root	_	AlignBegin=7450.25554002|AlignEnd=8083.60058633|Gloss=pull-co-1pl
+5	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=8083.60058633|AlignEnd=8767.98442758|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_5
+# text = ӈанон' тэвына" <b_p>
+# text_ru = Мы дошли до лодки.
+# text_en = We reached the boat.
+1	ӈанон'	ӈаноX	NOUN	_	_	2	obl:arg	_	AlignBegin=8767.98442758|AlignEnd=9244.44271849|Gloss=boat-dat
+2	тэвына"	тэва-X	VERB	_	_	0	root	_	AlignBegin=9244.44271849|AlignEnd=9704.31108594|Gloss=arrive-1pl.refl
+3	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=9704.31108594|AlignEnd=10273.1148854|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_6
+# text = ӈаном' ит' нэкал-ӈава" <s_p>
+# text_ru = Лодку мы потащили в воду.
+# text_en = We pulled the boat into the water.
+1	ӈаном'	ӈаноX	NOUN	_	_	3	obj	_	AlignBegin=10273.1148854|AlignEnd=10602.0652493|Gloss=boat-acc
+2	ит'	и"X	NOUN	_	_	3	obl:arg	_	AlignBegin=10602.0652493|AlignEnd=10894.6182311|Gloss=water-dat
+3	нэкал-ӈава"	нэкал-X	VERB	_	_	0	root	_	AlignBegin=10894.6182311|AlignEnd=11536.1281819|Gloss=pull-co-1pl.sg
+4	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=11536.1281819|AlignEnd=12051.421855|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_7
+# text = лабята <s_p> яхам' тяханяю' мадава" <b_p>
+# text_ru = На веслах мы переплыли реку на другую сторону.
+# text_en = We paddled across the river to the other bank.
+1	лабята	лабята	ADV	_	_	5	obj	_	AlignBegin=12051.421855|AlignEnd=12625.7681317|Gloss=row.cvb
+2	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=12625.7681317|AlignEnd=13010.6235836|Gloss=PAUSE
+3	яхам'	яхаX	NOUN	_	_	5	obj	_	AlignBegin=13010.6235836|AlignEnd=13479.9198941|Gloss=river-acc
+4	тяханяю'	тяханяю'	ADV	_	_	5	obl:arg	_	AlignBegin=13479.9198941|AlignEnd=13883.0459705|Gloss=there.pol
+5	мадава"	мада-X	VERB	_	_	0	root	_	AlignBegin=13883.0459705|AlignEnd=14256.1262486|Gloss=pass.across-1pl.sg
+6	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=14256.1262486|AlignEnd=15276.419865|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_8
+# text = ӈанова" яха' тиркана хаева" <b_p>
+# text_ru = Нашу лодку мы оставили на берегу реки.
+# text_en = We left the boat on the riverbank.
+1	ӈанова"	ӈаноX	NOUN	_	_	4	nsubj	_	AlignBegin=15276.419865|AlignEnd=15579.1030976|Gloss=boat-poss.3pl
+2	яха'	яхаX	NOUN	_	_	3	nmod:poss	_	AlignBegin=15579.1030976|AlignEnd=15768.1329885|Gloss=river-gen
+3	тиркана	тирX	NOUN	_	_	4	obl:arg	_	AlignBegin=15768.1329885|AlignEnd=16170.4167792|Gloss=edgeedge
+4	хаева"	хае-X	VERB	_	_	0	root	_	AlignBegin=16170.4167792|AlignEnd=16612.0556522|Gloss=leave-1pl.sg
+5	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=16612.0556522|AlignEnd=18132.5008258|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_9
+# text = яха' лаӈг' маханяӈы тирмана -нда <b_p> таси' ха"аврава" <s_p>
+# text_ru = Мы пошли по правому берегу реки вниз по течению.
+# text_en = We went down along the right bank.
+1	яха'	яхаX	NOUN	_	_	2	nmod:poss	_	AlignBegin=18132.5008258|AlignEnd=18509.3215354|Gloss=river-gen
+2	лаӈг'	лаӈгX	NOUN	_	_	4	nmod:poss	_	AlignBegin=18509.3215354|AlignEnd=18932.9110244|Gloss=steep.riverbank-gen
+3	маханяӈы	маханяӈы	ADJ	_	_	4	amod	_	AlignBegin=18932.9110244|AlignEnd=19436.9822842|Gloss=from.the.right.adj
+4	тирмана	тирX	NOUN	_	_	8	obl:arg	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|Gloss=edge-prol
+5	-нда	X	DET	_	_	4	det:poss	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|Gloss=poss.3sg
+6	<b_p>	<b_p>	X	_	_	5	discourse	_	AlignBegin=20169.443982|AlignEnd=20482.3949484|Gloss=PAUSE
+7	таси'	таси'	ADV	_	_	8	obl:arg	_	AlignBegin=20482.3949484|AlignEnd=21013.2525137|Gloss=downward
+8	ха"аврава"	ха"авра-X	VERB	_	_	0	root	_	AlignBegin=21013.2525137|AlignEnd=21912.4589634|Gloss=go.down-1pl
+9	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=21912.4589634|AlignEnd=23079.8687026|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_10
+# text = пул' ӈэсонд' тэвына" <b_p>
+# text_ru = Дошли до моста.
+# text_en = We arrived at the bridge.
+1	пул'	пулX	NOUN	_	_	3	obl:arg	_	AlignBegin=23079.8687026|AlignEnd=23558.9094585|Gloss=bridge-gen
+2	ӈэсонд'	ӈэсонд'	ADP	_	_	1	case	_	AlignBegin=23558.9094585|AlignEnd=23984.2819263|Gloss=up.to.dat
+3	тэвына"	тэва-X	PRON	_	_	0	root	_	AlignBegin=23984.2819263|AlignEnd=24356.7641667|Gloss=arrive-1pl.refl
+4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=24356.7641667|AlignEnd=25401.0648284|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_11
+# text = пул' ӈэсонд' тарем' таслава" <s_p> пул' ӈыламна <b_p> ӈохолё хэсь тара <s_p>
+# text_ru = До моста мы решили так: надо переплыть под мостом.
+# text_en = Before we reached the bridge, we made a decision: we would swim under the bridge.
+1	пул'	пулX	NOUN	_	_	4	obl:arg	_	AlignBegin=25401.0648284|AlignEnd=25615.4809691|Gloss=bridge-gen
+2	ӈэсонд'	ӈэсонд'	ADP	_	_	1	case	_	AlignBegin=25615.4809691|AlignEnd=25981.5058299|Gloss=up.to.dat
+3	тарем'	тарем'	ADV	_	_	4	obl:arg	_	AlignBegin=25981.5058299|AlignEnd=26253.3848731|Gloss=Gloss=this.way
+4	таслава"	тасла-X	VERB	_	_	0	root	_	AlignBegin=26253.3848731|AlignEnd=26652.844697|Gloss=decide-1pl
+5	<s_p>	<s_p>	PUNCT	_	_	4	punct	_	AlignBegin=26652.844697|AlignEnd=26855.8225609|Gloss=SIL
+6	пул'	пулX	NOUN	_	_	10	obl:arg	_	AlignBegin=26855.8225609|AlignEnd=27098.7685973|Gloss=bridge-gen
+7	ӈыламна	ӈыламна	ADP	_	_	6	case	_	AlignBegin=27098.7685973|AlignEnd=27576.0825389|Gloss=under.prol
+8	<b_p>	<b_p>	X	_	_	6	discourse	_	AlignBegin=27576.0825389|AlignEnd=27860.5807046|Gloss=PAUSE
+9	ӈохолё	ӈохолё	ADV	_	_	10	obj	_	AlignBegin=27860.5807046|AlignEnd=28201.1539735|Gloss=swim.cvb
+10	хэсь	хэ-X	ADV	_	_	4	ccomp	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=go-cvb
+11	тара	тара	AUX	_	_	10	aux	_	AlignBegin=28516.3436309|AlignEnd=28898.5717859|Gloss=need.3sg
+12	<s_p>	<s_p>	PUNCT	_	_	4	punct	_	AlignBegin=28898.5717859|AlignEnd=29132.6391755|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_12
+# text = пул' ӈыламна ӈохолё хаява" <b_p>
+# text_ru = Под мостом мы переплыли вплавь.
+# text_en = We swam under the bridge.
+1	пул'	пулX	NOUN	_	_	4	obl:arg	_	AlignBegin=29132.6391755|AlignEnd=29360.8313912|Gloss=bridge-gen
+2	ӈыламна	ӈыламна	ADP	_	_	1	case	_	AlignBegin=29360.8313912|AlignEnd=29649.2902674|Gloss=under.prol
+3	ӈохолё	ӈохолё	ADV	_	_	4	obj	_	AlignBegin=29649.2902674|AlignEnd=29982.3922831|Gloss=swim.cvb
+4	хаява"	хэ-X	VERB	_	_	0	root	_	AlignBegin=29982.3922831|AlignEnd=30343.0963025|Gloss=go-1pl
+5	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=30343.0963025|AlignEnd=31805.3447223|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_13
+# text = я' <m_l>тир' ни' тана"махада -на" пирця <b_p> махалэй саблюй харадм' манэ"-ӈава" <s_p>
+# text_ru = После того как мы поднялись на берег, мы увидели высокую башню с острой крышей.
+# text_en = As we approached the shore, we noticed a tall tower with a pointed roof.
+1	я'	яX	NOUN	_	_	2	nmod:poss	_	AlignBegin=31805.3447223|AlignEnd=32166.0669969|Gloss=land-gen
+2	<m_l>тир'	тирX	NOUN	_	_	4	obl:arg	_	AlignBegin=32166.0669969|AlignEnd=32388.2142829|Gloss=edge-gen
+3	ни'	ни'	ADP	_	_	2	case	_	AlignBegin=32388.2142829|AlignEnd=32639.9456464|Gloss=on.dat
+4	тана"махада	тана-XX	VERB	_	_	11	ccomp	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|Gloss=go.up-pfv.an-abl
+5	-на"	X	DET	_	_	4	det:poss	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|Gloss=-poss.1pl
+6	пирця	пирця	ADJ	_	_	8	amod	_	AlignBegin=33774.7064265|AlignEnd=34528.0065835|Gloss=tall
+7	<b_p>	<b_p>	X	_	_	6	discourse	_	AlignBegin=34528.0065835|AlignEnd=35218.5317274|Gloss=PAUSE
+8	махалэй	махалы	NOUN	_	_	10	nmod	_	AlignBegin=35218.5317274|AlignEnd=35837.4745422|Gloss=roof
+9	саблюй	саблюй	ADJ	_	_	10	amod	_	AlignBegin=35837.4745422|AlignEnd=36360.8994966|Gloss=peak
+10	харадм'	харадX	NOUN	_	_	11	obj	_	AlignBegin=36360.8994966|AlignEnd=36801.1602731|Gloss=house-acc-acc
+11	манэ"-ӈава"	манэ"-X	VERB	_	_	0	root	_	AlignBegin=36801.1602731|AlignEnd=37427.2149948|Gloss=see-co-1pl
+12	<s_p>	<s_p>	PUNCT	_	_	11	punct	_	AlignBegin=37427.2149948|AlignEnd=37648.0161231|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_14
+# text = харад' ня' хаява" <b_p> нянда тэв"махада -на" <b_p> ядувнанда харданда пя <e_r>ядувна махалэянда ни' танэйна" <s_p>
+# text_ru = Мы пошли к башне, после того как мы дошли до нее, по боку ее, по ее стене мы поднялись на ее крышу.
+# text_en = We went to the tower and when we got there we climbed up to the roof by walking along the side and the wall.
+1	харад'	харадX	NOUN	_	_	3	obl:arg	_	AlignBegin=37648.0161231|AlignEnd=38071.6177381|Gloss=house-gen
+2	ня'	ня'	ADP	_	_	1	case	_	AlignBegin=38071.6177381|AlignEnd=38265.3825956|Gloss=to.dat
+3	хаява"	хэ-X	VERB	_	_	0	root	_	AlignBegin=38265.3825956|AlignEnd=38881.7467364|Gloss=go-1pl
+4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=38881.7467364|AlignEnd=39501.0558582|Gloss=SIL
+5	нянда	ня--нда	ADP	_	_	6	obl:arg	_	AlignBegin=39501.0558582|AlignEnd=39760.4877599|Gloss=atposs.dat.3sg
+6	тэв"махада	тэва-XX	VERB	_	_	15	ccomp	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=arrive--pfv.an-abl
+7	-на"	X	DET	_	_	6	det:poss	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=-poss.1pl
+8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=40457.0363818|AlignEnd=41138.6920594|Gloss=SIL
+9	ядувнанда	ядXX	NOUN	_	_	15	obl:arg	_	AlignBegin=41138.6920594|AlignEnd=41821.1848601|Gloss=wall-prol-poss.gen.3sg
+10	харданда	харадX	NOUN	_	_	12	nmod:poss	_	AlignBegin=41821.1848601|AlignEnd=42343.9903341|Gloss=house-poss.gen.3sg
+11	пя	пя	NOUN	_	_	12	nmod	_	AlignBegin=42343.9903341|AlignEnd=42511.8986615|Gloss=tree
+12	<e_r>ядувна	ядX	NOUN	_	_	9	reparandum	_	AlignBegin=42511.8986615|AlignEnd=43006.083398|Gloss=wall-prol
+13	махалэянда	махалыX	NOUN	_	_	9	parataxis	_	AlignBegin=43006.083398|AlignEnd=43521.2566753|Gloss=roof-poss.gen.3sg
+14	ни'	ни'	ADP	_	_	9	case	_	AlignBegin=43521.2566753|AlignEnd=43713.969642|Gloss=on.dat
+15	танэйна"	танэй-X	VERB	_	_	3	parataxis	_	AlignBegin=43713.969642|AlignEnd=44293.4277872|Gloss=go.up-1pl.refl
+16	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=44293.4277872|AlignEnd=44688.7685248|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_15
+# text = махалэянда нид я"амна сыр-ӈава" <b_p>
+# text_ru = С ее крыши мы посмотрели по сторонам.
+# text_en = From the roof we looked around.
+1	махалэянда	махалыX	NOUN	_	_	4	obl:arg	_	AlignBegin=44688.7685248|AlignEnd=45184.1847278|Gloss=roof--poss.gen.3sg
+2	нид	нид	ADP	_	_	1	case	_	AlignBegin=45184.1847278|AlignEnd=45390.6301471|Gloss=at.abl
+3	я"амна	я"амна	ADP	_	_	4	obl:arg	_	AlignBegin=45390.6301471|AlignEnd=45812.2087689|Gloss=around.prol
+4	сыр-ӈава"	сыр-X	VERB	_	_	0	root	_	AlignBegin=45812.2087689|AlignEnd=46594.4760954|Gloss=look-co-1pl
+5	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=46594.4760954|AlignEnd=47063.4977407|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_16
+# text = я"амна сыро"махада -на" ян' ха"мына" <s_p>
+# text_ru = После того как мы посмотрели по сторонам мы спустились.
+# text_en = After looking around, we climbed down.
+1	я"амна	я"амна	ADV	_	_	2	obl:arg	_	AlignBegin=47063.4977407|AlignEnd=47348.9656252|Gloss=around.prol
+2	сыро"махада	сыр-XX	VERB	_	_	5	ccomp	_	AlignBegin=47348.9656252|AlignEnd=47958.2367473|Gloss=look-pfv.an-abl
+3	-на"	X	DET	_	_	2	det:poss	_	AlignBegin=47348.9656252|AlignEnd=47958.2367473|Gloss=-poss.1pl
+4	ян'	яX	NOUN	_	_	5	obl:arg	_	AlignBegin=47958.2367473|AlignEnd=48234.4904768|Gloss=land-dat
+5	ха"мына"	ха"амы-X	VERB	_	_	0	root	_	AlignBegin=48234.4904768|AlignEnd=48861.7437494|Gloss=go.down--1pl.refl
+6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=48861.7437494|AlignEnd=49223.841353|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_17
+# text = танця' нимня ха"мына" <s_p>
+# text_ru = Спустились потом по лестнице.
+# text_en = Then we went down the stairs.
+1	танця'	танцие"	NOUN	_	_	3	obl:arg	_	AlignBegin=49223.841353|AlignEnd=49645.5629787|Gloss=stairs
+2	нимня	нимня	ADP	_	_	1	case	_	AlignBegin=49645.5629787|AlignEnd=49807.7315631|Gloss=top.prol
+3	ха"мына"	ха"амы-X	VERB	_	_	0	root	_	AlignBegin=49807.7315631|AlignEnd=50374.8114692|Gloss=go.down--1pl.refl
+4	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=50374.8114692|AlignEnd=50606.7418763|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_18
+# text = Тадтикахавахад <b_p> маха<a> харадм' <f_s>сюрт<u_l> сятаняӈы хэвувнанда сюрте <m_l>хэя<b_p> хой' <u_w>ниӈа тир' сер' ялъяна" <s_p>
+# text_ru = Затем мы обошли дом с левой стороны, пошли по высокому ровному месту пешком.
+# text_en = Next, we walked around the left side of the house and returned to the high, flat ground.
+1	Тадтикахавахад	тадтикахавахад	ADV	_	_	9	obl:arg	_	AlignBegin=50606.7418763|AlignEnd=51728.6156375|Gloss=afterwards
+2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=51728.6156375|AlignEnd=54649.3234326|Gloss=PAUSE
+3	маха<a>	маха	NOUN	_	_	9	obl:mod	_	AlignBegin=54649.3234326|AlignEnd=55244.2816745|Gloss=back
+4	харадм'	харадX	NOUN	_	_	9	obj	_	AlignBegin=55244.2816745|AlignEnd=55683.5491889|Gloss=house-acc
+5	<f_s>сюрт<u_l>	сюрте	ADP	_	_	9	obl:arg	_	AlignBegin=55683.5491889|AlignEnd=56004.541037|Gloss=around
+6	сятаняӈы	сятаняӈы	ADJ	_	_	7	amod	_	AlignBegin=56004.541037|AlignEnd=56506.4632633|Gloss=to.the.left.adj
+7	хэвувнанда	хэвXX	NOUN	_	_	5	reparandum	_	AlignBegin=56506.4632633|AlignEnd=56972.3912384|Gloss=side-prol-poss.3sg
+8	сюрте	сюрте	ADP	_	_	7	case	_	AlignBegin=56972.3912384|AlignEnd=57793.7432415|Gloss=around
+9	<m_l>хэя<b_p>	хэ-<b_p>	PUNCT	_	_	0	root	_	AlignBegin=56972.3912384|AlignEnd=58380.4204161|Gloss=goSIL
+10	хой'	хойx	NOUN	_	_	12	nmod:poss	_	AlignBegin=58380.4204161|AlignEnd=58582.401827|Gloss=hill-gen
+11	<u_w>ниӈа	ниня	ADP	_	_	10	case	_	AlignBegin=58582.401827|AlignEnd=59179.9403164|Gloss=at.loc
+12	тир'	тирX	NOUN	_	_	14	obl:arg	_	AlignBegin=59179.9403164|AlignEnd=59439.1332951|Gloss=edge-gen
+13	сер'	сер'	ADP	_	_	12	case	_	AlignBegin=59439.1332951|AlignEnd=59686.1362838|Gloss=at.the.time.of
+14	ялъяна"	ялъя-X	VERB	_	_	9	parataxis	_	AlignBegin=59686.1362838|AlignEnd=60451.3848451|Gloss=walk-1pl.refl
+15	<s_p>	<s_p>	PUNCT	_	_	9	punct	_	AlignBegin=60451.3848451|AlignEnd=60789.1369941|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_19
+# text = маханякубта' мэва" ӈоб' ядава" ядава" <b_p>
+# text_ru = Взяли слегка правее, и все идем-идем.
+# text_en = We turned slightly to the right and walked on.
+1	маханякубта'	маханякубтаX	NOUN	_	_	2	nmod:poss	_	AlignBegin=60789.1369941|AlignEnd=61400.2402374|Gloss=right.side-gen
+2	мэва"	мэ-X	PRON	_	_	0	root	_	AlignBegin=61400.2402374|AlignEnd=61723.6880008|Gloss=take-1pl
+3	ӈоб'	ӈоб'	ADV	_	_	4	obl:arg	_	AlignBegin=61723.6880008|AlignEnd=62105.6863329|Gloss=once, and
+4	ядава"	яда-X	VERB	_	_	2	parataxis	_	AlignBegin=62105.6863329|AlignEnd=62594.4069228|Gloss=walk--1pl
+5	ядава"	яда-X	VERB	_	_	2	parataxis	_	AlignBegin=62594.4069228|AlignEnd=63116.2611121|Gloss=walk--1pl
+6	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=63116.2611121|AlignEnd=63715.9792598|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_20
+# text = тадтикахад <b_p> яха' таркан' тэвына" <b_p>
+# text_ru = Потом мы дошли до развилки реки.
+# text_en = We came to a fork in the river.
+1	тадтикахад	тадтикахад	ADV	_	_	5	obl:arg	_	AlignBegin=63715.9792598|AlignEnd=64377.3617698|Gloss=afterwards
+2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=64377.3617698|AlignEnd=64696.0075272|Gloss=PAUSE
+3	яха'	яхаX	NOUN	_	_	4	nmod:poss	_	AlignBegin=64696.0075272|AlignEnd=65020.1002207|Gloss=river-gen
+4	таркан'	таркаX	NOUN	_	_	5	obl:arg	_	AlignBegin=65020.1002207|AlignEnd=65397.3005403|Gloss=fork-dat
+5	тэвына"	тэва-X	VERB	_	_	0	root	_	AlignBegin=65397.3005403|AlignEnd=65743.1809779|Gloss=arrive-1pl.refl
+6	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=65743.1809779|AlignEnd=66257.9164322|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_21
+# text = яха таркам' <b_p> тарканда пыя' няю' мада таслава" <b_p>
+# text_ru = Мы решили переплыть рукав реки в сторону мыса на развилке.
+# text_en = We decided to swim across to the cape.
+1	яха	яха	NOUN	_	_	2	nmod:poss	_	AlignBegin=66257.9164322|AlignEnd=66612.4739254|Gloss=river
+2	таркам'	таркаX	NOUN	_	_	8	obj	_	AlignBegin=66612.4739254|AlignEnd=66973.9606716|Gloss=fork-acc
+3	<b_p>	<b_p>	X	_	_	2	discourse	_	AlignBegin=66973.9606716|AlignEnd=67441.7794502|Gloss=PAUSE
+4	тарканда	таркаX	NOUN	_	_	5	nmod:poss	_	AlignBegin=67441.7794502|AlignEnd=67796.7266731|Gloss=fork-poss.gen.3sg
+5	пыя'	пыяX	NOUN	_	_	7	obl:arg	_	AlignBegin=67796.7266731|AlignEnd=68055.9139045|Gloss=end-gen
+6	няю'	няю'	ADP	_	_	5	case	_	AlignBegin=68055.9139045|AlignEnd=68516.7672818|Gloss=towards.dat
+7	мада	мада-	ADV	_	_	8	obj	_	AlignBegin=68516.7672818|AlignEnd=68822.7944936|Gloss=pass.across.cvb
+8	таслава"	тасла-X	VERB	_	_	0	root	_	AlignBegin=68822.7944936|AlignEnd=69549.3357161|Gloss=decide-1pl
+9	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=69549.3357161|AlignEnd=71024.8716256|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_22
+# text = идм' <b_p> ӈохолё мадава" <b_p>
+# text_ru = Мы перешли реку вплавь.
+# text_en = We crossed the river by swimming.
+1	идм'	и"X	NOUN	_	_	4	obj	_	AlignBegin=71024.8716256|AlignEnd=71512.1025702|Gloss=water-acc
+2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=71512.1025702|AlignEnd=71770.9475013|Gloss=PAUSE
+3	ӈохолё	ӈохолё	VERB	_	_	4	ccomp	_	AlignBegin=71770.9475013|AlignEnd=72144.2163765|Gloss=swim.cvb
+4	мадава"	мада-X	VERB	_	_	0	root	_	AlignBegin=72144.2163765|AlignEnd=72646.4871968|Gloss=pass.across-1pl
+5	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=72646.4871968|AlignEnd=72954.4366767|Gloss=SIL
+
+# doc_title = MapTask_004
+# sent_id = yrk_MapTask_004_23
+# text = тарка' пыян' <s_p> нултава" <s_p>
+# text_ru = Остановились на мысе на развилке.
+# text_en = We stopped at a fork at the cape.
+1	тарка'	таркаX	NOUN	_	_	2	nmod:poss	_	AlignBegin=72954.4366767|AlignEnd=73278.7530354|Gloss=fork-gen
+2	пыян'	пыяX	NOUN	_	_	4	obl:arg	_	AlignBegin=73278.7530354|AlignEnd=73566.4915143|Gloss=end-dat
+3	<s_p>	<s_p>	X	_	_	2	discourse	_	AlignBegin=73566.4915143|AlignEnd=73843.4043952|Gloss=PAUSE
+4	нултава"	нулта-X	VERB	_	_	0	root	_	AlignBegin=73843.4043952|AlignEnd=74723.8067613|Gloss=stop-1pl
+5	<s_p>	<s_p>	PUNCT	_	_	4	punct	_	AlignBegin=74723.8067613|AlignEnd=75447.3796963|Gloss=SIL
+
