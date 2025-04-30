@@ -93,8 +93,8 @@
 # translit = ńerńiʔ ńana <s_p> ṕirća xaradmʔ manæʡŋadmʔ <b_p>
 # text_ru = Впереди я увидел высокую башню.
 # text_en = I see a tall tower in front of me.
-1	нерниʼ	нер-X	ADP	_	_	6	obl:arg	_	AlignBegin=21124.9407683|AlignEnd=21678.6454018|Gloss=in.front.of-poss.gen.1sg|LTranslit=X|Translit=ńer_-ńiʔ
-2	няна	няна	ADP	_	_	1	dep:comp	_	AlignBegin=21678.6454018|AlignEnd=22449.647707|Gloss=at.loc|LTranslit=ńana|Translit=ńana
+1	нерниʼ	нер-X	PRON	_	_	6	obl:arg	_	AlignBegin=21124.9407683|AlignEnd=21678.6454018|Gloss=in.front.of-poss.gen.1sg|LTranslit=X|Translit=ńer_-ńiʔ
+2	няна	няна	ADP	_	_	1	case	_	AlignBegin=21678.6454018|AlignEnd=22449.647707|Gloss=at.loc|LTranslit=ńana|Translit=ńana
 3	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=22449.647707|AlignEnd=22599.2212777|Gloss=PAUSE|LTranslit=<s_p>|Translit=<s_p>
 4	пирця	пирця	ADJ	_	_	5	amod	_	AlignBegin=22599.2212777|AlignEnd=23198.5464252|Gloss=tall|LTranslit=ṕirća|Translit=ṕirća
 5	харадмʼ	харадX	NOUN	_	_	6	obj	_	AlignBegin=23198.5464252|AlignEnd=23679.3582309|Gloss=house-acc|LTranslit=X|Translit=xarad_-mʔ
@@ -321,8 +321,8 @@
 2	ӈаниʼ	ӈаниʼ	ADV	_	_	3	obl:arg	_	AlignBegin=69421.8852824|AlignEnd=69639.9988125|Gloss=again|LTranslit=ŋańiʔ|Translit=ŋańiʔ
 3	ялъяваˮ	ялъя-XX	VERB	_	_	8	ccomp	_	AlignBegin=69639.9988125|AlignEnd=70356.6575543|Gloss=walk-ipfv.an-gen|LTranslit=X|Translit=jal"ja_-va_-ʡ
 4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=70356.6575543|AlignEnd=70703.3022717|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
-5	нерниʼ	нер-X	ADP	_	_	8	obl:arg	_	AlignBegin=70703.3022717|AlignEnd=71046.0521048|Gloss=in.front.of-poss.gen.1sg|LTranslit=X|Translit=ńer_-ńiʔ
-6	няна	няна	ADP	_	_	5	dep:comp	_	AlignBegin=71046.0521048|AlignEnd=71303.1144795|Gloss=at.loc|LTranslit=ńana|Translit=ńana
+5	нерниʼ	нер-X	PRON	_	_	8	obl:arg	_	AlignBegin=70703.3022717|AlignEnd=71046.0521048|Gloss=in.front.of-poss.gen.1sg|LTranslit=X|Translit=ńer_-ńiʔ
+6	няна	няна	ADP	_	_	5	case	_	AlignBegin=71046.0521048|AlignEnd=71303.1144795|Gloss=at.loc|LTranslit=ńana|Translit=ńana
 7	пямʼ	пяX	NOUN	_	_	8	obj	_	AlignBegin=71303.1144795|AlignEnd=71521.2280096|Gloss=tree-acc|LTranslit=X|Translit=ṕa_-mʔ
 8	манэˮ-ӈадмʼ	манэˮ-X	VERB	_	_	0	root	_	AlignBegin=71521.2280096|AlignEnd=72048.6539439|Gloss=see-co-1sg|LTranslit=manæʡ-|Translit=manæʡ-ŋa_-dmʔ
 9	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=72048.6539439|AlignEnd=72393.8946645|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>

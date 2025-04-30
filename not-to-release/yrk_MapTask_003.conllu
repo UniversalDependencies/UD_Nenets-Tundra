@@ -91,8 +91,8 @@
 # translit = ńerńi ńana <s_p> ṕirća maxalæjtana xaradmʔ manæʡŋadmʔ <b_p>
 # text_ru = Впереди себя я увидел высокую башню с крышей.
 # text_en = I saw a tall tower with a roof in front of me.
-1	нерни	нер-X	ADP	_	_	8	obl:arg	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=in.front.of-poss.gen.1sg|LTranslit=X|Translit=ńer_-ńi
-2	няна	няна	ADP	_	_	1	dep:comp	_	AlignBegin=28575.0894168|AlignEnd=29147.7866932|Gloss=at.loc|LTranslit=ńana|Translit=ńana
+1	нерни	нер-X	PRON	_	_	8	obl:arg	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=in.front.of-poss.gen.1sg|LTranslit=X|Translit=ńer_-ńi
+2	няна	няна	ADP	_	_	1	case	_	AlignBegin=28575.0894168|AlignEnd=29147.7866932|Gloss=at.loc|LTranslit=ńana|Translit=ńana
 3	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=29147.7866932|AlignEnd=29690.5203274|Gloss=PAUSE|LTranslit=<s_p>|Translit=<s_p>
 4	пирця	пирця	ADJ	_	_	5	amod	_	AlignBegin=29690.5203274|AlignEnd=30023.3881469|Gloss=tall|LTranslit=ṕirća|Translit=ṕirća
 5	махалэйта	махалэйX	ADJ	_	_	7	amod	_	AlignBegin=30023.3881469|AlignEnd=30663.7782393|Gloss=roof.adj-predest|LTranslit=maxalæj|Translit=maxalæj_-ta

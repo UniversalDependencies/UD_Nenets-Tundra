@@ -91,8 +91,8 @@
 # translit = ťikyʔ pud <b_p> jaxamʔ <s_p> tarkaxajuta ńamna <s_p> ŋoxolyrć <s_p> madav <s_p>
 # text_ru = После я переплыл реку там, где находится его развилка.
 # text_en = Then I crossed the river by swimming along where it forks.
-1	тикыʼ	тикыX	DET	_	_	12	obl:arg	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|Gloss=that-gen|LTranslit=X|Translit=ťiky_-ʔ
-2	пуд	пуд	ADP	_	_	1	dep:comp	_	AlignBegin=20134.6823599|AlignEnd=20652.628525|Gloss=after.abl|LTranslit=pud|Translit=pud
+1	тикыʼ	тикыX	PRON	_	_	12	obl:arg	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|Gloss=that-gen|LTranslit=X|Translit=ťiky_-ʔ
+2	пуд	пуд	ADP	_	_	1	case	_	AlignBegin=20134.6823599|AlignEnd=20652.628525|Gloss=after.abl|LTranslit=pud|Translit=pud
 3	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=20652.628525|AlignEnd=21543.9814893|Gloss=PAUSE|LTranslit=<b_p>|Translit=<b_p>
 4	яхамʼ	яхаX	NOUN	_	_	12	obj	_	AlignBegin=21543.9814893|AlignEnd=22108.9389461|Gloss=river-acc|LTranslit=X|Translit=jaxa_-mʔ
 5	<s_p>	<s_p>	X	_	_	4	discourse	_	AlignBegin=22108.9389461|AlignEnd=25217.3576132|Gloss=PAUSE|LTranslit=<s_p>|Translit=<s_p>
@@ -186,8 +186,8 @@
 # translit = ńerńi ńana <s_p> ṕirća xaradmʔ manæʡŋadmʔ <b_p>
 # text_ru = Впереди себя я увидел высокую башню(дом).
 # text_en = In front of me I saw a high house.
-1	нерни	нер-X	ADP	_	_	6	obl:arg	_	AlignBegin=46473.4729404|AlignEnd=47023.0522783|Gloss=in.front.of-poss.gen.1sg|LTranslit=X|Translit=ńer-_-ńi
-2	няна	няна	ADP	_	_	1	dep:comp	_	AlignBegin=47023.0522783|AlignEnd=47605.5841684|Gloss=at.loc|LTranslit=ńana|Translit=ńana
+1	нерни	нер-X	PRON	_	_	6	obl:arg	_	AlignBegin=46473.4729404|AlignEnd=47023.0522783|Gloss=in.front.of-poss.gen.1sg|LTranslit=X|Translit=ńer-_-ńi
+2	няна	няна	ADP	_	_	1	case	_	AlignBegin=47023.0522783|AlignEnd=47605.5841684|Gloss=at.loc|LTranslit=ńana|Translit=ńana
 3	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=47605.5841684|AlignEnd=47773.5701088|Gloss=PAUSE|LTranslit=<s_p>|Translit=<s_p>
 4	пирця	пирця	ADJ	_	_	5	amod	_	AlignBegin=47773.5701088|AlignEnd=48117.6703416|Gloss=tall|LTranslit=ṕirća|Translit=ṕirća
 5	харадмʼ	харадX	NOUN	_	_	6	obj	_	AlignBegin=48117.6703416|AlignEnd=48591.8242056|Gloss=house-acc|LTranslit=X|Translit=xarad_-mʔ
