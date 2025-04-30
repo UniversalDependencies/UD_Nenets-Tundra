@@ -28,13 +28,13 @@
 Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: grammar-examples
+Genre: semi-spontaneous spoken data
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Mus, Nikolett; 
+Contributors: Guillaume, Bruno; Kahane, Sylvain; Mus, Nikolett; Zeman, Dan
 Contributing: here
 Contact: mus.nikolett@gmail.com
 ===============================================================================
