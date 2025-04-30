@@ -19,13 +19,13 @@
 
 # Changelog
 
-* 2024-11-15 v2.15
+* 2025-05-15 v2.16
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.15
+Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: grammar-examples
@@ -34,7 +34,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Mus, Nikolett
+Contributors: Mus, Nikolett; 
 Contributing: here
 Contact: mus.nikolett@gmail.com
 ===============================================================================
