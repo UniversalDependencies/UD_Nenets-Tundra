@@ -233,7 +233,7 @@
 7	ӈано	ӈано	NOUN	_	_	10	nsubj	_	AlignBegin=65834.3155146|AlignEnd=66020.0993182|Gloss=boat|LTranslit=ŋano|Translit=ŋano
 8	яхаʼ	яхаX	NOUN	_	_	10	obl:arg	_	AlignBegin=66020.0993182|AlignEnd=66304.9725801|Gloss=river-gen|LTranslit=X|Translit=jaxa_-ʔ
 9	тяханяна	тяханяна	ADP	_	_	8	case	_	AlignBegin=66304.9725801|AlignEnd=66635.9821287|Gloss=through.loc|LTranslit=ťaxańana|Translit=ťaxańana
-10	ӈэвы	ӈaX	AUX	_	_	5	parataxis	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=be-infr.3sg|LTranslit=X|Translit=ŋæ_-vy
+10	ӈэвы	ӈa	AUX	_	_	5	parataxis	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=be-infr.3sg|LTranslit=X|Translit=ŋæ_-vy
 11	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=67045.1241455|AlignEnd=67942.4445949|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 
 # doc_title = MapTask_003
