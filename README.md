@@ -4,7 +4,7 @@ The Tundra Nenets UD treebank is converted from the Tundra Nenets mSUD treebank.
 
 # Introduction
 
-The treebank currently consists of 93 manually annotated sentences. The data originates from a fieldwork session conducted in Moscow in 2017 with a native speaker of Tundra Nenets, representing the Yamal dialect. The session involved semi-spontaneous speech elicitation using visual stimulus-based tasks, based on a modified version of the [HCRC Map Task](https://groups.inf.ed.ac.uk/maptask/maptasknxt.html)
+The treebank currently consists of 93 manually annotated sentences (5.6758783 seconds of recorded speech). The data originates from a fieldwork session conducted in Moscow in 2017 with a native speaker of Tundra Nenets, representing the Yamal dialect. The session involved semi-spontaneous speech elicitation using visual stimulus-based tasks, based on a modified version of the [HCRC Map Task](https://groups.inf.ed.ac.uk/maptask/maptasknxt.html)
 
 The morphological and syntactic annotation of the original mSUD treebank was created manually. The conversion from mSUD to UD was designed and implemented by Bruno Guillaume.
 
