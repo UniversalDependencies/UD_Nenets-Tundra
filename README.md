@@ -1,6 +1,6 @@
 # Summary
 
-The Tundra Nenets UD treebank is converted from the Tundra Nenets mSUD treebank. The conversion from mSUD to UD is performed automatically followed by a comprehensive manual revision to ensure compliance with the UD annotation standards.
+The Tundra Nenets UD treebank is converted from the [Tundra Nenets mSUD treebank]([url](https://github.com/surfacesyntacticud/mSUD_Nenets-Tundra)). The conversion from mSUD to UD is performed automatically followed by a comprehensive manual revision to ensure compliance with the UD annotation standards.
 
 # Introduction
 
