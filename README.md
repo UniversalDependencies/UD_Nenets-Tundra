@@ -39,7 +39,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Guillaume, Bruno; Kahane, Sylvain; Mus, Nikolett; Zeman, Dan
+Contributors: Guillaume, Bruno; Kahane, Sylvain; Mus, Nikolett; Zeman, Daniel
 Contributing: here
 Contact: mus.nikolett@gmail.com
 ===============================================================================
