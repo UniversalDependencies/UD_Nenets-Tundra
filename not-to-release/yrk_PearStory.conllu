@@ -133,21 +133,17 @@
 
 # doc_title = PearStory
 # sent_id = yrk_PearStory_8
-# text = вэрдамби -до -в <p> вэрдамби -до -в <p>
+# text = вэрдамбидов <p> вэрдамбидов <p>
 # translit = wærdamb́i -do -w <p> wærdamb́i -do -w <p>
 # text_p = вэрдамбидов <p> вэрдамбидов <p>
 # media = spoken
 # language_variety = Tundra
 # text_ru = Вынимает их, вынимает их.
 # text_en = He just pulls them, just pulls them.
-1	вэрдамби	вэрдамби	VERB	_	_	0	root	_	AlignBegin=33366.518752|AlignEnd=34564.2612254|Gloss=pull|LTranslit=wærdamb́i|Translit=wærdamb́i
-2	-до	_	PRON	_	_	1	nsubj/m	_	AlignBegin=33366.518752|AlignEnd=34564.2612254|Gloss=-3sg.pl|lemma_X=Yes|LTranslit=X|Translit=-do
-3	-в	_	AUX	_	_	1	aux	_	AlignBegin=33366.518752|AlignEnd=34564.2612254|Gloss=Focus|lemma_X=Yes|LTranslit=X|Translit=-w
-4	<p>	<p>	PUNCT	_	_	1	punct	_	AlignBegin=34564.2612254|AlignEnd=35155.5276582|Gloss=SIL|LTranslit=<p>|Translit=<p>
-5	вэрдамби	вэрдамби	VERB	_	_	1	parataxis	_	AlignBegin=35155.5276582|AlignEnd=36298.5109295|Gloss=pull|LTranslit=wærdamb́i|Translit=wærdamb́i
-6	-до	_	PRON	_	_	5	nsubj/m	_	AlignBegin=35155.5276582|AlignEnd=36298.5109295|Gloss=-3sg.pl|lemma_X=Yes|LTranslit=X|Translit=-do
-7	-в	_	AUX	_	_	5	aux	_	AlignBegin=35155.5276582|AlignEnd=36298.5109295|Gloss=Focus|lemma_X=Yes|LTranslit=X|Translit=-w
-8	<p>	<p>	PUNCT	_	_	1	punct	_	AlignBegin=36298.5109295|AlignEnd=36757.2862218|Gloss=SIL|LTranslit=<p>|Translit=<p>
+1	вэрдамбидов	вэрдамби	VERB	_	_	0	root	_	AlignBegin=33366.518752|AlignEnd=34564.2612254|lemma_X=Yes|LTranslit=wærdamb́iXX|MGloss=pull-3sg.plFocus|MSeg=вэрдамби-до-в|Translit=wærdamb́i-do-w
+2	<p>	<p>	PUNCT	_	_	1	punct	_	AlignBegin=34564.2612254|AlignEnd=35155.5276582|Gloss=SIL|LTranslit=<p>|Translit=<p>
+3	вэрдамбидов	вэрдамби	VERB	_	_	1	parataxis	_	AlignBegin=35155.5276582|AlignEnd=36298.5109295|lemma_X=Yes|LTranslit=wærdamb́iXX|MGloss=pull-3sg.plFocus|MSeg=вэрдамби-до-в|Translit=wærdamb́i-do-w
+4	<p>	<p>	PUNCT	_	_	1	punct	_	AlignBegin=36298.5109295|AlignEnd=36757.2862218|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
 # sent_id = yrk_PearStory_9
@@ -744,21 +740,19 @@
 
 # doc_title = PearStory
 # sent_id = yrk_PearStory_42
-# text = сидя парисеˮэ паӈгаляркава -да -ӈэ <p> паридериӈахаʼ <p>
+# text = сидя парисеˮэ паӈгаляркавадаӈэ <p> паридериӈахаʼ <p>
 # translit = śiďa paŕiśeʡæ paŋgaľar -kawa -da -ŋæ <p> paŕiďe -ŕi -ŋa -xaʔ <p>
 # text_p = сидя парисеˮэ паӈгаляркавадаӈэ <p> паридериӈахаʼ <p>
 # media = spoken
 # language_variety = Tundra
 # text_ru = Её две косы были очень чёрные.
 # text_en = Her two braids were very black indeed.
-1	сидя	сидя	NUM	_	_	3	dep	_	AlignBegin=191102.609689|AlignEnd=191367.715038|Gloss=two|LTranslit=śiďa|Translit=śiďa
+1	сидя	сидя	NUM	_	_	3	nummod	_	AlignBegin=191102.609689|AlignEnd=191367.715038|Gloss=two|LTranslit=śiďa|Translit=śiďa
 2	парисеˮэ	парисеэ	ADJ	_	_	3	amod	_	AlignBegin=191367.715038|AlignEnd=191876.968565|Gloss=very.black|LTranslit=paŕiśeæ|Translit=paŕiśeʡæ
-3	паӈгаляркава	паӈглярˮ	NOUN	_	_	7	obl:mod	_	AlignBegin=191876.968565|AlignEnd=193011.621161|LTranslit=paŋgľarʡX|MGloss=braidAff|MSeg=паӈгаляр-кава|Translit=paŋgaľar-kawa
-4	-да	_	ADP	_	_	3	dep	_	AlignBegin=191876.968565|AlignEnd=193011.621161|Gloss=-poss.gen.3sg|lemma_X=Yes|LTranslit=X|Translit=-da
-5	-ӈэ	_	ADP	_	_	3	case	_	AlignBegin=191876.968565|AlignEnd=193011.621161|Gloss=-ess|lemma_X=Yes|LTranslit=X|Translit=-ŋæ
-6	<p>	<p>	INTJ	_	_	3	discourse	_	AlignBegin=193011.621161|AlignEnd=193561.078914|Gloss=X|LTranslit=<p>|Translit=<p>
-7	паридериӈахаʼ	париде	VERB	_	_	0	root	_	AlignBegin=193561.078914|AlignEnd=194177.54371|lemma_X=Yes|LTranslit=paŕiďeXXX|MGloss=be.black-limX-du|MSeg=париде-ри-ӈа-хаʼ|Translit=paŕiďe-ŕi-ŋa-xaʔ
-8	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=194177.54371|AlignEnd=195540.020253|Gloss=SIL|LTranslit=<p>|Translit=<p>
+3	паӈгаляркавадаӈэ	паӈглярˮ	NOUN	_	_	5	obl:mod	_	AlignBegin=191876.968565|AlignEnd=193011.621161|lemma_X=Yes|LTranslit=paŋgľarʡXXX|MGloss=braidAff-poss.gen.3sg-ess|MSeg=паӈгаляр-кава-да-ӈэ|Translit=paŋgaľar-kawa-da-ŋæ
+4	<p>	<p>	INTJ	_	_	3	discourse	_	AlignBegin=193011.621161|AlignEnd=193561.078914|Gloss=X|LTranslit=<p>|Translit=<p>
+5	паридериӈахаʼ	париде	VERB	_	_	0	root	_	AlignBegin=193561.078914|AlignEnd=194177.54371|lemma_X=Yes|LTranslit=paŕiďeXXX|MGloss=be.black-limX-du|MSeg=париде-ри-ӈа-хаʼ|Translit=paŕiďe-ŕi-ŋa-xaʔ
+6	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=194177.54371|AlignEnd=195540.020253|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
 # sent_id = yrk_PearStory_43
@@ -1105,7 +1099,7 @@
 
 # doc_title = PearStory
 # sent_id = yrk_PearStory_61
-# text = ненаˮ саванёˮ савакоцями та -ра -нёˮ <p>
+# text = ненаˮ саванёˮ савакоцями таранёˮ <p>
 # translit = ńenaʡ sawa -ńoʡ sawakoća -ḿi ta -ra -ńoʡ <p>
 # text_p = ненаˮ сава -нёˮ савакоця -ми та -ра -нёˮ <p>
 # media = spoken
@@ -1115,10 +1109,8 @@
 1	ненаˮ	ненаˮ	ADV	_	_	2	advmod	_	AlignBegin=283554.392903|AlignEnd=283885.342518|Gloss=very|LTranslit=ńenaʡ|Translit=ńenaʡ
 2	саванёˮ	сава	ADJ	_	_	0	root	_	AlignBegin=283885.342518|AlignEnd=284211.420271|lemma_X=Yes|LTranslit=sawaX|MGloss=goodExcl|MSeg=сава-нёˮ|Translit=sawa-ńoʡ
 3	савакоцями	сава	NOUN	_	_	4	obj	_	AlignBegin=284211.420271|AlignEnd=284834.49878|lemma_X=Yes|LTranslit=sawaX|MGloss=hat-poss.acc.1sg|MSeg=савакоця-ми|Translit=sawakoća-ḿi
-4	та	та	VERB	_	_	2	parataxis	_	AlignBegin=284834.49878|AlignEnd=285534.423639|Gloss=give|LTranslit=ta|Translit=ta
-5	-ра	_	PRON	_	_	4	nsubj/m	_	AlignBegin=284834.49878|AlignEnd=285534.423639|Gloss=-2pl.sg|lemma_X=Yes|LTranslit=X|Translit=-ra
-6	-нёˮ	_	AUX	_	_	4	aux	_	AlignBegin=284834.49878|AlignEnd=285534.423639|Gloss=Excl|lemma_X=Yes|LTranslit=X|Translit=-ńoʡ
-7	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=285534.423639|AlignEnd=285873.871699|Gloss=SIL|LTranslit=<p>|Translit=<p>
+4	таранёˮ	та	VERB	_	_	2	parataxis	_	AlignBegin=284834.49878|AlignEnd=285534.423639|lemma_X=Yes|LTranslit=taXX|MGloss=give-2pl.sgExcl|MSeg=та-ра-нёˮ|Translit=ta-ra-ńoʡ
+5	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=285534.423639|AlignEnd=285873.871699|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
 # sent_id = yrk_PearStory_62
