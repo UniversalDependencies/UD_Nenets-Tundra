@@ -40,7 +40,7 @@
 # language_variety = Tundra
 # text_ru = Стою за забором.
 # text_en = I <aham> fence, fence behind stand.
-1	марядʼ	марˮ	NOUN	_	Number=Sing|Person=2	6	obl:mod	_	AlignBegin=5942.22073504|AlignEnd=7001.65870127|lemma_X=Yes|LTranslit=marʡX|MGloss=fence-gen.poss.2sg|MSeg=маря-дʼ|Translit=maŕa-dʔ
+1	марядʼ	марˮ	NOUN	_	Number=Sing|Person=2	6	obl:mod	_	AlignBegin=5942.22073504|AlignEnd=7001.65870127|LTranslit=marʡX|MGloss=fence-gen.poss.2sg|MSeg=маря-дʼ|Translit=maŕa-dʔ
 2	<d>	<d>	INTJ	_	_	1	discourse	_	AlignBegin=7001.65870127|AlignEnd=7612.32719612|Gloss=DISFL|LTranslit=<d>|Translit=<d>
 3	<pr>маря<un>	марˮ	NOUN	_	_	1	reparandum	_	AlignBegin=7612.32719612|AlignEnd=8005.39543677|Gloss=fence|LTranslit=marʡ|Translit=<pr>maŕa<un>
 4	<er>марядʼ	марˮ	NOUN	_	Number=Sing|Person=2	1	reparandum	_	AlignBegin=8005.39543677|AlignEnd=8294.08141756|LTranslit=marʡ|MGloss=fence-gen.poss.2sg|MSeg=<er>маря-дʼ|Translit=<er>maŕa-dʔ

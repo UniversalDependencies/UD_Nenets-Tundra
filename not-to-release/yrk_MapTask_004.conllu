@@ -131,7 +131,7 @@
 1	яхаʼ	яха	NOUN	_	_	2	nmod:poss	_	AlignBegin=18132.5008258|AlignEnd=18509.3215354|LTranslit=jaxa|MGloss=river-gen|MSeg=яха-ʼ|Translit=jaxa-ʔ
 2	лаӈгʼ	лаӈг	NOUN	_	_	4	nmod:poss	_	AlignBegin=18509.3215354|AlignEnd=18932.9110244|LTranslit=laŋg|MGloss=steep.riverbank-gen|MSeg=лаӈг-ʼ|Translit=laŋg-ʔ
 3	маханяӈы	маханяӈы	ADJ	_	_	4	amod	_	AlignBegin=18932.9110244|AlignEnd=19436.9822842|Gloss=from.the.right.adj|LTranslit=maxańaŋi|Translit=maxańaŋi
-4	тирмананда	тир	NOUN	_	_	7	obl:mod	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|lemma_X=Yes|LTranslit=ťirX|MGloss=edge-prolposs.3sg|MSeg=тир-мана-нда|Translit=ťir-mana-nda
+4	тирмананда	тир	NOUN	_	_	7	obl:mod	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|LTranslit=ťirX|MGloss=edge-prolposs.3sg|MSeg=тир-мана-нда|Translit=ťir-mana-nda
 5	<p>	<p>	X	_	_	7	discourse	_	AlignBegin=20169.443982|AlignEnd=20482.3949484|Gloss=X|LTranslit=<p>|Translit=<p>
 6	тасиʼ	тасиʼ	ADV	_	_	7	advmod	_	AlignBegin=20482.3949484|AlignEnd=21013.2525137|Gloss=downward|LTranslit=taśiʔ|Translit=taśiʔ
 7	хаˮавраваˮ	хаˮавра	VERB	_	_	0	root	_	AlignBegin=21013.2525137|AlignEnd=21912.4589634|LTranslit=xaʡawra|MGloss=go.down-1pl|MSeg=хаˮавра-ваˮ|Translit=xaʡawra-waʡ
@@ -169,7 +169,7 @@
 7	ӈыламна	ӈыламна	ADP	_	_	6	case	_	AlignBegin=27098.7685973|AlignEnd=27576.0825389|Gloss=under.prol|LTranslit=ŋilamna|Translit=ŋilamna
 8	<p>	<p>	DET	_	_	6	discourse	_	AlignBegin=27576.0825389|AlignEnd=27860.5807046|Gloss=X|LTranslit=<p>|Translit=<p>
 9	ӈохолё	ӈохолё	VERB	_	VerbForm=Conv	10	advcl	_	AlignBegin=27860.5807046|AlignEnd=28201.1539735|Gloss=swim.cvb|LTranslit=ŋoxoľo|Translit=ŋoxoľo
-10	хэсь	хэ	ADV	_	_	4	ccomp	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|lemma_X=Yes|LTranslit=xæX|MGloss=go-cvb|MSeg=хэ-сь|Translit=xæ-ś
+10	хэсь	хэ	ADV	_	_	4	ccomp	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|LTranslit=xæX|MGloss=go-cvb|MSeg=хэ-сь|Translit=xæ-ś
 11	тара	тара	AUX	_	Number=Sing|Person=3	10	aux	_	AlignBegin=28516.3436309|AlignEnd=28898.5717859|Gloss=need.3sg|LTranslit=tara|Translit=tara
 12	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=28898.5717859|AlignEnd=29132.6391755|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
@@ -200,7 +200,7 @@
 1	яʼ	я	NOUN	_	_	2	nmod:poss	_	AlignBegin=31805.3447223|AlignEnd=32166.0669969|LTranslit=ja|MGloss=land-gen|MSeg=я-ʼ|Translit=ja-ʔ
 2	тирʼ	тир	NOUN	_	_	4	obl:mod	_	AlignBegin=32166.0669969|AlignEnd=32388.2142829|LTranslit=ťir|MGloss=edge-gen|MSeg=тир-ʼ|Translit=ťir-ʔ
 3	ниʼ	ниʼ	ADP	_	_	2	case	_	AlignBegin=32388.2142829|AlignEnd=32639.9456464|Gloss=on.dat|LTranslit=ńiʔ|Translit=ńiʔ
-4	танаˮмахаданаˮ	тана	VERB	_	_	10	advcl	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|lemma_X=Yes|LTranslit=tanaX|MGloss=go.up-pfv.an-abl-poss.1pl|MSeg=тана-ˮма-хада-наˮ|Translit=tana-ʡma-xada-naʡ
+4	танаˮмахаданаˮ	тана	VERB	_	_	10	advcl	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|LTranslit=tanaX|MGloss=go.up-pfv.an-abl-poss.1pl|MSeg=тана-ˮма-хада-наˮ|Translit=tana-ʡma-xada-naʡ
 5	пирця	пирця	ADJ	_	_	7	amod	_	AlignBegin=33774.7064265|AlignEnd=34528.0065835|Gloss=tall|LTranslit=ṕirća|Translit=ṕirća
 6	<p>	<p>	X	_	_	5	discourse	_	AlignBegin=34528.0065835|AlignEnd=35218.5317274|Gloss=X|LTranslit=<p>|Translit=<p>
 7	махалэй	махалы	NOUN	_	_	9	nmod	_	AlignBegin=35218.5317274|AlignEnd=35837.4745422|Gloss=roof|LTranslit=maxali|Translit=maxalæj
@@ -223,7 +223,7 @@
 3	хаяваˮ	хэ	VERB	_	_	0	root	_	AlignBegin=38265.3825956|AlignEnd=38881.7467364|LTranslit=xæ|MGloss=go-1pl|MSeg=хая-ваˮ|Translit=xaja-waʡ
 4	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=38881.7467364|AlignEnd=39501.0558582|Gloss=SIL|LTranslit=<p>|Translit=<p>
 5	нянда	ня-нда	ADP	_	Number=Sing|Person=3	6	dep	_	AlignBegin=39501.0558582|AlignEnd=39760.4877599|LTranslit=ńa-nda|MGloss=atposs.dat.3sg|MSeg=ня-нда|Translit=ńa-nda
-6	тэвˮмахаданаˮ	тэва	VERB	_	_	14	advcl	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|lemma_X=Yes|LTranslit=tæwaXX|MGloss=arrive-pfv.an-abl-poss.1pl|MSeg=тэв-ˮма-хада-наˮ|Translit=tæw-ʡma-xada-naʡ
+6	тэвˮмахаданаˮ	тэва	VERB	_	_	14	advcl	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|LTranslit=tæwaXX|MGloss=arrive-pfv.an-abl-poss.1pl|MSeg=тэв-ˮма-хада-наˮ|Translit=tæw-ʡma-xada-naʡ
 7	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=40457.0363818|AlignEnd=41138.6920594|Gloss=SIL|LTranslit=<p>|Translit=<p>
 8	ядувнанда	яд	NOUN	_	Number=Sing|Person=3	14	obl:mod	_	AlignBegin=41138.6920594|AlignEnd=41821.1848601|LTranslit=jadX|MGloss=wall-prol-poss.gen.3sg|MSeg=яду-вна-нда|Translit=jadu-wna-nda
 9	харданда	харад	NOUN	_	Number=Sing|Person=3	11	nmod:poss	_	AlignBegin=41821.1848601|AlignEnd=42343.9903341|LTranslit=xarad|MGloss=house-poss.gen.3sg|MSeg=харда-нда|Translit=xarda-nda
@@ -259,7 +259,7 @@
 # text_ru = После того как мы посмотрели по сторонам мы спустились.
 # text_en = After looking around, we climbed down.
 1	яˮамна	яˮамна	ADV	_	_	2	advmod	_	AlignBegin=47063.4977407|AlignEnd=47348.9656252|Gloss=around.prol|LTranslit=jaʡamna|Translit=jaʡamna
-2	сыроˮмахаданаˮ	сыр	VERB	_	_	4	advcl	_	AlignBegin=47348.9656252|AlignEnd=47958.2367473|lemma_X=Yes|LTranslit=sirXX|MGloss=look-pfv.an-abl-poss.1pl|MSeg=сыро-ˮма-хада-наˮ|Translit=siro-ʡma-xada-naʡ
+2	сыроˮмахаданаˮ	сыр	VERB	_	_	4	advcl	_	AlignBegin=47348.9656252|AlignEnd=47958.2367473|LTranslit=sirXX|MGloss=look-pfv.an-abl-poss.1pl|MSeg=сыро-ˮма-хада-наˮ|Translit=siro-ʡma-xada-naʡ
 3	янʼ	я	NOUN	_	_	4	obl:mod	_	AlignBegin=47958.2367473|AlignEnd=48234.4904768|LTranslit=ja|MGloss=land-dat|MSeg=я-нʼ|Translit=ja-nʔ
 4	хаˮмынаˮ	хаˮамы	VERB	_	_	0	root	_	AlignBegin=48234.4904768|AlignEnd=48861.7437494|LTranslit=xaʡami|MGloss=go.down-1pl.refl|MSeg=хаˮмы-наˮ|Translit=xaʡmi-naʡ
 5	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=48861.7437494|AlignEnd=49223.841353|Gloss=SIL|LTranslit=<p>|Translit=<p>
