@@ -5,6 +5,8 @@
 # text = <p> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <p> сюртев <p>
 # translit = <p> maŕa -dʔ ńo -ʔ śi -wńa ḿaťu -dmʔ śatańajuʔ mæ -w <p> śurťe -w <p>
 # p_text = <p> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <p> сюртев <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я зашел в ворота забора, повернул влево.
 # text_en = I walked through the gate, turned left and walked on.
 1	<p>	<p>	X	_	_	5	discourse	_	AlignBegin=0|AlignEnd=979.856581104|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
@@ -24,6 +26,8 @@
 # text = таняʼ ядадмʼ <p>
 # translit = tańaʔ jada -dmʔ <p>
 # p_text = таняʼ ядадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Иду туда.
 # text_en = I'm going in that direction.
 1	таняʼ	таняʼ	ADV	_	_	2	advmod	_	AlignBegin=6711.90672276|AlignEnd=6956.16604868|Gloss=there|LTranslit=tańaʔ|Translit=tańaʔ
@@ -36,6 +40,8 @@
 # text = яхамʼ <p> пулʼ нимня мадав <p>
 # translit = jaxa -mʔ <p> pul -ʔ ńimńa mada -w <p>
 # p_text = яхамʼ <p> пулʼ нимня мадав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я перешел реку через мост.
 # text_en = I crossed the river on the bridge.
 1	яхамʼ	яха	NOUN	_	_	5	obj	_	AlignBegin=8269.11009909|AlignEnd=8770.11585444|LTranslit=jaxa|MGloss=river-acc|MSeg=яха-мʼ|Translit=jaxa-mʔ
@@ -51,6 +57,8 @@
 # text = тадтикахад тамна тяхаʼ ядадмʼ <p>
 # translit = tadťikaxad tamna ťaxaʔ jada -dmʔ <p>
 # p_text = тадтикахад тамна тяхаʼ ядадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Затем иду дальше.
 # text_en = Then I walked on.
 1	тадтикахад	тадтикахад	ADV	_	_	4	advmod	_	AlignBegin=11136.6510597|AlignEnd=11980.376089|Gloss=afterwards|LTranslit=tadťikaxad|Translit=tadťikaxad
@@ -65,6 +73,8 @@
 # text = пямʼ манэˮӈадмʼ <p>
 # translit = ṕa -mʔ manæʡ -ŋa -dmʔ <p>
 # p_text = пямʼ манэˮӈадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я увидел дерево.
 # text_en = I saw a tree.
 1	пямʼ	пя	NOUN	_	_	2	obj	_	AlignBegin=12989.2795393|AlignEnd=13221.1482376|LTranslit=ṕa|MGloss=tree-acc|MSeg=пя-мʼ|Translit=ṕa-mʔ
@@ -77,6 +87,8 @@
 # text = пямʼ сятаняӈы хэвувнада махаʼняю <p> яляʼ серʼ сюртев <p>
 # translit = ṕa -mʔ śatańaŋi xæwu -wna -da maxaʔńaju <p> jaľa -ʔ śerʔ śurťe -w <p>
 # p_text = пямʼ сятаняӈы хэвувнада махаʼняю <p> яляʼ серʼ сюртев <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я обошел дерево вокруг слева на право, по ходу солнца.
 # text_en = I walked around the tree from left to right, following the course of the sun.
 1	пямʼ	пя	NOUN	_	_	8	obj	_	AlignBegin=14308.6925125|AlignEnd=14881.38378|LTranslit=ṕa|MGloss=tree-acc|MSeg=пя-мʼ|Translit=ṕa-mʔ
@@ -95,6 +107,8 @@
 # text = тикыʼ пуд <p> яхамʼ <p> таркахаюта нямна <p> ӈохолырць <p> мадав <p>
 # translit = ťiki -ʔ pud <p> jaxa -mʔ <p> tarka -xaju -ta ńamna <p> ŋoxolir -ć <p> mada -w <p>
 # p_text = тикыʼ пуд <p> яхамʼ <p> таркахаюта нямна <p> ӈохолырць <p> мадав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = После я переплыл реку там, где находится его развилка.
 # text_en = Then I crossed the river by swimming along where it forks.
 1	тикыʼ	тикы	PRON	_	_	11	obl:mod	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|LTranslit=ťiki|MGloss=that-gen|MSeg=тикы-ʼ|Translit=ťiki-ʔ
@@ -116,6 +130,8 @@
 # text = тарка пыявна ӈадимядмʼ <p>
 # translit = tarka pija -wna ŋaďiḿa -dmʔ <p>
 # p_text = тарка пыявна ӈадимядмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я оказался на мысу, который находится на развилке реки.
 # text_en = I ended up on a headland at the fork of the river.
 1	тарка	тарка	NOUN	_	_	2	nmod:poss	_	AlignBegin=30472.4180002|AlignEnd=30792.4253039|Gloss=fork|LTranslit=tarka|Translit=tarka
@@ -129,6 +145,8 @@
 # text = таркаʼ пыям мадаˮмахадани <p> ӈаниʼ ӈохолырць яхаʼ няби таркамʼ мадав <p>
 # translit = tarka -ʔ pija -m mada -ʡma -xada -ńi <p> ŋańiʔ ŋoxolir -ć jaxa -ʔ ńab́i tarka -mʔ mada -w <p>
 # p_text = таркаʼ пыям мадаˮмахадани <p> ӈаниʼ ӈохолырць яхаʼ няби таркамʼ мадав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = После того как я перешел мыс на развилке я снова переплыл другой рукав реки.
 # text_en = After crossing the headland at the fork, I swam back across the other branch of the river.
 1	таркаʼ	тарка	NOUN	_	_	2	nmod:poss	_	AlignBegin=32428.677422|AlignEnd=32779.8461562|LTranslit=tarka|MGloss=fork-gen|MSeg=тарка-ʼ|Translit=tarka-ʔ
@@ -149,6 +167,8 @@
 # text = яхаʼ иканя халяˮ танявыˮ <p>
 # translit = jaxa -ʔ i -kańa xaľa -ʡ tańa -wi -ʡ <p>
 # p_text = яхаʼ иканя халяˮ танявыˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = В реке были рыбы.
 # text_en = Apparently there were fish in the river.
 1	яхаʼ	яха	NOUN	_	_	2	nmod:poss	_	AlignBegin=37398.4418421|AlignEnd=37600.8987442|LTranslit=jaxa|MGloss=river-gen|MSeg=яха-ʼ|Translit=jaxa-ʔ
@@ -163,6 +183,8 @@
 # text = тикахад <p> махаʼнякуʼ мэхэя тамна тяхаʼ яда нэкалӈав <p>
 # translit = ťikaxad <p> maxaʔńakuʔ mæ -xæja tamna ťaxaʔ jada nækal -ŋa -w <p>
 # p_text = тикахад <p> махаʼнякуʼ мэхэя тамна тяхаʼ яда нэкалӈав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = После этого слегка повернув вправо, я пошел пешком дальше.
 # text_en = Then I turned slightly to the right and kept going.
 1	тикахад	тикахад	ADV	_	_	8	advmod	_	AlignBegin=40110.4887792|AlignEnd=40745.9218029|Gloss=then|LTranslit=ťikaxad|Translit=ťikaxad
@@ -181,6 +203,8 @@
 # text = ӈобʼ ядадмʼ ядадмʼ <p>
 # translit = ŋobʔ jada -dmʔ jada -dmʔ <p>
 # p_text = ӈобʼ ядадмʼ ядадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Все иду, иду.
 # text_en = I'm still going, I'm still going.
 1	ӈобʼ	ӈобʼ	ADV	_	_	2	advmod	_	AlignBegin=44576.8886332|AlignEnd=44893.2241976|Gloss=once|LTranslit=ŋobʔ|Translit=ŋobʔ
@@ -194,6 +218,8 @@
 # doc_title = MapTask_001
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # p_text = нерни няна <p> пирця харадмʼ манэˮӈадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Впереди себя я увидел высокую башню(дом).
 # text_en = In front of me I saw a high house.
 1	нерни	нер	ADP	_	Number=Sing|Person=1	6	dep	_	AlignBegin=46473.4729404|AlignEnd=47023.0522783|LTranslit=ńer|MGloss=in.front.of-poss.gen.1sg|MSeg=нер-ни|Translit=ńer-ńi
@@ -210,6 +236,8 @@
 # text = пирця харадʼ сидя сидеранда си <p>
 # translit = ṕirća xarad -ʔ śiďa śiďera -nda śi <p>
 # p_text = пирця харадʼ сидя сидеранда си <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = У башни два окна.
 # text_en = The tower has two windows.
 1	пирця	пирця	ADJ	_	_	2	amod	_	AlignBegin=49793.0348731|AlignEnd=50240.5494267|Gloss=tall|LTranslit=ṕirća|Translit=ṕirća
@@ -225,6 +253,8 @@
 # text = танцянда таня <p> нёнда си таня <p>
 # translit = tanća -nda tańa <p> ńo -nda śi tańa <p>
 # p_text = танцянда таня <p> нёнда си таня <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = У нее есть лестница, у нее есть дверь.
 # text_en = It has a staircase, it has a door.
 1	танцянда	танциеˮ	NOUN	_	_	2	nsubj	_	AlignBegin=52667.8964056|AlignEnd=53207.8639086|LTranslit=tanćieʡ|MGloss=stairs-poss.3sg|MSeg=танця-нда|Translit=tanća-nda
@@ -241,6 +271,8 @@
 # text = махалэйда <p> тюˮуʼ няʼ мятревʼ саблюй <p>
 # translit = maxalæj -da <p> ťuʡuʔ ńaʔ ḿatŕewʔ sabľuj <p>
 # p_text = махалэйда <p> тюˮуʼ няʼ мятревʼ саблюй <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Ее крыша заострена вверх словно чум.
 # text_en = Its roof is pointed up like a chum (tent).
 1	махалэйда	махалы	NOUN	_	_	6	nsubj	_	AlignBegin=55656.9591005|AlignEnd=56532.7236527|LTranslit=maxali|MGloss=roof-poss.3sg|MSeg=махалэй-да|Translit=maxalæj-da
@@ -257,6 +289,8 @@
 # text = ӈавоʼ пиркаˮнаˮ нёнда синʼ тэвывʼ <p>
 # translit = ŋawoʔ ṕirkaʡna -ʡ ńo -nda śi -nʔ tæwi -wʔ <p>
 # p_text = ӈавоʼ пиркаˮнаˮ нёнда синʼ тэвывʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = В какой-то момент я дошел до ее двери.
 # text_en = At one point I reached the door.
 1	ӈавоʼ	ӈамгэ	PRON	_	_	5	obl:mod	_	AlignBegin=60628.7794315|AlignEnd=61168.7965189|Gloss=what.gen.pl|LTranslit=ŋamgæ|Translit=ŋawoʔ
@@ -272,6 +306,8 @@
 # text = танцяʼ сер <p> тюˮуʼ танэявʼ <p>
 # translit = tanćaʔ śer <p> ťuʡuʔ tanæ -ja -wʔ <p>
 # p_text = танцяʼ сер <p> тюˮуʼ танэявʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я поднялся вверх по лестнице.
 # text_en = I went up the stairs.
 1	танцяʼ	танциеˮ	NOUN	_	_	5	obl:mod	_	AlignBegin=63317.6735539|AlignEnd=63824.9406205|Gloss=stairs|LTranslit=tanćieʡ|Translit=tanćaʔ
@@ -287,6 +323,8 @@
 # text = пирця харадʼ мюмня яда хаядмʼ <p>
 # translit = ṕirća xarad -ʔ ḿumńa jada xaja -dmʔ <p>
 # p_text = пирця харадʼ мюмня яда хаядмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я прошел по башне внутри.
 # text_en = I went inside the tower.
 1	пирця	пирця	ADJ	_	_	2	amod	_	AlignBegin=68629.1001372|AlignEnd=69166.4841485|Gloss=tall|LTranslit=ṕirća|Translit=ṕirća
@@ -302,6 +340,8 @@
 # text = няби хэвувнанда ӈаниʼ несэй нёʼ сивна тарпывʼ <p>
 # translit = ńab́i xæwu -wna -nda ŋańiʔ ńesæj ńo -ʔ śi -wna tarpi -wʔ <p>
 # p_text = няби хэвувнанда ӈаниʼ несэй нёʼ сивна тарпывʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = С другой ее стороны я вышел в другую дверь.
 # text_en = On the other side I went out through another door.
 1	няби	няби	DET	_	_	2	det	_	AlignBegin=71274.2032934|AlignEnd=71663.4963372|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
@@ -319,6 +359,8 @@
 # text = танцяʼ серʼ хаˮмывʼ <p> тамна тяхаʼ ядалъявʼ <p> сятаняюʼ сюртев <p>
 # translit = tanćaʔ śerʔ xaʡmi -wʔ <p> tamna ťaxaʔ jadal -"ja -wʔ <p> śatańajuʔ śurťe -w <p>
 # p_text = танцяʼ серʼ хаˮмывʼ <p> тамна тяхаʼ ядалъявʼ <p> сятаняюʼ сюртев <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я спустился по лестнице, стал идти дальше, повернул налево.
 # text_en = I went down the stairs, started walking and turned left.
 1	танцяʼ	танциеˮ	NOUN	_	_	3	obl:mod	_	AlignBegin=74190.6746981|AlignEnd=74593.3610876|Gloss=stairs|LTranslit=tanćieʡ|Translit=tanćaʔ
@@ -339,6 +381,8 @@
 # text = сятаняюʼ ядадмʼ ядадмʼ ӈобʼ ядадмʼ <p>
 # translit = śatańajuʔ jada -dmʔ jada -dmʔ ŋobʔ jada -dmʔ <p>
 # p_text = сятаняюʼ ядадмʼ ядадмʼ ӈобʼ ядадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Влево иду-иду, все иду.
 # text_en = I turned left and walked on.
 1	сятаняюʼ	сятаняюʼ	ADV	_	_	2	advmod	_	AlignBegin=79523.7980109|AlignEnd=80531.2139683|Gloss=to.the.left.pol|LTranslit=śatańajuʔ|Translit=śatańajuʔ
@@ -354,6 +398,8 @@
 # text = ехэрана ӈани ӈопой марядмʼ манэˮӈадмʼ <p>
 # translit = exæra -na ŋańi ŋopoj maŕa -d -mʔ manæʡ -ŋa -dmʔ <p>
 # p_text = ехэрана ӈани ӈопой марядмʼ манэˮӈадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Увидел еще один незнакомый забор.
 # text_en = I saw another unfamiliar fence.
 1	ехэрана	ехэра-	ADJ	_	_	4	amod	_	AlignBegin=83119.6188647|AlignEnd=83892.8338419|LTranslit=exæra-|MGloss=not.know-ptcp.cont|MSeg=ехэра-на|Translit=exæra-na
@@ -369,6 +415,8 @@
 # doc_title = MapTask_001
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # p_text = марядʼ тяхана <p> тэхэʼ танявэхэˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = За забором оказались два оленя.
 # text_en = Two deer appeared to be behind the fence.
 1	марядʼ	марˮ	NOUN	_	Number=Sing|Person=2	5	obl:mod	_	AlignBegin=86338.7574292|AlignEnd=86736.2373378|LTranslit=marʡ|MGloss=fence-poss.gen.2sg|MSeg=маря-дʼ|Translit=maŕa-dʔ

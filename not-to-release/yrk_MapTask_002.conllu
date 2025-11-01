@@ -5,6 +5,8 @@
 # text = <p> марядʼ мюня нудмʼ <p>
 # translit = <p> maŕa -dʔ ḿuńa nu -dmʔ <p>
 # p_text = <p> марядʼ мюня нудмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Стою за забором.
 # text_en = I am standing behind the fence.
 1	<p>	<p>	X	_	_	2	discourse	_	AlignBegin=0|AlignEnd=894.114627823|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
@@ -19,6 +21,8 @@
 # text = марядʼ мюня нумʼ <p>
 # translit = maŕa -dʔ ḿuńa nu -mʔ <p>
 # p_text = марядʼ мюня нумʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Стою за забором.
 # text_en = I am standing behind the fence.
 1	марядʼ	марˮ	NOUN	_	Number=Sing|Person=2	3	obl:mod	_	AlignBegin=2731.8672434|AlignEnd=3440.72925263|LTranslit=marʡ|MGloss=fence-gen.poss.2sg|MSeg=маря-дʼ|Translit=maŕa-dʔ
@@ -32,6 +36,8 @@
 # doc_title = MapTask_002
 # sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
 # p_text = марядʼ <d> <pr>маря<un> <er>марядʼ мюня нудмʼ
+# media = spoken
+# language_variety = Tundra
 # text_ru = Стою за забором.
 # text_en = I <aham> fence, fence behind stand.
 1	марядʼ	марˮ	NOUN	_	Number=Sing|Person=2	6	obl:mod	_	AlignBegin=5942.22073504|AlignEnd=7001.65870127|lemma_X=Yes|LTranslit=marʡX|MGloss=fence-gen.poss.2sg|MSeg=маря-дʼ|Translit=maŕa-dʔ
@@ -47,6 +53,8 @@
 # doc_title = MapTask_002
 # sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
 # p_text = тикахана сидя ты таняӈахаˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Там есть два оленя.
 # text_en = There are two reindeer.
 1	тикахана	тикахана	ADV	_	_	4	advmod	_	AlignBegin=9726.4004168|AlignEnd=10065.6804789|Gloss=there|LTranslit=ťikaxana|Translit=ťikaxana
@@ -61,6 +69,8 @@
 # text = сидя тэхэʼ няд <p> марядʼ нимня <p> марядʼ тяхаʼ санэйвʼ <p>
 # translit = śiďa tæ -xæʔ ńad <p> maŕa -dʔ ńi -mńa <p> maŕa -dʔ ťaxaʔ sanæj -wʔ <p>
 # p_text = сидя тэхэʼ няд <p> марядʼ нимня <p> марядʼ тяхаʼ санэйвʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = От двух оленей я перепрыгнул за забор.
 # text_en = I jump over the fence, away from the two reindeer.
 1	сидя	сидя	NUM	_	_	2	dep	_	AlignBegin=12149.0106819|AlignEnd=12586.7149385|Gloss=two|LTranslit=śiďa|Translit=śiďa
@@ -81,6 +91,8 @@
 # text = санаˮмахаданиʼ яда <p> тамна тяхаʼ нэкалӈав <p>
 # translit = sana -ʡma -xada -ńiʔ jada <p> tamna ťaxaʔ nækal -ŋa -w <p>
 # p_text = санаˮмахаданиʼ яда <p> тамна тяхаʼ нэкалӈав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = После того как я перепрыгнул, пошел дальше.
 # text_en = After jumping, I continue walking.
 1	санаˮмахаданиʼ	сана-	VERB	_	_	6	advcl	_	AlignBegin=17763.2745385|AlignEnd=18598.7361594|LTranslit=sana-|MGloss=jump-pfv.an-abl-poss.1sg|MSeg=сана-ˮма-хада-ниʼ|Translit=sana-ʡma-xada-ńiʔ
@@ -97,6 +109,8 @@
 # text = нерниʼ няна <p> пирця харадмʼ манэˮӈадмʼ <p>
 # translit = ńer -ńiʔ ńana <p> ṕirća xarad -mʔ manæʡ -ŋa -dmʔ <p>
 # p_text = нерниʼ няна <p> пирця харадмʼ манэˮӈадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Впереди я увидел высокую башню.
 # text_en = I see a tall tower in front of me.
 1	нерниʼ	нер-	PRON	_	Number=Sing|Person=1	6	obl:mod	_	AlignBegin=21124.9407683|AlignEnd=21678.6454018|LTranslit=ńer-|MGloss=in.front.of-poss.gen.1sg|MSeg=нер-ниʼ|Translit=ńer-ńiʔ
@@ -113,6 +127,8 @@
 # text = махалэйда мятревʼ саблюй <p>
 # translit = maxalæj -da ḿatŕewʔ sabľuj <p>
 # p_text = махалэйда мятревʼ саблюй <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Его крыша острая как чум.
 # text_en = Its roof is pointed like a chum (tent).
 1	махалэйда	махалы	NOUN	_	_	3	nsubj	_	AlignBegin=24542.4770011|AlignEnd=25130.0951222|LTranslit=maxali|MGloss=roof-poss.3sg|MSeg=махалэй-да|Translit=maxalæj-da
@@ -126,6 +142,8 @@
 # text = сидя сидеранда си <p> <n> нёнда си таня <p>
 # translit = śiďa śiďera -nda śi <p> <n> ńo -nda śi tańa <p>
 # p_text = сидя сидеранда си <p> <n> нёнда си таня <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = У неё два окна и есть дверь.
 # text_en = It has two windows and a door.
 1	сидя	сидя	NUM	_	_	3	nummod	_	AlignBegin=26911.8292512|AlignEnd=27237.6456069|Gloss=two|LTranslit=śiďa|Translit=śiďa
@@ -144,6 +162,8 @@
 # text = нёнд<un> си танцянзавэй <n> <p>
 # translit = ńo -nd<un> śi tanćanzawæj <n> <p>
 # p_text = нёнд<un> си танцянзавэй <n> <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Его дверь имеет летницу.
 # text_en = Its door has stairs ("its door is bestaired").
 1	нёнд<un>	нё-нда	NOUN	_	Number=Sing|Person=3	2	nmod:poss	_	AlignBegin=30671.1607217|AlignEnd=30877.2495651|LTranslit=ńo-nda|MGloss=door-gen.poss.3sg|MSeg=нё-нд<un>|Translit=ńo-nd<un>
@@ -158,6 +178,8 @@
 # text = танцяʼ серʼ танэйвʼ <p>
 # translit = tanćaʔ śerʔ tanæ -j -wʔ <p>
 # p_text = танцяʼ серʼ танэйвʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = По лестнице я поднялся вверх.
 # text_en = I walk up the stairs.
 1	танцяʼ	танциеˮ	NOUN	_	_	3	obl:mod	_	AlignBegin=32527.7821481|AlignEnd=32862.3592078|Gloss=stairs|LTranslit=tanćieʡ|Translit=tanćaʔ
@@ -171,6 +193,8 @@
 # text = нёʼ сивня мяттюдмʼ <p>
 # translit = ńo -ʔ śi -wńa ḿatťu -dmʔ <p>
 # p_text = нёʼ сивня мяттюдмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Зашел в дверь.
 # text_en = I go through the door.
 1	нёʼ	нё	NOUN	_	_	2	nmod:poss	_	AlignBegin=34171.2444176|AlignEnd=34338.5702354|LTranslit=ńo|MGloss=door-gen|MSeg=нё-ʼ|Translit=ńo-ʔ
@@ -184,6 +208,8 @@
 # text = маха саблюй пирця харадʼ мюмня <p> иртʼ хаядмʼ <p>
 # translit = maxa sabľuj ṕirća xarad -ʔ ḿumńa <p> irtʔ xaja -dmʔ <p>
 # p_text = маха саблюй пирця харадʼ мюмня <p> иртʼ хаядмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Башню с острой крышей я прошел насквозь.
 # text_en = I walk through the tower with the pointed roof.
 1	маха	махалы	NOUN	_	_	4	nmod	_	AlignBegin=36544.8798626|AlignEnd=36918.2698069|Gloss=roof|LTranslit=maxali|Translit=maxa
@@ -202,6 +228,8 @@
 # text = нярˮ мадав <p>
 # translit = ńarʡ mada -w <p>
 # p_text = нярˮ мадав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Поперек пересек ее.
 # text_en = I cross it.
 1	нярˮ	нярˮ	ADV	_	_	2	advmod	_	AlignBegin=41661.6167346|AlignEnd=41950.7867283|Gloss=across|LTranslit=ńarʡ|Translit=ńarʡ
@@ -214,6 +242,8 @@
 # text = няби нёʼ сивня <p> тарпывʼ <p>
 # translit = ńab́i ńo -ʔ śi -wńa <p> tarpi -wʔ <p>
 # p_text = няби нёʼ сивня <p> тарпывʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я вышел через другую дверь.
 # text_en = I go out the other door.
 1	няби	няби	DET	_	_	3	det	_	AlignBegin=42837.9278509|AlignEnd=43108.1926069|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
@@ -229,6 +259,8 @@
 # text = харадмʼ хэхэдёйтав <p>
 # translit = xarad -mʔ xæxæďojta -w <p>
 # p_text = харадмʼ хэхэдёйтав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я прошел дом насквозь.
 # text_en = I cross the house.
 1	харадмʼ	харад	NOUN	_	_	2	obj	_	AlignBegin=46315.9520775|AlignEnd=46760.2228806|LTranslit=xarad|MGloss=house-acc|MSeg=харад-мʼ|Translit=xarad-mʔ
@@ -241,6 +273,8 @@
 # text = нёʼ симʼ нэв танцяʼ серʼ хаˮамывʼ <p>
 # translit = ńo -ʔ śi -mʔ næ -w tanćaʔ śerʔ xaʡami -wʔ <p>
 # p_text = нёʼ симʼ нэв танцяʼ серʼ хаˮамывʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Открыл дверь и спустился по лестнице.
 # text_en = I open the door and go down the stairs.
 1	нёʼ	нё	NOUN	_	_	2	nmod:poss	_	AlignBegin=48294.6893507|AlignEnd=48554.957965|LTranslit=ńo|MGloss=door-gen|MSeg=нё-ʼ|Translit=ńo-ʔ
@@ -257,6 +291,8 @@
 # text = яда нэкалӈав маханякубта мэв <p>
 # translit = jada nækal -ŋa -w maxańakubta mæ -w <p>
 # p_text = яда нэкалӈав маханякубта мэв <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я пошел пешком, повернул слегка вправо.
 # text_en = I walk and turn right.
 1	яда	яда	ADV	_	_	2	advmod	_	AlignBegin=51195.2576167|AlignEnd=51449.1334947|Gloss=on.foot|LTranslit=jada|Translit=jada
@@ -271,6 +307,8 @@
 # text = маханякубтаʼ миманиʼ серʼ яхаʼ таркавна ӈадимядмʼ <p>
 # translit = maxańakubta -ʔ ḿi -ma -ńiʔ śerʔ jaxa -ʔ tarka -wna ŋaďiḿa -dmʔ <p>
 # p_text = маханякубтаʼ миманиʼ серʼ яхаʼ таркавна ӈадимядмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Пока шел слегка вправо, пришел на развилку реки.
 # text_en = As I walk to the right, I come to a fork in the river.
 1	маханякубтаʼ	маханякубта	NOUN	_	_	2	obl:mod	_	AlignBegin=53489.5329832|AlignEnd=54096.3969304|LTranslit=maxańakubta|MGloss=right.side-gen|MSeg=маханякубта-ʼ|Translit=maxańakubta-ʔ
@@ -287,6 +325,8 @@
 # text = няби яхаʼ таркамʼ ӈохолё мадав <p>
 # translit = ńab́i jaxa -ʔ tarka -mʔ ŋoxoľo mada -w <p>
 # p_text = няби яхаʼ таркамʼ ӈохолё мадав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Один рукав реки я переплыл вплавь.
 # text_en = I swim across the river.
 1	няби	няби	DET	_	_	3	det	_	AlignBegin=57502.863929|AlignEnd=57830.1323846|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
@@ -302,6 +342,8 @@
 # text = тарканда пыяʼ ниʼ танэйвʼ <p>
 # translit = tarka -nda pija -ʔ ńiʔ tanæj -wʔ <p>
 # p_text = тарканда пыяʼ ниʼ танэйвʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Поднялся на его мыс на развилке.
 # text_en = I climb up at the end of the fork.
 1	тарканда	тарка	NOUN	_	Number=Sing|Person=3	2	nmod:poss	_	AlignBegin=59541.2127879|AlignEnd=59969.9522583|LTranslit=tarka|MGloss=fork-gen.poss.3sg|MSeg=тарка-нда|Translit=tarka-nda
@@ -316,6 +358,8 @@
 # text = тарканда пыямʼ мадаˮмахаданиʼ <p> ӈаниʼ ӈохолё нэкалӈав <p> яхамʼ мадав <p>
 # translit = tarka -nda pija -mʔ mada -ʡma -xada -ńiʔ <p> ŋańiʔ ŋoxoľo nækal -ŋa -w <p> jaxa -mʔ mada -w <p>
 # p_text = тарканда пыямʼ мадаˮмахаданиʼ <p> ӈаниʼ ӈохолё нэкалӈав <p> яхамʼ мадав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = После того как я перешел его мыс на развилке дальше снова отправился вплавь, и пересек реку.
 # text_en = Having crossed the headland, I continue to swim, crossing the river.
 1	тарканда	тарка	NOUN	_	Number=Sing|Person=3	2	nmod:poss	_	AlignBegin=61655.9660489|AlignEnd=62081.1251736|LTranslit=tarka|MGloss=fork-poss.gen.3sg|MSeg=тарка-нда|Translit=tarka-nda
@@ -336,6 +380,8 @@
 # doc_title = MapTask_002
 # sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
 # p_text = тадтикахад ӈаниʼ ялъяваˮ <p> нерниʼ няна пямʼ манэˮӈадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Затем я снова пошел пешком и увидел впереди себя дерево.
 # text_en = As I walk I see a tree in front of me.
 1	тадтикахад	тадтикахад	ADV	_	_	8	advmod	_	AlignBegin=68925.8525017|AlignEnd=69421.8852824|Gloss=afterwards|LTranslit=tadťikaxad|Translit=tadťikaxad
@@ -354,6 +400,8 @@
 # text = пямʼ маханяӈы хэвувнанда <p> яляʼ пырдариʼ сюртев <p>
 # translit = ṕa -mʔ maxańaŋi xæwu -wna -nda <p> jaľa -ʔ pirdaŕiʔ śurťe -w <p>
 # p_text = пямʼ маханяӈы хэвувнанда <p> яляʼ пырдариʼ сюртев <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Дерево я обошел по кругу справа, против хода солнца.
 # text_en = I walk around the tree to the right, against the sun.
 1	пямʼ	пя	NOUN	_	_	7	obj	_	AlignBegin=72393.8946645|AlignEnd=72669.915124|LTranslit=ṕa|MGloss=tree-acc|MSeg=пя-мʼ|Translit=ṕa-mʔ
@@ -371,6 +419,8 @@
 # text = тамна тяхаˮ ялъявʼ <p> ядваниʼ серʼ <p> пулмʼ манэˮӈадмʼ <p>
 # translit = tamna ťaxaʡ jal"ja -wʔ <p> jad -wa -ńiʔ śerʔ <p> pul -mʔ manæʡ -ŋa -dmʔ <p>
 # p_text = тамна тяхаˮ ялъявʼ <p> ядваниʼ серʼ <p> пулмʼ манэˮӈадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Направился пешком дальше, пока я шел, увидел мост.
 # text_en = I keep going, and as I go I see a bridge.
 1	тамна	тамна	ADV	_	_	2	advmod	_	AlignBegin=76480.35903|AlignEnd=76791.9322177|Gloss=even|LTranslit=tamna|Translit=tamna
@@ -390,6 +440,8 @@
 # text = пулʼ серʼ яхамʼ нябиʼ няʼ мадав <p>
 # translit = pul -ʔ śerʔ jaxa -mʔ ńab́iʔ ńaʔ mada -w <p>
 # p_text = пулʼ серʼ яхамʼ нябиʼ няʼ мадав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Перешел реку по мосту на другую сторону.
 # text_en = I cross the river on the bridge to the other side.
 1	пулʼ	пул	NOUN	_	_	6	obl:mod	_	AlignBegin=81871.61951|AlignEnd=82144.3460374|LTranslit=pul|MGloss=bridge-gen|MSeg=пул-ʼ|Translit=pul-ʔ
@@ -406,6 +458,8 @@
 # text = тадтикахад сятанякубтаʼ мэхэя <p> тамна тяхаʼ ялъявʼ <p>
 # translit = tadťikaxad śatańakubta -ʔ mæ -xæja <p> tamna ťaxaʔ jal"ja -wʔ <p>
 # p_text = тадтикахад сятанякубтаʼ мэхэя <p> тамна тяхаʼ ялъявʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = После этого слегка повернув влево я пошел дальше.
 # text_en = Then I keep walking and turn left.
 1	тадтикахад	тадтикахад	ADV	_	_	7	advmod	_	AlignBegin=85608.2363685|AlignEnd=86178.7670915|Gloss=afterwards|LTranslit=tadťikaxad|Translit=tadťikaxad
@@ -423,6 +477,8 @@
 # text = тадтикахад <p> марядʼ нё сивня <p> тарпывʼ
 # translit = tadťikaxad <p> maŕa -dʔ ńo śi -wńa <p> tarpi -wʔ
 # p_text = тадтикахад <p> марядʼ нё сивня <p> тарпывʼ
+# media = spoken
+# language_variety = Tundra
 # text_ru = А затем вышел в ворота забора.
 # text_en = Then I go through the gate of the fence.
 1	тадтикахад	тадтикахад	ADV	_	_	7	advmod	_	AlignBegin=89947.8724775|AlignEnd=90549.3356994|Gloss=afterwards|LTranslit=tadťikaxad|Translit=tadťikaxad

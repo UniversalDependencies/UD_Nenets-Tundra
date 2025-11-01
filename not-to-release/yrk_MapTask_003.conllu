@@ -4,6 +4,8 @@
 # text = <n> сэвˮни ӈадимбʼ <p> яхаʼ таркаʼ пыяхана мэвэдмʼ <p>
 # translit = <n> sæw -ʡńi ŋaďim -bʔ <p> jaxa -ʔ tarka -ʔ pija -xana mæ -wæ -dmʔ <p>
 # p_text = <n> сэвˮни ӈадимбʼ <p> яхаʼ таркаʼ пыяхана мэвэдмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Когда я очнулся, то оказался на мысу, на развилке реки.
 # text_en = When I woke up I was on a headland, at a fork in the river.
 1	<n>	<n>	PUNCT	_	_	2	punct	_	AlignBegin=0|AlignEnd=405.588319811|Gloss=NOISE|LTranslit=<n>|Translit=<n>
@@ -21,6 +23,8 @@
 # text = яхаʼ таркаʼ пыяхад <p> тодоʼ яхаˮ сырӈадмʼ <p> сятаняʼ сырӈадмʼ <p> маханяʼ сырӈадмʼ <p>
 # translit = jaxa -ʔ tarka -ʔ pija -xad <p> todoʔ jaxa -ʡ sir -ŋa -dmʔ <p> śatańaʔ sir -ŋa -dmʔ <p> maxańaʔ sir -ŋa -dmʔ <p>
 # p_text = яхаʼ таркаʼ пыяхад <p> тодоʼ яхаˮ сырӈадмʼ <p> сятаняʼ сырӈадмʼ <p> маханяʼ сырӈадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = С мыса на развилке я посмотрел по сторонам: посмотрел влево, посмотрел вправо.
 # text_en = From the headland at the fork I looked around: I looked left, I looked right.
 1	яхаʼ	яха	NOUN	_	_	2	nmod:poss	_	AlignBegin=7252.97885776|AlignEnd=7524.70119689|LTranslit=jaxa|MGloss=river-gen|MSeg=яха-ʼ|Translit=jaxa-ʔ
@@ -43,6 +47,8 @@
 # text = маханяӈэюмʼ таркамда ӈохолё мада таслав <p>
 # translit = maxańaŋæjumʔ tarka -m -da ŋoxoľo mada tasla -w <p>
 # p_text = маханяӈэюмʼ таркамда ӈохолё мада таслав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Правый его рукав я решил перейти вплавь.
 # text_en = I decided to swim across on the right arm of the river.
 1	маханяӈэюмʼ	маханяӈэюмʼ	ADJ	_	_	2	amod	_	AlignBegin=14791.6462448|AlignEnd=15419.8854446|Gloss=to.the.right.adj.pol|LTranslit=maxańaŋæjumʔ|Translit=maxańaŋæjumʔ
@@ -57,6 +63,8 @@
 # text = ӈохолё мадав <p> яда нэкалӈав <p>
 # translit = ŋoxoľo mada -w <p> jada nækal -ŋa -w <p>
 # p_text = ӈохолё мадав <p> яда нэкалӈав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Переплыл ее, пошел дальше пешком.
 # text_en = I swam across and continued on foot.
 1	ӈохолё	ӈохолё	VERB	_	VerbForm=Conv	2	advcl	_	AlignBegin=19833.0333264|AlignEnd=20264.919017|Gloss=swim.cvb|LTranslit=ŋoxoľo|Translit=ŋoxoľo
@@ -71,6 +79,8 @@
 # text = ядадмʼ ядадмʼ ядадмʼ <p>
 # translit = jada -dmʔ jada -dmʔ jada -dmʔ <p>
 # p_text = яда<a>дмʼ яда<a>дмʼ ядадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Иду, иду, иду.
 # text_en = I'm walking, I'm walking, I'm walking.
 1	ядадмʼ	яда-	VERB	_	_	0	root	_	AlignBegin=23079.4959388|AlignEnd=23693.8758448|LTranslit=jada-|MGloss=walk-1sg|MSeg=яда-дмʼ|Translit=jada-dmʔ
@@ -83,6 +93,8 @@
 # text = ӈобʼ ядадмʼ ӈобʼ ядадмʼ
 # translit = ŋobʔ jada -dmʔ ŋobʔ jada -dmʔ
 # p_text = ӈобʼ ядадмʼ ӈобʼ ядадмʼ
+# media = spoken
+# language_variety = Tundra
 # text_ru = Все иду, все иду.
 # text_en = I'm still going, I'm still going.
 1	ӈобʼ	ӈобʼ	ADV	_	_	2	advmod	_	AlignBegin=26830.9094254|AlignEnd=27151.3735813|Gloss=once,and|LTranslit=ŋobʔ|Translit=ŋobʔ
@@ -95,6 +107,8 @@
 # text = нерни няна <p> пирця махалэйтана харадмʼ манэˮӈадмʼ <p>
 # translit = ńer -ńi ńana <p> ṕirća maxalæj -ta -na xarad -mʔ manæʡ -ŋa -dmʔ <p>
 # p_text = нерни няна <p> пирця махалэйтана харадмʼ манэˮӈадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Впереди себя я увидел высокую башню с крышей.
 # text_en = I saw a tall tower with a roof in front of me.
 1	нерни	нер-	ADP	_	Number=Sing|Person=1	7	dep	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|LTranslit=ńer-|MGloss=in.front.of-poss.gen.1sg|MSeg=нер-ни|Translit=ńer-ńi
@@ -111,6 +125,8 @@
 # text = маханяӈы хэвувнанда хаямаʼ <n> ядувнанда <d> харданда пя ядувна тюˮуʼ танэйвˮ <p>
 # translit = maxańaŋi xæwu -wna -nda xaja -maʔ <n> jadu -wna -nda <d> xarda -nda ṕa jadu -wna ťuʡuʔ tanæ -j -wʡ <p>
 # p_text = маханяӈы хэвувнанда хаямаʼ <n> ядувнанда xxx харданда пя ядувна тюˮуʼ танэйвˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Пошел справа от нее, по ее стене я поднялся вверх.
 # text_en = I went to it from the right and climbed up its wall.
 1	маханяӈы	маханяӈы	ADJ	_	_	2	amod	_	AlignBegin=31924.6628096|AlignEnd=32322.7173911|Gloss=from.the.right.adj|LTranslit=maxańaŋi|Translit=maxańaŋi
@@ -131,6 +147,8 @@
 # text = махалэянда ниʼ танэйвˮ <p>
 # translit = maxalæja -nda ńiʔ tanæ -j -wʡ <p>
 # p_text = махалэянда ниʼ танэйвˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Поднялся на его крышу.
 # text_en = I climbed up to its roof.
 1	махалэянда	махалы	NOUN	_	Number=Sing|Person=3	3	obl:mod	_	AlignBegin=37870.0648696|AlignEnd=38391.7573482|LTranslit=maxali|MGloss=roof-poss.gen.3sg|MSeg=махалэя-нда|Translit=maxalæja-nda
@@ -143,6 +161,8 @@
 # text = махалэянда нид <p> яˮамна сырӈадмʼ <p>
 # translit = maxalæja -nda ńid <p> jaʡamna sir -ŋa -dmʔ <p>
 # p_text = махалэянда нид <p> яˮамна сырӈадмʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = С ее крыши я посмотрел по сторонам.
 # text_en = I looked around from its roof.
 1	махалэянда	махалы	NOUN	_	Number=Sing|Person=3	5	obl:mod	_	AlignBegin=39723.278794|AlignEnd=40354.6904688|LTranslit=maxali|MGloss=roof-poss.gen.3sg|MSeg=махалэя-нда|Translit=maxalæja-nda
@@ -157,6 +177,8 @@
 # text = тадтикахад <p> тасиʼ хаˮмывˮ <p>
 # translit = tadťikaxad <p> taśiʔ xaʡmi -wʡ <p>
 # p_text = тадтикахад <p> тасиʼ хаˮмывˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Затем я спустился.
 # text_en = Then I went down.
 1	тадтикахад	тадтикахад	ADV	_	_	4	advmod	_	AlignBegin=44528.3289662|AlignEnd=45176.2415286|Gloss=afterwards|LTranslit=tadťikaxad|Translit=tadťikaxad
@@ -170,6 +192,8 @@
 # text = тасиʼ хаˮамˮмахадани <p> нэкалӈав тамна тяха нэкалӈав <p>
 # translit = taśiʔ xaʡam -ʡma -xada -ńi <p> nækal -ŋa -w tamna ťaxa nækal -ŋa -w <p>
 # p_text = тасиʼ хаˮамˮмахадани <p> нэкалӈав тамна тяха нэкалӈав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = И после того как спустился, направился дальше.
 # text_en = After I came down, I went forward.
 1	тасиʼ	тасиʼ	ADV	_	_	2	advmod	_	AlignBegin=46850.3764426|AlignEnd=47088.9910463|Gloss=downward.dat|LTranslit=taśiʔ|Translit=taśiʔ
@@ -186,6 +210,8 @@
 # text = ӈохолырць <p> яхамʼ <p> пулʼ ӈыламна мадав <p>
 # translit = ŋoxolir -ć <p> jaxa -mʔ <p> pul -ʔ ŋilamna mada -w <p>
 # p_text = ӈохолырць <p> яхамʼ <p> пулʼ ӈыламна мадав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Вправь, я переплыл реку под мостом.
 # text_en = I crossed the river by swimming under the bridge.
 1	ӈохолырць	ӈохолыр	ADV	_	_	7	advmod	_	AlignBegin=50875.8382132|AlignEnd=51829.4716627|LTranslit=ŋoxolir|MGloss=swim-cvb|MSeg=ӈохолыр-ць|Translit=ŋoxolir-ć
@@ -202,6 +228,8 @@
 # text = таханяюʼ тэвывʼ <p>
 # translit = taxańajuʔ tæwi -wʔ <p>
 # p_text = таханяюʼ тэвывʼ <b_ p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мы дошли там.
 # text_en = I got there.
 1	таханяюʼ	таханяюʼ	ADV	_	_	2	advmod	_	AlignBegin=54423.4275794|AlignEnd=54911.2009064|Gloss=there.pol|LTranslit=taxańajuʔ|Translit=taxańajuʔ
@@ -213,6 +241,8 @@
 # text = таремʼ пэрӈава <p> яхаʼ варувна <p> яхаʼ лаӈгʼ сятаняюмна ӈобʼ яда нэкалӈав <p>
 # translit = taŕemʔ pær -ŋa -wa <p> jaxa -ʔ waru -wna <p> jaxa -ʔ laŋg -ʔ śatańaju -mna ŋobʔ jada nækal -ŋa -w <p>
 # p_text = таремʼ пэрӈава <p> яхаʼ варувна <p> яхаʼ лаӈгʼ сятаняюмна ӈобʼ яда нэкалӈав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Так направляюсь, что иду по берегу реки левее берега реки пешком.
 # text_en = I'm moving in a direction where I'm going so that I'm walking along the riverbank to the left of the riverbank.
 1	таремʼ	таремʼ	ADV	_	_	2	advmod	_	AlignBegin=56781.9280695|AlignEnd=57060.5585621|Gloss=this.way|LTranslit=taŕemʔ|Translit=taŕemʔ
@@ -234,6 +264,8 @@
 # text = таняна <p> ӈано <p> яӈговы <p> ӈано яхаʼ тяханяна ӈэвы <p>
 # translit = tańana <p> ŋano <p> jaŋgo -wi <p> ŋano jaxa -ʔ ťaxańana ŋæ -wi <p>
 # p_text = таняна <p> ӈано <p> яӈговы <p> ӈано яхаʼ тяханяна ӈэвы <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Там не оказалось лодки, лодка оказалась на другом берегу реки.
 # text_en = There was no boat; the boat was on the other side of the river.
 1	таняна	таняна	ADV	_	_	5	advmod	_	AlignBegin=63077.3578044|AlignEnd=63584.8899994|Gloss=there|LTranslit=tańana|Translit=tańana
@@ -253,6 +285,8 @@
 # text = яхамʼ <p> ӈохолырць <p> ӈаноʼ няюʼ мадав <p>
 # translit = jaxa -mʔ <p> ŋoxolir -ć <p> ŋano -ʔ ńajuʔ mada -w <p>
 # p_text = яхамʼ <p> ӈохолырць <p> ӈаноʼ няюʼ мадав <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Реку я переплыл в сторону лодки.
 # text_en = I swam across the river to the side of the boat.
 1	яхамʼ	яха	NOUN	_	_	7	obj	_	AlignBegin=67942.4445949|AlignEnd=68469.3078828|LTranslit=jaxa|MGloss=river-acc|MSeg=яха-мʼ|Translit=jaxa-mʔ
@@ -269,6 +303,8 @@
 # text = ӈаномʼ манэˮӈава ӈаноход тамна тяха ядалъявʼ <p>
 # translit = ŋano -mʔ manæʡ -ŋa -wa ŋano -xod tamna ťaxa jadal" -ja -wʔ <p>
 # p_text = ӈаномʼ манэˮӈава ӈаноход тамна тяха ядалъявʼ <s_ p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Я посмотрел лодку и от лодки пошел пешком дальше.
 # text_en = I looked at the boat and then I walked away from the boat.
 1	ӈаномʼ	ӈано	NOUN	_	_	2	obj	_	AlignBegin=73907.0151304|AlignEnd=74283.6347667|LTranslit=ŋano|MGloss=boat-acc|MSeg=ӈано-мʼ|Translit=ŋano-mʔ
