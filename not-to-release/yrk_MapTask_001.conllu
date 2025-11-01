@@ -3,8 +3,8 @@
 # sent_id = yrk_s_MapTask_001_1
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = <p> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <p> сюртев <p>
+# translit = <p> maŕa -dʔ ńo -ʔ śi -wńa ḿaťu -dmʔ śatańajuʔ mæ -w <p> śurťe -w <p>
 # p_text = <p> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <p> сюртев <p>
-# translit = <p> maŕadʔ ńoʔ śiwńa ḿaťudmʔ śatańajuʔ mæw <p> śurťew <p>
 # text_ru = Я зашел в ворота забора, повернул влево.
 # text_en = I walked through the gate, turned left and walked on.
 1	<p>	<p>	X	_	_	5	discourse	_	AlignBegin=0|AlignEnd=979.856581104|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
@@ -22,8 +22,8 @@
 # sent_id = yrk_s_MapTask_001_2
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = таняʼ ядадмʼ <p>
+# translit = tańaʔ jada -dmʔ <p>
 # p_text = таняʼ ядадмʼ <p>
-# translit = tańaʔ jadadmʔ <p>
 # text_ru = Иду туда.
 # text_en = I'm going in that direction.
 1	таняʼ	таняʼ	ADV	_	_	2	advmod	_	AlignBegin=6711.90672276|AlignEnd=6956.16604868|Gloss=there|LTranslit=tańaʔ|Translit=tańaʔ
@@ -34,8 +34,8 @@
 # sent_id = yrk_s_MapTask_001_3
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = яхамʼ <p> пулʼ нимня мадав <p>
+# translit = jaxa -mʔ <p> pul -ʔ ńimńa mada -w <p>
 # p_text = яхамʼ <p> пулʼ нимня мадав <p>
-# translit = jaxamʔ <p> pulʔ ńimńa madaw <p>
 # text_ru = Я перешел реку через мост.
 # text_en = I crossed the river on the bridge.
 1	яхамʼ	яха	NOUN	_	_	5	obj	_	AlignBegin=8269.11009909|AlignEnd=8770.11585444|LTranslit=jaxa|MGloss=river-acc|MSeg=яха-мʼ|Translit=jaxa-mʔ
@@ -49,8 +49,8 @@
 # sent_id = yrk_s_MapTask_001_4
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тадтикахад тамна тяхаʼ ядадмʼ <p>
+# translit = tadťikaxad tamna ťaxaʔ jada -dmʔ <p>
 # p_text = тадтикахад тамна тяхаʼ ядадмʼ <p>
-# translit = tadťikaxad tamna ťaxaʔ jadadmʔ <p>
 # text_ru = Затем иду дальше.
 # text_en = Then I walked on.
 1	тадтикахад	тадтикахад	ADV	_	_	4	advmod	_	AlignBegin=11136.6510597|AlignEnd=11980.376089|Gloss=afterwards|LTranslit=tadťikaxad|Translit=tadťikaxad
@@ -63,61 +63,59 @@
 # sent_id = yrk_s_MapTask_001_5
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пямʼ манэˮӈадмʼ <p>
+# translit = ṕa -mʔ manæʡ -ŋa -dmʔ <p>
 # p_text = пямʼ манэˮӈадмʼ <p>
-# translit = ṕamʔ manæʡŋadmʔ <p>
 # text_ru = Я увидел дерево.
 # text_en = I saw a tree.
 1	пямʼ	пя	NOUN	_	_	2	obj	_	AlignBegin=12989.2795393|AlignEnd=13221.1482376|LTranslit=ṕa|MGloss=tree-acc|MSeg=пя-мʼ|Translit=ṕa-mʔ
-2	манэˮӈадмʼ	манэˮ-ӈа	VERB	_	_	0	root	_	AlignBegin=13221.1482376|AlignEnd=13753.2518798|LTranslit=manæʡ-manæʡ-|MGloss=see-cosee-co-1sg|MSeg=манэˮ-ӈа-дмʼ|Translit=manæʡ-ŋamanæʡ-ŋa-dmʔ
+2	манэˮӈадмʼ	манэˮ-ӈа	VERB	_	_	0	root	_	AlignBegin=13221.1482376|AlignEnd=13753.2518798|LTranslit=manæʡ-ŋa|MGloss=see-cosee-co-1sg|MSeg=манэˮ-ӈа-дмʼ|Translit=manæʡ-ŋa-dmʔ
 3	<p>	<p>	PUNCT	_	_	2	punct	_	AlignBegin=13753.2518798|AlignEnd=14308.6925125|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_6
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
-# text = пямʼ сятаняӈы хэвувна -да махаʼняю <p> яляʼ серʼ сюртев <p>
+# text = пямʼ сятаняӈы хэвувнада махаʼняю <p> яляʼ серʼ сюртев <p>
+# translit = ṕa -mʔ śatańaŋi xæwu -wna -da maxaʔńaju <p> jaľa -ʔ śerʔ śurťe -w <p>
 # p_text = пямʼ сятаняӈы хэвувнада махаʼняю <p> яляʼ серʼ сюртев <p>
-# translit = ṕamʔ śatańaŋi xæwuwnada maxaʔńaju <p> jaľaʔ śerʔ śurťew <p>
 # text_ru = Я обошел дерево вокруг слева на право, по ходу солнца.
 # text_en = I walked around the tree from left to right, following the course of the sun.
-1	пямʼ	пя	NOUN	_	_	9	obj	_	AlignBegin=14308.6925125|AlignEnd=14881.38378|LTranslit=ṕa|MGloss=tree-acc|MSeg=пя-мʼ|Translit=ṕa-mʔ
+1	пямʼ	пя	NOUN	_	_	8	obj	_	AlignBegin=14308.6925125|AlignEnd=14881.38378|LTranslit=ṕa|MGloss=tree-acc|MSeg=пя-мʼ|Translit=ṕa-mʔ
 2	сятаняӈы	сятаняӈы	ADJ	_	_	3	amod	_	AlignBegin=14881.38378|AlignEnd=15563.5780387|Gloss=to.the.left.adj|LTranslit=śatańaŋi|Translit=śatańaŋi
-3	хэвувна	хэв	NOUN	_	_	9	obl:mod	_	AlignBegin=15563.5780387|AlignEnd=16342.5998697|LTranslit=xæw|MGloss=side-prol|MSeg=хэву-вна|Translit=xæwu-wna
-4	-да	_	DET	_	Number=Sing|Person=3	3	det:poss	_	AlignBegin=15563.5780387|AlignEnd=16342.5998697|Gloss=-poss.3sg|Translit=-da
-5	махаʼняю	махаʼняю	ADV	_	_	9	advmod	_	AlignBegin=16342.5998697|AlignEnd=17306.4743386|Gloss=to.the.right.pol|LTranslit=maxaʔńaju|Translit=maxaʔńaju
-6	<p>	<p>	X	_	_	9	discourse	_	AlignBegin=17306.4743386|AlignEnd=17605.7595618|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
-7	яляʼ	яля	NOUN	_	_	9	obl:mod	_	AlignBegin=17605.7595618|AlignEnd=17913.8472916|LTranslit=jaľa|MGloss=sun-gen|MSeg=яля-ʼ|Translit=jaľa-ʔ
-8	серʼ	серʼ	ADP	_	_	7	case	_	AlignBegin=17913.8472916|AlignEnd=18265.9475542|Gloss=at.the.time.of|LTranslit=śerʔ|Translit=śerʔ
-9	сюртев	сюрте-	VERB	_	_	0	root	_	AlignBegin=18265.9475542|AlignEnd=19012.2239452|LTranslit=śurťe-|MGloss=go.around-1sg.sg|MSeg=сюрте-в|Translit=śurťe-w
-10	<p>	<p>	PUNCT	_	_	9	punct	_	AlignBegin=19012.2239452|AlignEnd=19885.2282639|Gloss=SIL|LTranslit=<p>|Translit=<p>
+3	хэвувнада	хэв	NOUN	_	_	8	obl:mod	_	AlignBegin=15563.5780387|AlignEnd=16342.5998697|LTranslit=xæw|MGloss=side-prol-poss.3sg|MSeg=хэву-вна-да|Translit=xæwu-wna-da
+4	махаʼняю	махаʼняю	ADV	_	_	8	advmod	_	AlignBegin=16342.5998697|AlignEnd=17306.4743386|Gloss=to.the.right.pol|LTranslit=maxaʔńaju|Translit=maxaʔńaju
+5	<p>	<p>	X	_	_	8	discourse	_	AlignBegin=17306.4743386|AlignEnd=17605.7595618|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
+6	яляʼ	яля	NOUN	_	_	8	obl:mod	_	AlignBegin=17605.7595618|AlignEnd=17913.8472916|LTranslit=jaľa|MGloss=sun-gen|MSeg=яля-ʼ|Translit=jaľa-ʔ
+7	серʼ	серʼ	ADP	_	_	6	case	_	AlignBegin=17913.8472916|AlignEnd=18265.9475542|Gloss=at.the.time.of|LTranslit=śerʔ|Translit=śerʔ
+8	сюртев	сюрте-	VERB	_	_	0	root	_	AlignBegin=18265.9475542|AlignEnd=19012.2239452|LTranslit=śurťe-|MGloss=go.around-1sg.sg|MSeg=сюрте-в|Translit=śurťe-w
+9	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=19012.2239452|AlignEnd=19885.2282639|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_7
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
-# text = тикыʼ пуд <p> яхамʼ <p> таркахаю -та нямна <p> ӈохолырць <p> мадав <p>
+# text = тикыʼ пуд <p> яхамʼ <p> таркахаюта нямна <p> ӈохолырць <p> мадав <p>
+# translit = ťiki -ʔ pud <p> jaxa -mʔ <p> tarka -xaju -ta ńamna <p> ŋoxolir -ć <p> mada -w <p>
 # p_text = тикыʼ пуд <p> яхамʼ <p> таркахаюта нямна <p> ӈохолырць <p> мадав <p>
-# translit = ťikiʔ pud <p> jaxamʔ <p> tarkaxajuta ńamna <p> ŋoxolirć <p> madaw <p>
 # text_ru = После я переплыл реку там, где находится его развилка.
 # text_en = Then I crossed the river by swimming along where it forks.
-1	тикыʼ	тикы	PRON	_	_	12	obl:mod	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|LTranslit=ťiki|MGloss=that-gen|MSeg=тикы-ʼ|Translit=ťiki-ʔ
+1	тикыʼ	тикы	PRON	_	_	11	obl:mod	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|LTranslit=ťiki|MGloss=that-gen|MSeg=тикы-ʼ|Translit=ťiki-ʔ
 2	пуд	пуд	ADP	_	_	1	case	_	AlignBegin=20134.6823599|AlignEnd=20652.628525|Gloss=after.abl|LTranslit=pud|Translit=pud
 3	<p>	<p>	X	_	_	1	discourse	_	AlignBegin=20652.628525|AlignEnd=21543.9814893|Gloss=X|LTranslit=<p>|Translit=<p>
-4	яхамʼ	яха	NOUN	_	_	12	obj	_	AlignBegin=21543.9814893|AlignEnd=22108.9389461|LTranslit=jaxa|MGloss=river-acc|MSeg=яха-мʼ|Translit=jaxa-mʔ
+4	яхамʼ	яха	NOUN	_	_	11	obj	_	AlignBegin=21543.9814893|AlignEnd=22108.9389461|LTranslit=jaxa|MGloss=river-acc|MSeg=яха-мʼ|Translit=jaxa-mʔ
 5	<p>	<p>	X	_	_	4	discourse	_	AlignBegin=22108.9389461|AlignEnd=25217.3576132|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
-6	таркахаю	тарка	NOUN	_	_	12	obl:mod	_	AlignBegin=25217.3576132|AlignEnd=26000.5024092|LTranslit=tarka|MGloss=fork-du|MSeg=тарка-хаю|Translit=tarka-xaju
-7	-та	_	ADP	_	Number=Sing|Person=3	6	case	_	AlignBegin=25217.3576132|AlignEnd=26000.5024092|Gloss=-poss.gen.3sg|Translit=-ta
-8	нямна	нямна	ADP	_	_	6	case	_	AlignBegin=26000.5024092|AlignEnd=26635.3728789|Gloss=at.prol|LTranslit=ńamna|Translit=ńamna
-9	<p>	<p>	X	_	_	6	discourse	_	AlignBegin=26635.3728789|AlignEnd=27149.3460496|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
-10	ӈохолырць	ӈохолыр-	ADV	_	_	12	advmod	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|LTranslit=ŋoxolir-|MGloss=swim-cvb|MSeg=ӈохолыр-ць|Translit=ŋoxolir-ć
-11	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=28605.2209462|AlignEnd=29210.9750403|Gloss=SIL|LTranslit=<p>|Translit=<p>
-12	мадав	мада-	VERB	_	_	0	root	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|LTranslit=mada-|MGloss=pass.across-1sg.sg|MSeg=мада-в|Translit=mada-w
-13	<p>	<p>	PUNCT	_	_	12	punct	_	AlignBegin=29756.3256595|AlignEnd=30472.4180002|Gloss=SIL|LTranslit=<p>|Translit=<p>
+6	таркахаюта	тарка	NOUN	_	Number=Sing|Person=3	11	obl:mod	_	AlignBegin=25217.3576132|AlignEnd=26000.5024092|LTranslit=tarka|MGloss=fork-du-poss.gen.3sg|MSeg=тарка-хаю-та|Translit=tarka-xaju-ta
+7	нямна	нямна	ADP	_	_	6	case	_	AlignBegin=26000.5024092|AlignEnd=26635.3728789|Gloss=at.prol|LTranslit=ńamna|Translit=ńamna
+8	<p>	<p>	X	_	_	6	discourse	_	AlignBegin=26635.3728789|AlignEnd=27149.3460496|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
+9	ӈохолырць	ӈохолыр-	ADV	_	_	11	advmod	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|LTranslit=ŋoxolir-|MGloss=swim-cvb|MSeg=ӈохолыр-ць|Translit=ŋoxolir-ć
+10	<p>	<p>	PUNCT	_	_	9	punct	_	AlignBegin=28605.2209462|AlignEnd=29210.9750403|Gloss=SIL|LTranslit=<p>|Translit=<p>
+11	мадав	мада-	VERB	_	_	0	root	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|LTranslit=mada-|MGloss=pass.across-1sg.sg|MSeg=мада-в|Translit=mada-w
+12	<p>	<p>	PUNCT	_	_	11	punct	_	AlignBegin=29756.3256595|AlignEnd=30472.4180002|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_8
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тарка пыявна ӈадимядмʼ <p>
+# translit = tarka pija -wna ŋaďiḿa -dmʔ <p>
 # p_text = тарка пыявна ӈадимядмʼ <p>
-# translit = tarka pijawna ŋaďiḿadmʔ <p>
 # text_ru = Я оказался на мысу, который находится на развилке реки.
 # text_en = I ended up on a headland at the fork of the river.
 1	тарка	тарка	NOUN	_	_	2	nmod:poss	_	AlignBegin=30472.4180002|AlignEnd=30792.4253039|Gloss=fork|LTranslit=tarka|Translit=tarka
@@ -128,30 +126,29 @@
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_9
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
-# text = таркаʼ пыям мадаˮмахада -ни <p> ӈаниʼ ӈохолырць яхаʼ няби таркамʼ мадав <p>
+# text = таркаʼ пыям мадаˮмахадани <p> ӈаниʼ ӈохолырць яхаʼ няби таркамʼ мадав <p>
+# translit = tarka -ʔ pija -m mada -ʡma -xada -ńi <p> ŋańiʔ ŋoxolir -ć jaxa -ʔ ńab́i tarka -mʔ mada -w <p>
 # p_text = таркаʼ пыям мадаˮмахадани <p> ӈаниʼ ӈохолырць яхаʼ няби таркамʼ мадав <p>
-# translit = tarkaʔ pijam madaʡmaxadańi <p> ŋańiʔ ŋoxolirć jaxaʔ ńab́i tarkamʔ madaw <p>
 # text_ru = После того как я перешел мыс на развилке я снова переплыл другой рукав реки.
 # text_en = After crossing the headland at the fork, I swam back across the other branch of the river.
 1	таркаʼ	тарка	NOUN	_	_	2	nmod:poss	_	AlignBegin=32428.677422|AlignEnd=32779.8461562|LTranslit=tarka|MGloss=fork-gen|MSeg=тарка-ʼ|Translit=tarka-ʔ
 2	пыям	пыя	NOUN	_	_	3	obj	_	AlignBegin=32779.8461562|AlignEnd=33085.6141428|LTranslit=pija|MGloss=end-acc|MSeg=пыя-м|Translit=pija-m
-3	мадаˮмахада	мада-	VERB	_	_	11	advcl	_	AlignBegin=33085.6141428|AlignEnd=34024.1519907|LTranslit=mada-|MGloss=pass.across-pfv.an-abl|MSeg=мада-ˮма-хада|Translit=mada-ʡma-xada
-4	-ни	_	DET	_	Number=Sing|Person=1	3	det:poss	_	AlignBegin=33085.6141428|AlignEnd=34024.1519907|Gloss=-poss.1sg|Translit=-ńi
-5	<p>	<p>	PUNCT	_	_	11	punct	_	AlignBegin=34024.1519907|AlignEnd=34219.50376|Gloss=SIL|LTranslit=<p>|Translit=<p>
-6	ӈаниʼ	ӈаниʼ	ADV	_	_	7	advmod	_	AlignBegin=34219.50376|AlignEnd=34567.7395226|Gloss=again|LTranslit=ŋańiʔ|Translit=ŋańiʔ
-7	ӈохолырць	ӈохолыр-	ADV	_	_	11	advmod	_	AlignBegin=34567.7395226|AlignEnd=35141.0544975|LTranslit=ŋoxolir-|MGloss=swim-cvb|MSeg=ӈохолыр-ць|Translit=ŋoxolir-ć
-8	яхаʼ	яха	NOUN	_	_	10	nmod:poss	_	AlignBegin=35141.0544975|AlignEnd=35451.0692618|LTranslit=jaxa|MGloss=river-gen|MSeg=яха-ʼ|Translit=jaxa-ʔ
-9	няби	няби	DET	_	_	10	det	_	AlignBegin=35451.0692618|AlignEnd=35693.1355845|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
-10	таркамʼ	тарка	NOUN	_	_	11	obj	_	AlignBegin=35693.1355845|AlignEnd=36351.3861114|LTranslit=tarka|MGloss=fork-acc|MSeg=тарка-мʼ|Translit=tarka-mʔ
-11	мадав	мада-	VERB	_	_	0	root	_	AlignBegin=36351.3861114|AlignEnd=36895.055481|LTranslit=mada-|MGloss=pass.across-1sg.sg|MSeg=мада-в|Translit=mada-w
-12	<p>	<p>	PUNCT	_	_	11	punct	_	AlignBegin=36895.055481|AlignEnd=37398.4418421|Gloss=SIL|LTranslit=<p>|Translit=<p>
+3	мадаˮмахадани	мада-	VERB	_	_	10	advcl	_	AlignBegin=33085.6141428|AlignEnd=34024.1519907|LTranslit=mada-|MGloss=pass.across-pfv.an-abl-poss.1sg|MSeg=мада-ˮма-хада-ни|Translit=mada-ʡma-xada-ńi
+4	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=34024.1519907|AlignEnd=34219.50376|Gloss=SIL|LTranslit=<p>|Translit=<p>
+5	ӈаниʼ	ӈаниʼ	ADV	_	_	6	advmod	_	AlignBegin=34219.50376|AlignEnd=34567.7395226|Gloss=again|LTranslit=ŋańiʔ|Translit=ŋańiʔ
+6	ӈохолырць	ӈохолыр-	ADV	_	_	10	advmod	_	AlignBegin=34567.7395226|AlignEnd=35141.0544975|LTranslit=ŋoxolir-|MGloss=swim-cvb|MSeg=ӈохолыр-ць|Translit=ŋoxolir-ć
+7	яхаʼ	яха	NOUN	_	_	9	nmod:poss	_	AlignBegin=35141.0544975|AlignEnd=35451.0692618|LTranslit=jaxa|MGloss=river-gen|MSeg=яха-ʼ|Translit=jaxa-ʔ
+8	няби	няби	DET	_	_	9	det	_	AlignBegin=35451.0692618|AlignEnd=35693.1355845|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
+9	таркамʼ	тарка	NOUN	_	_	10	obj	_	AlignBegin=35693.1355845|AlignEnd=36351.3861114|LTranslit=tarka|MGloss=fork-acc|MSeg=тарка-мʼ|Translit=tarka-mʔ
+10	мадав	мада-	VERB	_	_	0	root	_	AlignBegin=36351.3861114|AlignEnd=36895.055481|LTranslit=mada-|MGloss=pass.across-1sg.sg|MSeg=мада-в|Translit=mada-w
+11	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=36895.055481|AlignEnd=37398.4418421|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_10
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = яхаʼ иканя халяˮ танявыˮ <p>
+# translit = jaxa -ʔ i -kańa xaľa -ʡ tańa -wi -ʡ <p>
 # p_text = яхаʼ иканя халяˮ танявыˮ <p>
-# translit = jaxaʔ ikańa xaľaʡ tańawiʡ <p>
 # text_ru = В реке были рыбы.
 # text_en = Apparently there were fish in the river.
 1	яхаʼ	яха	NOUN	_	_	2	nmod:poss	_	AlignBegin=37398.4418421|AlignEnd=37600.8987442|LTranslit=jaxa|MGloss=river-gen|MSeg=яха-ʼ|Translit=jaxa-ʔ
@@ -164,8 +161,8 @@
 # sent_id = yrk_s_MapTask_001_11
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тикахад <p> махаʼнякуʼ мэхэя тамна тяхаʼ яда нэкалӈав <p>
+# translit = ťikaxad <p> maxaʔńakuʔ mæ -xæja tamna ťaxaʔ jada nækal -ŋa -w <p>
 # p_text = тикахад <p> махаʼнякуʼ мэхэя тамна тяхаʼ яда нэкалӈав <p>
-# translit = ťikaxad <p> maxaʔńakuʔ mæxæja tamna ťaxaʔ jada nækalŋaw <p>
 # text_ru = После этого слегка повернув вправо, я пошел пешком дальше.
 # text_en = Then I turned slightly to the right and kept going.
 1	тикахад	тикахад	ADV	_	_	8	advmod	_	AlignBegin=40110.4887792|AlignEnd=40745.9218029|Gloss=then|LTranslit=ťikaxad|Translit=ťikaxad
@@ -175,15 +172,15 @@
 5	тамна	тамна	ADV	_	_	6	advmod	_	AlignBegin=42256.3025503|AlignEnd=42766.565119|Gloss=even|LTranslit=tamna|Translit=tamna
 6	тяхаʼ	тяхаˮ	ADV	_	_	8	advmod	_	AlignBegin=42766.565119|AlignEnd=42933.9312415|Gloss=further|LTranslit=ťaxaʡ|Translit=ťaxaʔ
 7	яда	яда	ADV	_	_	8	advmod	_	AlignBegin=42933.9312415|AlignEnd=43489.0969162|Gloss=on.foot|LTranslit=jada|Translit=jada
-8	нэкалӈав	нэкал-ӈа	VERB	_	_	0	root	_	AlignBegin=43489.0969162|AlignEnd=44265.3529624|LTranslit=nækal-nækal-|MGloss=pull-copull-co-1sg.sg|MSeg=нэкал-ӈа-в|Translit=nækal-ŋanækal-ŋa-w
+8	нэкалӈав	нэкал-ӈа	VERB	_	_	0	root	_	AlignBegin=43489.0969162|AlignEnd=44265.3529624|LTranslit=nækal-ŋa|MGloss=pull-copull-co-1sg.sg|MSeg=нэкал-ӈа-в|Translit=nækal-ŋa-w
 9	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=44265.3529624|AlignEnd=44576.8886332|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_12
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ӈобʼ ядадмʼ ядадмʼ <p>
+# translit = ŋobʔ jada -dmʔ jada -dmʔ <p>
 # p_text = ӈобʼ ядадмʼ ядадмʼ <p>
-# translit = ŋobʔ jadadmʔ jadadmʔ <p>
 # text_ru = Все иду, иду.
 # text_en = I'm still going, I'm still going.
 1	ӈобʼ	ӈобʼ	ADV	_	_	2	advmod	_	AlignBegin=44576.8886332|AlignEnd=44893.2241976|Gloss=once|LTranslit=ŋobʔ|Translit=ŋobʔ
@@ -193,26 +190,26 @@
 
 # sent_id = yrk_s_MapTask_001_13
 # text = нерни няна <p> пирця харадмʼ манэˮӈадмʼ <p>
+# translit = ńer -ńi ńana <p> ṕirća xarad -mʔ manæʡ -ŋa -dmʔ <p>
 # doc_title = MapTask_001
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # p_text = нерни няна <p> пирця харадмʼ манэˮӈадмʼ <p>
-# translit = ńerńi ńana <p> ṕirća xaradmʔ manæʡŋadmʔ <p>
 # text_ru = Впереди себя я увидел высокую башню(дом).
 # text_en = In front of me I saw a high house.
 1	нерни	нер	ADP	_	Number=Sing|Person=1	6	dep	_	AlignBegin=46473.4729404|AlignEnd=47023.0522783|LTranslit=ńer|MGloss=in.front.of-poss.gen.1sg|MSeg=нер-ни|Translit=ńer-ńi
-2	няна	няна	ADP	_	_	1	dep:comp	_	AlignBegin=47023.0522783|AlignEnd=47605.5841684|Gloss=at.loc|LTranslit=ńana|Translit=ńana
+2	няна	няна	ADP	_	_	1	dep	_	AlignBegin=47023.0522783|AlignEnd=47605.5841684|Gloss=at.loc|LTranslit=ńana|Translit=ńana
 3	<p>	<p>	X	_	_	6	discourse	_	AlignBegin=47605.5841684|AlignEnd=47773.5701088|Gloss=X|LTranslit=<p>|Translit=<p>
 4	пирця	пирця	ADJ	_	_	5	amod	_	AlignBegin=47773.5701088|AlignEnd=48117.6703416|Gloss=tall|LTranslit=ṕirća|Translit=ṕirća
 5	харадмʼ	харад	NOUN	_	_	6	obj	_	AlignBegin=48117.6703416|AlignEnd=48591.8242056|LTranslit=xarad|MGloss=house-acc|MSeg=харад-мʼ|Translit=xarad-mʔ
-6	манэˮӈадмʼ	манэˮ-ӈа	VERB	_	_	0	root	_	AlignBegin=48591.8242056|AlignEnd=49410.4035536|LTranslit=manæʡ-manæʡ-|MGloss=see-cosee-co-1sg|MSeg=манэˮ-ӈа-дмʼ|Translit=manæʡ-ŋamanæʡ-ŋa-dmʔ
+6	манэˮӈадмʼ	манэˮ-ӈа	VERB	_	_	0	root	_	AlignBegin=48591.8242056|AlignEnd=49410.4035536|LTranslit=manæʡ-ŋa|MGloss=see-cosee-co-1sg|MSeg=манэˮ-ӈа-дмʼ|Translit=manæʡ-ŋa-dmʔ
 7	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=49410.4035536|AlignEnd=49793.0348731|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_14
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пирця харадʼ сидя сидеранда си <p>
+# translit = ṕirća xarad -ʔ śiďa śiďera -nda śi <p>
 # p_text = пирця харадʼ сидя сидеранда си <p>
-# translit = ṕirća xaradʔ śiďa śiďeranda śi <p>
 # text_ru = У башни два окна.
 # text_en = The tower has two windows.
 1	пирця	пирця	ADJ	_	_	2	amod	_	AlignBegin=49793.0348731|AlignEnd=50240.5494267|Gloss=tall|LTranslit=ṕirća|Translit=ṕirća
@@ -226,8 +223,8 @@
 # sent_id = yrk_s_MapTask_001_15
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танцянда таня <p> нёнда си таня <p>
+# translit = tanća -nda tańa <p> ńo -nda śi tańa <p>
 # p_text = танцянда таня <p> нёнда си таня <p>
-# translit = tanćanda tańa <p> ńonda śi tańa <p>
 # text_ru = У нее есть лестница, у нее есть дверь.
 # text_en = It has a staircase, it has a door.
 1	танцянда	танциеˮ	NOUN	_	_	2	nsubj	_	AlignBegin=52667.8964056|AlignEnd=53207.8639086|LTranslit=tanćieʡ|MGloss=stairs-poss.3sg|MSeg=танця-нда|Translit=tanća-nda
@@ -242,8 +239,8 @@
 # sent_id = yrk_s_MapTask_001_16
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = махалэйда <p> тюˮуʼ няʼ мятревʼ саблюй <p>
+# translit = maxalæj -da <p> ťuʡuʔ ńaʔ ḿatŕewʔ sabľuj <p>
 # p_text = махалэйда <p> тюˮуʼ няʼ мятревʼ саблюй <p>
-# translit = maxalæjda <p> ťuʡuʔ ńaʔ ḿatŕewʔ sabľuj <p>
 # text_ru = Ее крыша заострена вверх словно чум.
 # text_en = Its roof is pointed up like a chum (tent).
 1	махалэйда	махалы	NOUN	_	_	6	nsubj	_	AlignBegin=55656.9591005|AlignEnd=56532.7236527|LTranslit=maxali|MGloss=roof-poss.3sg|MSeg=махалэй-да|Translit=maxalæj-da
@@ -258,8 +255,8 @@
 # sent_id = yrk_s_MapTask_001_17
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ӈавоʼ пиркаˮнаˮ нёнда синʼ тэвывʼ <p>
+# translit = ŋawoʔ ṕirkaʡna -ʡ ńo -nda śi -nʔ tæwi -wʔ <p>
 # p_text = ӈавоʼ пиркаˮнаˮ нёнда синʼ тэвывʼ <p>
-# translit = ŋawoʔ ṕirkaʡnaʡ ńonda śinʔ tæwiwʔ <p>
 # text_ru = В какой-то момент я дошел до ее двери.
 # text_en = At one point I reached the door.
 1	ӈавоʼ	ӈамгэ	PRON	_	_	5	obl:mod	_	AlignBegin=60628.7794315|AlignEnd=61168.7965189|Gloss=what.gen.pl|LTranslit=ŋamgæ|Translit=ŋawoʔ
@@ -273,23 +270,23 @@
 # sent_id = yrk_s_MapTask_001_18
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танцяʼ сер <p> тюˮуʼ танэявʼ <p>
+# translit = tanćaʔ śer <p> ťuʡuʔ tanæ -ja -wʔ <p>
 # p_text = танцяʼ сер <p> тюˮуʼ танэявʼ <p>
-# translit = tanćaʔ śer <p> ťuʡuʔ tanæjawʔ <p>
 # text_ru = Я поднялся вверх по лестнице.
 # text_en = I went up the stairs.
 1	танцяʼ	танциеˮ	NOUN	_	_	5	obl:mod	_	AlignBegin=63317.6735539|AlignEnd=63824.9406205|Gloss=stairs|LTranslit=tanćieʡ|Translit=tanćaʔ
 2	сер	серʼ	ADP	_	_	1	case	_	AlignBegin=63824.9406205|AlignEnd=64175.5184841|Gloss=at.the.time.of|LTranslit=śerʔ|Translit=śer
 3	<p>	<p>	X	_	_	5	discourse	_	AlignBegin=64175.5184841|AlignEnd=64498.6368382|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
 4	тюˮуʼ	тюˮуʼ	ADV	_	_	5	advmod	_	AlignBegin=64498.6368382|AlignEnd=64769.2885512|Gloss=upwards|LTranslit=ťuʡuʔ|Translit=ťuʡuʔ
-5	танэявʼ	танэ-я	VERB	_	_	0	root	_	AlignBegin=64769.2885512|AlignEnd=65303.2016143|LTranslit=tana-tana-|MGloss=go.up-co.reflgo.up-co.refl-1sg.refl|MSeg=танэ-я-вʼ|Translit=tanæ-jatanæ-ja-wʔ
+5	танэявʼ	танэ-я	VERB	_	_	0	root	_	AlignBegin=64769.2885512|AlignEnd=65303.2016143|LTranslit=tanæ-ja|MGloss=go.up-co.reflgo.up-co.refl-1sg.refl|MSeg=танэ-я-вʼ|Translit=tanæ-ja-wʔ
 6	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=65303.2016143|AlignEnd=68629.1001372|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_19
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пирця харадʼ мюмня яда хаядмʼ <p>
+# translit = ṕirća xarad -ʔ ḿumńa jada xaja -dmʔ <p>
 # p_text = пирця харадʼ мюмня яда хаядмʼ <p>
-# translit = ṕirća xaradʔ ḿumńa jada xajadmʔ <p>
 # text_ru = Я прошел по башне внутри.
 # text_en = I went inside the tower.
 1	пирця	пирця	ADJ	_	_	2	amod	_	AlignBegin=68629.1001372|AlignEnd=69166.4841485|Gloss=tall|LTranslit=ṕirća|Translit=ṕirća
@@ -302,27 +299,26 @@
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_20
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
-# text = няби хэвувна -нда ӈаниʼ несэй нёʼ сивна тарпывʼ <p>
+# text = няби хэвувнанда ӈаниʼ несэй нёʼ сивна тарпывʼ <p>
+# translit = ńab́i xæwu -wna -nda ŋańiʔ ńesæj ńo -ʔ śi -wna tarpi -wʔ <p>
 # p_text = няби хэвувнанда ӈаниʼ несэй нёʼ сивна тарпывʼ <p>
-# translit = ńab́i xæwuwnanda ŋańiʔ ńesæj ńoʔ śiwna tarpiwʔ <p>
 # text_ru = С другой ее стороны я вышел в другую дверь.
 # text_en = On the other side I went out through another door.
 1	няби	няби	DET	_	_	2	det	_	AlignBegin=71274.2032934|AlignEnd=71663.4963372|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
-2	хэвувна	хэв	NOUN	_	_	8	obl:mod	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|LTranslit=xæw|MGloss=side-prol|MSeg=хэву-вна|Translit=xæwu-wna
-3	-нда	_	DET	_	Number=Sing|Person=3	2	det:poss	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=-poss.3sg|Translit=-nda
-4	ӈаниʼ	ӈаниʼ	ADV	_	_	8	advmod	_	AlignBegin=72357.4367523|AlignEnd=72575.5323113|Gloss=again|LTranslit=ŋańiʔ|Translit=ŋańiʔ
-5	несэй	несэй	ADJ	_	_	6	amod	_	AlignBegin=72575.5323113|AlignEnd=72825.8465324|Gloss=new(other)|LTranslit=ńesæj|Translit=ńesæj
-6	нёʼ	нё	NOUN	_	_	7	nmod:poss	_	AlignBegin=72825.8465324|AlignEnd=72986.9398431|LTranslit=ńo|MGloss=door-gen|MSeg=нё-ʼ|Translit=ńo-ʔ
-7	сивна	си	NOUN	_	_	8	obl:mod	_	AlignBegin=72986.9398431|AlignEnd=73316.5615402|LTranslit=śi|MGloss=hole-prol|MSeg=си-вна|Translit=śi-wna
-8	тарпывʼ	тарпа-	VERB	_	_	0	root	_	AlignBegin=73316.5615402|AlignEnd=73974.5657552|LTranslit=tarpa-|MGloss=go.out-1sg.refl|MSeg=тарпы-вʼ|Translit=tarpi-wʔ
-9	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=73974.5657552|AlignEnd=74190.6746981|Gloss=SIL|LTranslit=<p>|Translit=<p>
+2	хэвувнанда	хэв	NOUN	_	_	7	obl:mod	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|LTranslit=xæw|MGloss=side-prol-poss.3sg|MSeg=хэву-вна-нда|Translit=xæwu-wna-nda
+3	ӈаниʼ	ӈаниʼ	ADV	_	_	7	advmod	_	AlignBegin=72357.4367523|AlignEnd=72575.5323113|Gloss=again|LTranslit=ŋańiʔ|Translit=ŋańiʔ
+4	несэй	несэй	ADJ	_	_	5	amod	_	AlignBegin=72575.5323113|AlignEnd=72825.8465324|Gloss=new(other)|LTranslit=ńesæj|Translit=ńesæj
+5	нёʼ	нё	NOUN	_	_	6	nmod:poss	_	AlignBegin=72825.8465324|AlignEnd=72986.9398431|LTranslit=ńo|MGloss=door-gen|MSeg=нё-ʼ|Translit=ńo-ʔ
+6	сивна	си	NOUN	_	_	7	obl:mod	_	AlignBegin=72986.9398431|AlignEnd=73316.5615402|LTranslit=śi|MGloss=hole-prol|MSeg=си-вна|Translit=śi-wna
+7	тарпывʼ	тарпа-	VERB	_	_	0	root	_	AlignBegin=73316.5615402|AlignEnd=73974.5657552|LTranslit=tarpa-|MGloss=go.out-1sg.refl|MSeg=тарпы-вʼ|Translit=tarpi-wʔ
+8	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=73974.5657552|AlignEnd=74190.6746981|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_21
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танцяʼ серʼ хаˮмывʼ <p> тамна тяхаʼ ядалъявʼ <p> сятаняюʼ сюртев <p>
+# translit = tanćaʔ śerʔ xaʡmi -wʔ <p> tamna ťaxaʔ jadal -"ja -wʔ <p> śatańajuʔ śurťe -w <p>
 # p_text = танцяʼ серʼ хаˮмывʼ <p> тамна тяхаʼ ядалъявʼ <p> сятаняюʼ сюртев <p>
-# translit = tanćaʔ śerʔ xaʡmiwʔ <p> tamna ťaxaʔ jadal"jawʔ <p> śatańajuʔ śurťew <p>
 # text_ru = Я спустился по лестнице, стал идти дальше, повернул налево.
 # text_en = I went down the stairs, started walking and turned left.
 1	танцяʼ	танциеˮ	NOUN	_	_	3	obl:mod	_	AlignBegin=74190.6746981|AlignEnd=74593.3610876|Gloss=stairs|LTranslit=tanćieʡ|Translit=tanćaʔ
@@ -331,7 +327,7 @@
 4	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=75539.0428681|AlignEnd=76514.9480759|Gloss=SIL|LTranslit=<p>|Translit=<p>
 5	тамна	тамна	ADV	_	_	6	advmod	_	AlignBegin=76514.9480759|AlignEnd=76730.496334|Gloss=even|LTranslit=tamna|Translit=tamna
 6	тяхаʼ	тяхаˮ	ADV	_	_	7	advmod	_	AlignBegin=76730.496334|AlignEnd=76860.0911208|Gloss=further|LTranslit=ťaxaʡ|Translit=ťaxaʔ
-7	ядалъявʼ	ядал-ъя	VERB	_	_	3	parataxis	_	AlignBegin=76860.0911208|AlignEnd=77465.0598865|LTranslit=jadal-jadal-|MGloss=go.forth-co.reflgo.forth-co.refl-1sg.refl|MSeg=ядал-ъя-вʼ|Translit=jadal-"jajadal-"ja-wʔ
+7	ядалъявʼ	ядал-ъя	VERB	_	_	3	parataxis	_	AlignBegin=76860.0911208|AlignEnd=77465.0598865|LTranslit=jadal-"ja|MGloss=go.forth-co.reflgo.forth-co.refl-1sg.refl|MSeg=ядал-ъя-вʼ|Translit=jadal-"ja-wʔ
 8	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=77465.0598865|AlignEnd=77603.7923302|Gloss=SIL|LTranslit=<p>|Translit=<p>
 9	сятаняюʼ	сятаняюʼ	ADV	_	_	10	advmod	_	AlignBegin=77603.7923302|AlignEnd=78351.9468402|Gloss=to.the.left.pol|LTranslit=śatańajuʔ|Translit=śatańajuʔ
 10	сюртев	сюрте-	VERB	_	_	3	parataxis	_	AlignBegin=78351.9468402|AlignEnd=79174.4365557|LTranslit=śurťe-|MGloss=go.around-1sg.sg|MSeg=сюрте-в|Translit=śurťe-w
@@ -341,8 +337,8 @@
 # sent_id = yrk_s_MapTask_001_22
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = сятаняюʼ ядадмʼ ядадмʼ ӈобʼ ядадмʼ <p>
+# translit = śatańajuʔ jada -dmʔ jada -dmʔ ŋobʔ jada -dmʔ <p>
 # p_text = сятаняюʼ ядадмʼ ядадмʼ ӈобʼ ядадмʼ <p>
-# translit = śatańajuʔ jadadmʔ jadadmʔ ŋobʔ jadadmʔ <p>
 # text_ru = Влево иду-иду, все иду.
 # text_en = I turned left and walked on.
 1	сятаняюʼ	сятаняюʼ	ADV	_	_	2	advmod	_	AlignBegin=79523.7980109|AlignEnd=80531.2139683|Gloss=to.the.left.pol|LTranslit=śatańajuʔ|Translit=śatańajuʔ
@@ -355,25 +351,24 @@
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_23
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
-# text = ехэрана ӈани ӈопой маряд -мʼ манэˮӈадмʼ <p>
+# text = ехэрана ӈани ӈопой марядмʼ манэˮӈадмʼ <p>
+# translit = exæra -na ŋańi ŋopoj maŕa -d -mʔ manæʡ -ŋa -dmʔ <p>
 # p_text = ехэрана ӈани ӈопой марядмʼ манэˮӈадмʼ <p>
-# translit = exærana ŋańi ŋopoj maŕadmʔ manæʡŋadmʔ <p>
 # text_ru = Увидел еще один незнакомый забор.
 # text_en = I saw another unfamiliar fence.
 1	ехэрана	ехэра-	ADJ	_	_	4	amod	_	AlignBegin=83119.6188647|AlignEnd=83892.8338419|LTranslit=exæra-|MGloss=not.know-ptcp.cont|MSeg=ехэра-на|Translit=exæra-na
 2	ӈани	ӈаниʼ	DET	_	_	4	det	_	AlignBegin=83892.8338419|AlignEnd=84156.7517054|Gloss=other|LTranslit=ŋańiʔ|Translit=ŋańi
-3	ӈопой	ӈопой	NUM	_	_	4	dep	_	AlignBegin=84156.7517054|AlignEnd=84462.4783394|Gloss=one|LTranslit=ŋopoj|Translit=ŋopoj
-4	маряд	марˮ	NOUN	_	_	6	obj	_	AlignBegin=84462.4783394|AlignEnd=85298.6537487|LTranslit=marʡ|MGloss=fence-?predest?|MSeg=маря-д|Translit=maŕa-d
-5	-мʼ	_	ADP	_	_	4	case	_	AlignBegin=84462.4783394|AlignEnd=85298.6537487|Gloss=-acc|Translit=-mʔ
-6	манэˮӈадмʼ	манэˮ-ӈа	VERB	_	_	0	root	_	AlignBegin=85298.6537487|AlignEnd=85803.731728|LTranslit=manæʡ-ŋa|MGloss=see-co-1sg|MSeg=манэˮ-ӈа-дмʼ|Translit=manæʡ-ŋa-dmʔ
-7	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=85803.731728|AlignEnd=86338.7574292|Gloss=SIL|LTranslit=<p>|Translit=<p>
+3	ӈопой	ӈопой	NUM	_	_	4	nummod	_	AlignBegin=84156.7517054|AlignEnd=84462.4783394|Gloss=one|LTranslit=ŋopoj|Translit=ŋopoj
+4	марядмʼ	марˮ	NOUN	_	_	5	obj	_	AlignBegin=84462.4783394|AlignEnd=85298.6537487|LTranslit=marʡ|MGloss=fence-?predest?-acc|MSeg=маря-д-мʼ|Translit=maŕa-d-mʔ
+5	манэˮӈадмʼ	манэˮ-ӈа	VERB	_	_	0	root	_	AlignBegin=85298.6537487|AlignEnd=85803.731728|LTranslit=manæʡ-ŋa|MGloss=see-co-1sg|MSeg=манэˮ-ӈа-дмʼ|Translit=manæʡ-ŋa-dmʔ
+6	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=85803.731728|AlignEnd=86338.7574292|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # sent_id = yrk_s_MapTask_001_24
 # text = марядʼ тяхана <p> тэхэʼ танявэхэˮ <p>
+# translit = maŕa -dʔ ťaxana <p> tæ -xæʔ tańa -wæ -xæʡ <p>
 # doc_title = MapTask_001
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # p_text = марядʼ тяхана <p> тэхэʼ танявэхэˮ <p>
-# translit = maŕadʔ ťaxana <p> tæxæʔ tańawæxæʡ <p>
 # text_ru = За забором оказались два оленя.
 # text_en = Two deer appeared to be behind the fence.
 1	марядʼ	марˮ	NOUN	_	Number=Sing|Person=2	5	obl:mod	_	AlignBegin=86338.7574292|AlignEnd=86736.2373378|LTranslit=marʡ|MGloss=fence-poss.gen.2sg|MSeg=маря-дʼ|Translit=maŕa-dʔ
