@@ -5,55 +5,66 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>93</sentences><tokens>651</tokens><words>651</words><fused>0</fused></total>
+    <total><sentences>170</sentences><tokens>1272</tokens><words>1272</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>93</sentences><tokens>651</tokens><words>651</words><fused>0</fused></test>
+    <test><sentences>170</sentences><tokens>1272</tokens><words>1272</words><fused>0</fused></test>
   </size>
-  <lemmas unique="143" /><!-- <b_p>, <s_p>, яха, мада-, тарка, яда-, си, харад, марˮ, манэˮ-, нэкал-, ӈано, нё, серʼ, махалы -->
-  <forms unique="243" /><!-- <b_p>, <s_p>, яхаʼ, мадав, ядадмʼ, нэкал-ӈав, серʼ, тамна, манэˮ-ӈадмʼ, марядʼ, пирця, пулʼ, яда, яхамʼ, ӈохолё -->
+  <lemmas unique="312" /><!-- <p>, хасава, груша, яха, ӈацекы, серʼ, тарка, тамна, хыдя, си, харад, хэв, яда-, ӈобʼ, <n> -->
+  <forms unique="532" /><!-- <p>, хасава, серʼ, яхаʼ, тамна, ядадмʼ, <n>, мадав, ӈобʼ, марядʼ, нэкалӈав, сидя, тяхаʼ, манэˮӈадмʼ, пирця -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="12">
-    <tag name="ADJ">21</tag><!-- пирця, саблюй, маханяӈы, сятаняӈы, ехэра-, махалэй, маханяӈэюмʼ, несэй, сятаняю -->
-    <tag name="ADP">54</tag><!-- серʼ, ниʼ, няʼ, няна, мюня, нид, ӈыламна, _, мюмня, нимня -->
-    <tag name="ADV">84</tag><!-- тамна, яда, тадтикахад, ӈобʼ, ӈохолё, тяхаʼ, тяхаˮ, ӈаниʼ, сятаняюʼ, тасиʼ -->
-    <tag name="AUX">2</tag><!-- тара, ӈa -->
-    <tag name="DET">23</tag><!-- _, няби, <b_p>, <s_p>, ӈаниʼ -->
-    <tag name="INTJ">1</tag><!-- <a_d> -->
-    <tag name="NOUN">173</tag><!-- яха, тарка, си, харад, марˮ, ӈано, нё, махалы, пул, пыя -->
-    <tag name="NUM">5</tag><!-- сидя, ӈопой -->
-    <tag name="PRON">8</tag><!-- нер-, мэ-, тикы, тэва-, ӈамгэ -->
-    <tag name="PUNCT">120</tag><!-- <b_p>, <s_p>, <w_n>, <n_n>, хэ-<b_p> -->
-    <tag name="VERB">122</tag><!-- яда-, мада-, манэˮ-, нэкал-, сыр-, таня-, тэва-, ну-, сюрте-, тана- -->
-    <tag name="X">38</tag><!-- <s_p>, <b_p>, X, тодоʼ -->
+    <tag name="ADJ">45</tag><!-- пирця, саблюй, маханяӈы, паӈгалмы, сюнраха, няръяна, сятаняӈы, терсиˮ, тоˮолха, ехэра- -->
+    <tag name="ADP">92</tag><!-- серʼ, няʼ, мюʼ, ниʼ, нид, няна, мюд, ниня, няюʼ, тяхад -->
+    <tag name="ADV">146</tag><!-- тамна, таремʼ, ӈаниʼ, ӈобʼ, тадтикахад, тяхаˮ, яда, тяхаʼ, хуриʼ, маханяʼ -->
+    <tag name="AUX">7</tag><!-- ӈa, ни, тара -->
+    <tag name="DET">13</tag><!-- няби, <p>, ханяӈыˮ, ӈаниʼ -->
+    <tag name="INTJ">63</tag><!-- <p>, <n>, <d>, X -->
+    <tag name="NOUN">361</tag><!-- хасава, груша, яха, ӈацекы, тарка, хыдя, си, харад, хэв, марˮ -->
+    <tag name="NUM">23</tag><!-- сидя, ӈопой, ӈобʼ, няхарˮ, няхаромдэй -->
+    <tag name="PRON">19</tag><!-- тикы, ӈамгэ, нянда, _, нер-, та, тюку, харта -->
+    <tag name="PUNCT">211</tag><!-- <p>, <n>, : -->
+    <tag name="VERB">251</tag><!-- яда-, манэˮ-ӈа, нэкал-ӈа, мада, мада-, мэ, маˮламба, ӈохолё, ялъя, имбытата -->
+    <tag name="X">41</tag><!-- <p>, X, <d> -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="0">
+  <feats unique="7">
+    <feat name="Number" value="Plur" upos="PRON">1</feat><!-- ваˮ -->
+    <feat name="Number" value="Sing" upos="ADP,AUX,NOUN,PRON,VERB">43</feat><!-- марядʼ, махалэянда, нёнда, таня, тарканда, нерни, нерниʼ, сидеранда, харданда, <er>марядʼ -->
+    <feat name="Person" value="1" upos="ADP,NOUN,PRON,VERB">8</feat><!-- нерни, нерниʼ, ваˮ, миманиʼ, сэвˮни, ядваниʼ -->
+    <feat name="Person" value="2" upos="NOUN">9</feat><!-- марядʼ, <er>марядʼ -->
+    <feat name="Person" value="3" upos="ADP,AUX,NOUN,VERB">27</feat><!-- махалэянда, нёнда, таня, тарканда, сидеранда, харданда, нянда, нёнд<un>, танявыˮ, танявэхэˮ -->
+    <feat name="PronType" value="Dem" upos="PRON">9</feat><!-- тикы, тикар, та, тика, тюку -->
+    <feat name="VerbForm" value="Conv" upos="VERB">10</feat><!-- ӈохолё, мада, пыдабтамба -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="22">
-    <dep name="advmod">5</dep>
-    <dep name="amod">16</dep>
-    <dep name="aux">1</dep>
-    <dep name="case">48</dep>
-    <dep name="ccomp">12</dep>
-    <dep name="dep">2</dep>
+  <deps unique="26">
+    <dep name="acl">17</dep>
+    <dep name="advcl">37</dep>
+    <dep name="advmod">140</dep>
+    <dep name="amod">24</dep>
+    <dep name="aux">5</dep>
+    <dep name="case">68</dep>
+    <dep name="ccomp">8</dep>
+    <dep name="cop">1</dep>
+    <dep name="csubj">1</dep>
+    <dep name="dep">21</dep>
     <dep name="det">8</dep>
-    <dep name="det:poss">12</dep>
-    <dep name="discourse">40</dep>
-    <dep name="mark">2</dep>
-    <dep name="nmod">4</dep>
-    <dep name="nmod:poss">45</dep>
-    <dep name="nsubj">12</dep>
-    <dep name="nummod">2</dep>
-    <dep name="obj">44</dep>
-    <dep name="obl:arg">151</dep>
-    <dep name="obl:mod">2</dep>
-    <dep name="orphan">1</dep>
-    <dep name="parataxis">28</dep>
-    <dep name="punct">119</dep>
-    <dep name="reparandum">4</dep>
-    <dep name="root">93</dep>
+    <dep name="discourse">105</dep>
+    <dep name="mark">6</dep>
+    <dep name="nmod">38</dep>
+    <dep name="nmod:poss">60</dep>
+    <dep name="nsubj">53</dep>
+    <dep name="nsubj:outer">1</dep>
+    <dep name="nummod">18</dep>
+    <dep name="obj">80</dep>
+    <dep name="obl:mod">129</dep>
+    <dep name="parataxis">50</dep>
+    <dep name="punct">211</dep>
+    <dep name="reparandum">19</dep>
+    <dep name="root">170</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">1</dep>
   </deps>
 </treebank>
