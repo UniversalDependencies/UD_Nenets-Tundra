@@ -1,13 +1,17 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Nenets-Tundra:
-commit 59f98f95a3a3f24f22a57461fe54f3abeefc4324
+commit 16557132e1b8f89f3ff0e30781d220ebadbaeee8
+Merge: e522742 822562f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 22:22:30 2025 +0200
-Size: counted 651 of 651 words (nodes).
-Size: min(0, log((N/1000)**2)) = 0.
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'yrk_tundra'
+Language code (from CoNLL-U file name) = 'yrk'
+Found the following data files: yrk_tundra-ud-test.conllu
+Size: counted 1272 of 1272 words (nodes).
+Size: min(0, log((N/1000)**2)) = 0.481180929835861.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,26 +19,33 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 12 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 0 out of 651 total words have one or more features.
+Features: 63 out of 1272 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
-Universal relations: 19 out of 37 found in the corpus.
+Universal relations: 24 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL        284
-Udapi: found 284 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 651 words.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang yrk --max-err=10 UD_Nenets-Tundra/yrk_tundra-ud-test.conllu
+[Line 114 Sent yrk_s_MapTask_001_7]: [L3 Warning pron-det-without-prontype] The word 'тикыʼ ťikiʔ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 159 Sent yrk_s_MapTask_001_9]: [L3 Warning pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 296 Sent yrk_s_MapTask_001_17]: [L3 Warning pron-det-without-prontype] The word 'ӈавоʼ ŋawoʔ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 347 Sent yrk_s_MapTask_001_20]: [L3 Warning pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 406 Sent yrk_s_MapTask_001_23]: [L3 Warning pron-det-without-prontype] The word 'ӈани ŋańi' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 543 Sent yrk_s_MapTask_002_7]: [L3 Warning pron-det-without-prontype] The word 'нерниʼ ńerńiʔ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 676 Sent yrk_s_MapTask_002_15]: [L3 Warning pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 759 Sent yrk_s_MapTask_002_20]: [L3 Warning pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 877 Sent yrk_s_MapTask_002_26]: [L3 Warning pron-det-without-prontype] The word 'нябиʼ ńab́iʔ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1334 Sent yrk_s_MapTask_004_7]: [L3 Warning pron-det-without-prontype] The word '<p> <p>' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+Warnings: 23
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0) = 0
-(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.513513513513513) = 0.0395010395010395
-(TOTAL score=0.179355237590532) * (availability=1) * (validity=1) = 0.179355237590532
-STARS = 1
-UD_Nenets-Tundra	0.179355237590532	1
+(weight=0.111111111111111) * (score{features}=0.3) = 0.0333333333333333
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.0348290371041317) = 0.0128996433719006
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.705882352941177) = 0.0784313725490196
+(weight=0.111111111111111) * (score{udeprels}=0.648648648648649) = 0.0720720720720721
+(TOTAL score=0.31476111268435) * (availability=1) * (validity=1) = 0.31476111268435
+STARS = 1.5
+UD_Nenets-Tundra	0.31476111268435	1.5
