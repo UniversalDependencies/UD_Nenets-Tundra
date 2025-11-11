@@ -24,6 +24,8 @@ The development of this treebank was supported by two research projects: Autogra
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Added text of the Pear Story.
 * 2025-05-15 v2.16
   * Initial release in Universal Dependencies.
 
@@ -33,6 +35,7 @@ The development of this treebank was supported by two research projects: Autogra
 Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: spoken
 Lemmas: manual native
 UPOS: manual native
