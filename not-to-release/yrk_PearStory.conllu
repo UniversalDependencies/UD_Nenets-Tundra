@@ -47,7 +47,7 @@
 # text_ru = Мужчина кладёт груши одну за другой в карман.
 # text_en = The man slips the fruit one by one into his pocket.
 1	ӈопой	ӈопой	NUM	_	_	2	nummod	_	AlignBegin=11562.1010726|AlignEnd=12337.0289147|Gloss=one|LTranslit=ŋopoj|Translit=ŋopoj
-2	ӈодямʼ	ӈодя	NOUN	_	_	10	obj	_	AlignBegin=12337.0289147|AlignEnd=12998.2058809|LTranslit=ŋoďaX|MGloss=berry-acc|MSeg=ӈодя-мʼ|Translit=ŋoďa-mʔ
+2	ӈодямʼ	ӈодя	NOUN	_	_	10	obj	_	AlignBegin=12337.0289147|AlignEnd=12998.2058809|ISRole=Top|LTranslit=ŋoďaX|MGloss=berry-acc|MSeg=ӈодя-мʼ|Translit=ŋoďa-mʔ
 3	нянда	нянда	PRON	_	_	10	obl:mod	_	AlignBegin=12998.2058809|AlignEnd=13773.1337229|Gloss=3sg.dat|LTranslit=ńanda|Translit=ńanda
 4	пуд	пуд	ADP	_	_	3	case	_	AlignBegin=12998.2058809|AlignEnd=13773.1337229|Gloss=after.abl|LTranslit=pud|Translit=pud
 5	<p>	<p>	INTJ	_	_	3	discourse	_	AlignBegin=13773.1337229|AlignEnd=14256.5749455|Gloss=X|LTranslit=<p>|Translit=<p>
