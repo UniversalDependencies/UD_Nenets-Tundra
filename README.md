@@ -23,10 +23,13 @@ This treebank is described in detail in Mus et al. (2025), where further informa
 The development of this treebank was supported by two research projects: Autogramm: Induction of Descriptive Grammar from Annotated Corpora (ANR-21-CE38-0017), and ThEA: Theoretical and Experimental Approaches to Dialectal Variation and Contact-Induced Change – A Case Study of Tundra Nenets (NKFIH FK 129235). These projects contributed to both the data collection and the creation of the treebank. In addition, this work was supported by COST Action CA21167 —Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)).
 
 ## References
-Chafe, Wallace L. (ed.) 1980. The pear stories: Cognitive, cultural, and linguistic aspects of narrative production. Advances in Discourse Processes, vol. III. Ablex, Norwood, NJ, USA.
-Guillaume, Bruno. 2021. Graph matching and graph rewriting: GREW tools for corpus exploration, maintenance and conversion. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations, pp. 168–175, Online. Association for Computational Linguistics.
-Guillaume, Bruno, Gerdes, Kim, Guiller, Kirian, Kahane, Sylvain and Li, Yixuan. 2024. Joint annotation of morphology and syntax in dependency treebanks. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp. 9568–9577, Torino, Italia. ELRA and ICCL.
-Mus, Nikolett, Guillaume, Bruno, Kahane, Sylvain and Zeman, Daniel. 2025. Creating a multi-layer Treebank for Tundra Nenets. In Proceedings of the 10th International Workshop on Computational Linguistics for Uralic Languages, pp. 77-86. 2025.
+Chafe, Wallace L. (ed.) 1980. _The pear stories: Cognitive, cultural, and linguistic aspects of narrative production. Advances in Discourse Processes_, vol. III. Ablex, Norwood, NJ, USA.
+
+Guillaume, Bruno. 2021. Graph matching and graph rewriting: GREW tools for corpus exploration, maintenance and conversion. In _Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations_, pp. 168–175, Online. Association for Computational Linguistics.
+
+Guillaume, Bruno, Gerdes, Kim, Guiller, Kirian, Kahane, Sylvain and Li, Yixuan. 2024. Joint annotation of morphology and syntax in dependency treebanks. In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation_ (LREC-COLING 2024), pp. 9568–9577, Torino, Italia. ELRA and ICCL.
+
+Mus, Nikolett, Guillaume, Bruno, Kahane, Sylvain and Zeman, Daniel. 2025. Creating a multi-layer Treebank for Tundra Nenets. In _Proceedings of the 10th International Workshop on Computational Linguistics for Uralic Languages_, pp. 77-86. 2025.
 
 
 # Changelog
