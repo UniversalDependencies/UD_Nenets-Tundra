@@ -16,7 +16,7 @@ The original transcription in Cyrillic script was transliterated into Latin scri
 
 # Acknowledgments
 
-The development of this treebank was supported by two research projects: Autogramm: Induction of Descriptive Grammar from Annotated Corpora (ANR-21-CE38-0017), and ThEA: Theoretical and Experimental Approaches to Dialectal Variation and Contact-Induced Change – A Case Study of Tundra Nenets (NKFIH FK 129235). These projects contributed to both the data collection and the creation of the treebank.
+The development of this treebank was supported by two research projects: Autogramm: Induction of Descriptive Grammar from Annotated Corpora (ANR-21-CE38-0017), and ThEA: Theoretical and Experimental Approaches to Dialectal Variation and Contact-Induced Change – A Case Study of Tundra Nenets (NKFIH FK 129235). These projects contributed to both the data collection and the creation of the treebank. In addition, the work was supported by COST Action CA21167 —Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)).
 
 ## References
 
