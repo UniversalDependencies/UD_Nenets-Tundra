@@ -15,17 +15,17 @@
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="12">
-    <tag name="ADJ">45</tag><!-- пирця, саблюй, маханяӈы, паӈгалмы, сюнраха, няръяна, сятаняӈы, терсиˮ, тоˮолха, ехэра- -->
-    <tag name="ADP">92</tag><!-- серʼ, няʼ, мюʼ, ниʼ, нид, няна, мюд, ниня, няюʼ, тяхад -->
-    <tag name="ADV">146</tag><!-- тамна, таремʼ, ӈаниʼ, ӈобʼ, тадтикахад, тяхаˮ, яда, тяхаʼ, хуриʼ, маханяʼ -->
-    <tag name="AUX">7</tag><!-- ӈa, ни, тара -->
-    <tag name="DET">13</tag><!-- няби, <p>, ханяӈыˮ, ӈаниʼ -->
+    <tag name="ADJ">47</tag><!-- пирця, саблюй, маханяӈы, паӈгалмы, сюнраха, няръяна, сятаняӈы, терсиˮ, тоˮолха, ехэра- -->
+    <tag name="ADP">91</tag><!-- серʼ, няʼ, мюʼ, ниʼ, нид, няна, мюд, ниня, няюʼ, тяхад -->
+    <tag name="ADV">143</tag><!-- тамна, таремʼ, ӈаниʼ, ӈобʼ, тадтикахад, тяхаˮ, яда, тяхаʼ, хуриʼ, маханяʼ -->
+    <tag name="AUX">9</tag><!-- ӈa, ни, тара -->
+    <tag name="DET">11</tag><!-- няби, <p>, ханяӈыˮ, ӈаниʼ -->
     <tag name="INTJ">63</tag><!-- <p>, <n>, <d>, X -->
-    <tag name="NOUN">361</tag><!-- хасава, груша, яха, ӈацекы, тарка, хыдя, си, харад, хэв, марˮ -->
-    <tag name="NUM">23</tag><!-- сидя, ӈопой, ӈобʼ, няхарˮ, няхаромдэй -->
-    <tag name="PRON">19</tag><!-- тикы, ӈамгэ, нянда, _, нер-, та, тюку, харта -->
+    <tag name="NOUN">359</tag><!-- хасава, груша, яха, ӈацекы, тарка, хыдя, си, харад, хэв, марˮ -->
+    <tag name="NUM">22</tag><!-- сидя, ӈопой, ӈобʼ, няхарˮ -->
+    <tag name="PRON">21</tag><!-- тикы, ӈамгэ, няби, нянда, _, нер-, та, тюку, харта -->
     <tag name="PUNCT">211</tag><!-- <p>, <n>, : -->
-    <tag name="VERB">251</tag><!-- яда-, манэˮ-ӈа, нэкал-ӈа, мада, мада-, мэ, маˮламба, ӈохолё, ялъя, имбытата -->
+    <tag name="VERB">254</tag><!-- яда-, манэˮ-ӈа, нэкал-ӈа, маˮламба, мада, мада-, мэ, ӈохолё, ялъя, имбытата -->
     <tag name="X">41</tag><!-- <p>, X, <d> -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -39,32 +39,31 @@
     <feat name="VerbForm" value="Conv" upos="VERB">10</feat><!-- ӈохолё, мада, пыдабтамба -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="26">
-    <dep name="acl">17</dep>
-    <dep name="advcl">37</dep>
-    <dep name="advmod">140</dep>
-    <dep name="amod">24</dep>
+  <deps unique="25">
+    <dep name="acl">18</dep>
+    <dep name="advcl">42</dep>
+    <dep name="advmod">138</dep>
+    <dep name="amod">25</dep>
     <dep name="aux">5</dep>
     <dep name="case">68</dep>
     <dep name="ccomp">8</dep>
-    <dep name="cop">1</dep>
+    <dep name="cop">3</dep>
     <dep name="csubj">1</dep>
-    <dep name="dep">21</dep>
-    <dep name="det">8</dep>
+    <dep name="dep">18</dep>
+    <dep name="det">9</dep>
     <dep name="discourse">105</dep>
     <dep name="mark">6</dep>
-    <dep name="nmod">38</dep>
+    <dep name="nmod">37</dep>
     <dep name="nmod:poss">60</dep>
-    <dep name="nsubj">53</dep>
+    <dep name="nsubj">54</dep>
     <dep name="nsubj:outer">1</dep>
     <dep name="nummod">18</dep>
-    <dep name="obj">80</dep>
-    <dep name="obl:mod">129</dep>
-    <dep name="parataxis">50</dep>
+    <dep name="obj">79</dep>
+    <dep name="obl:mod">127</dep>
+    <dep name="parataxis">49</dep>
     <dep name="punct">211</dep>
     <dep name="reparandum">19</dep>
     <dep name="root">170</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">1</dep>
   </deps>
 </treebank>
