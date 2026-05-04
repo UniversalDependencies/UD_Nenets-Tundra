@@ -52,7 +52,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Bona, Morgane; Guillaume, Bruno; Kahane, Sylvain; Miletic, Aleksandra; Mus, Nikolett; Zeman, Daniel
+Contributors: Bona, Morgane; Guillaume, Bruno; Kahane, Sylvain; Miletić, Aleksandra; Mus, Nikolett; Zeman, Daniel
 Contributing: here
 Contact: mus.nikolett@gmail.com
 ===============================================================================
