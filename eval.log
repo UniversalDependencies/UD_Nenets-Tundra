@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Nenets-Tundra:
-commit 16557132e1b8f89f3ff0e30781d220ebadbaeee8
-Merge: e522742 822562f
+commit 8a680f89ced1fec4510122ffaab5697e31a6e0b3
+Merge: cd13f1a e40e2e5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'yrk_tundra'
@@ -21,21 +21,21 @@ Universal POS tags: 12 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
 Features: 63 out of 1272 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
-Universal relations: 24 out of 37 found in the corpus.
+Universal relations: 23 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang yrk --max-err=10 UD_Nenets-Tundra/yrk_tundra-ud-test.conllu
-[Line 114 Sent yrk_s_MapTask_001_7]: [L3 Warning pron-det-without-prontype] The word 'тикыʼ ťikiʔ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 159 Sent yrk_s_MapTask_001_9]: [L3 Warning pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 296 Sent yrk_s_MapTask_001_17]: [L3 Warning pron-det-without-prontype] The word 'ӈавоʼ ŋawoʔ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 347 Sent yrk_s_MapTask_001_20]: [L3 Warning pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 406 Sent yrk_s_MapTask_001_23]: [L3 Warning pron-det-without-prontype] The word 'ӈани ŋańi' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 543 Sent yrk_s_MapTask_002_7]: [L3 Warning pron-det-without-prontype] The word 'нерниʼ ńerńiʔ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 676 Sent yrk_s_MapTask_002_15]: [L3 Warning pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 759 Sent yrk_s_MapTask_002_20]: [L3 Warning pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 877 Sent yrk_s_MapTask_002_26]: [L3 Warning pron-det-without-prontype] The word 'нябиʼ ńab́iʔ' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 1334 Sent yrk_s_MapTask_004_7]: [L3 Warning pron-det-without-prontype] The word '<p> <p>' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
+[Line 113 Sent yrk_s_MapTask_001_7]: [L3 WARNING pron-det-without-prontype] The word 'тикыʼ ťikiʔ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 158 Sent yrk_s_MapTask_001_9]: [L3 WARNING pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 295 Sent yrk_s_MapTask_001_17]: [L3 WARNING pron-det-without-prontype] The word 'ӈавоʼ ŋawoʔ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 346 Sent yrk_s_MapTask_001_20]: [L3 WARNING pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 405 Sent yrk_s_MapTask_001_23]: [L3 WARNING pron-det-without-prontype] The word 'ӈани ŋańi' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 542 Sent yrk_s_MapTask_002_7]: [L3 WARNING pron-det-without-prontype] The word 'нерниʼ ńerńiʔ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 675 Sent yrk_s_MapTask_002_15]: [L3 WARNING pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 758 Sent yrk_s_MapTask_002_20]: [L3 WARNING pron-det-without-prontype] The word 'няби ńab́i' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 876 Sent yrk_s_MapTask_002_26]: [L3 WARNING pron-det-without-prontype] The word 'нябиʼ ńab́iʔ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1333 Sent yrk_s_MapTask_004_7]: [L3 WARNING pron-det-without-prontype] The word '<p> <p>' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
 Warnings: 23
 *** PASSED ***
 Validity: 1
@@ -45,7 +45,7 @@ Validity: 1
 (weight=0.37037037037037) * (score{size}=0.0348290371041317) = 0.0128996433719006
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.705882352941177) = 0.0784313725490196
-(weight=0.111111111111111) * (score{udeprels}=0.648648648648649) = 0.0720720720720721
-(TOTAL score=0.31476111268435) * (availability=1) * (validity=1) = 0.31476111268435
+(weight=0.111111111111111) * (score{udeprels}=0.621621621621622) = 0.0690690690690691
+(TOTAL score=0.311758109681347) * (availability=1) * (validity=1) = 0.311758109681347
 STARS = 1.5
-UD_Nenets-Tundra	0.31476111268435	1.5
+UD_Nenets-Tundra	0.311758109681347	1.5
